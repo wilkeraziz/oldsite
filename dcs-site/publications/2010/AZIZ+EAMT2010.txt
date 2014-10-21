@@ -1,0 +1,9 @@
+@inproceedings{aziz+2010:oov,
+	author = {Wilker Aziz and Marc Dymetman and Shachar Mirkin and Lucia Specia and Nicola Cancedda and Ido Dagan},
+	title = {Learning an Expert from Human Annotations in Statistical Machine Translation: the Case of Out-of-Vocabulary Words},
+	booktitle = {14th Annual Conference of the European Association for Machine Translation},
+	year = {2010},
+	series = {EAMT '10},
+	pages = {28--35},
+	location = {Saint-Raphael, France},
+}

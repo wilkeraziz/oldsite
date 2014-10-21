@@ -1,0 +1,144 @@
+<html>
+
+	<header>
+		<title>PET</title>
+		<STYLE type="text/css">
+			a.textlink:link {color: #101010;}
+			a.textlink:visited {color: #303030;}
+			span.year {color: red;}
+			span.news {color: red;}
+			span.newsplus {color: red; BACKGROUND-COLOR: yellow; font-weight:bold;}
+			span.subsec {color: SteelBlue;}
+			a.topic {color: black;}
+			span.me {color: black; font-size: 150%; font-weight: bold;}
+			div.textbody {text-indent: 50px;}
+		</STYLE>
+		
+		<script type="text/javascript">
+			function getLogo()
+			{
+				var n = Math.floor( Math.random()*6 + 1)
+				var logo = document.getElementById("logo");
+				logo.innerHTML = '<img SRC="logo/' + n + '.png" width="200" align=CENTER>';
+			}
+		</script>
+
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33043323-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	</header>
+
+	<body style="display:block; width:530px; " onload="getLogo()">
+
+
+
+		
+
+		<div class="serif" style="display:block; width:530px; text-align:center; border-style:inset; border-width:1px; background-color: #C0C0C0; font-weight:bold; font-size:150%">PET: Post-Editing Tool</div><br/>
+
+
+		<table>
+		<tr>
+			<td><div name="logo" id="logo"></div> <!--<img SRC="logo-3.png" width="200" align=CENTER> --></td>
+			<td>
+				PET is a stand-alone, open-source (under LGPL) tool written in Java that should help you post-edit and assess machine or human translations while gathering detailed statistics about post-editing time amongst other effort indicators.
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+
+			Tool, documentation and examples: 
+			<ul>
+				<li><a href="../resources/pet/PET-v2.0.tgz">v2.0</a></li>
+				<!--<li><a href="http://www.clg.wlv.ac.uk/projects/PET/download.html">Older releases</a></li>-->
+				
+			</ul>
+			<a href="https://github.com/wilkeraziz/PET">Source code on github</a><br/>
+			<a href="docs.html">Documentation</a>	
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+
+			</td>
+		</tr>
+		</table>
+
+
+<p><b><a name="more" id="more" class="topic">LEARN MORE</a></b>
+
+<p>If you are interested in evaluating translations through post-editing,
+this is an easy and cheap solution: you only need to provide source
+and translation segments (from one or multiple MT systems - it does
+not depend on any MT system) to set an experiment. Translators then
+post-edit the translations, while implicit quality indicators such as
+post-editing time, keystrokes, edit operations, edit distance and
+possibly others are stored for each segment. Explicit quality
+assessments can also be collected. Monolingual and bilingual
+dictionaries can also be provided.
+
+<p>The tool also works for monolingual revision, can show reference
+translations, can render html for special markups, and allows
+establishing constraints for jobs on a per segment basis (for example,
+the maximum time or length for a given post-edited segment).
+
+<p>Our plan is to maintain and further develop the tool, so if you have
+any comments/suggestions on how to improve it or ideas for interesting
+experiments, let us know!
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:w.aziz@wlv.ac.uk">Wilker Aziz</a> (University of Wolverhampton)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:l.specia@sheffield.ac.uk">Lucia Specia</a> (University of Sheffield)<br/>
+
+
+
+
+		<!--<font color="red">IMPORTANT: we have just presented our tool at LREC and EAMT.  <br/>
+		Some unforeseen issues will keep me off the office for extra 2 weeks, besides that, we are still sorting out the mechanism for downloading the tool and an online repository for the code.<br/>
+		I'll upload here the tool as soon as I am back to work (June 20th), the code and additional documentation will come after that. <br/>
+		If you are interested in downloading the tool and/or code I request you to kindly wait a few more weeks.<br/>
+		Wilker.<br/>
+		</font> -->
+
+
+		<!--<p>PET: a Post-Editing Tool
+		<br/>
+		<a href="README.html">Latest version</a>-->
+
+		<p>
+			
+
+		<p><b><a name="publications" id="publications" class="topic">PUBLICATIONS</a></b>
+			<p>Aziz, W.; Sousa, S. C. M.; Specia, L. (2012). 
+			PET: a tool for post-editing and assessing machine translation.
+			In The Eighth International Conference on Language Resources and Evaluation, LREC&prime;12, Istanbul, Turkey. May 2012.
+			(<a href="../publications/2012/AZIZ+LREC2012.pdf">pdf</a>,<a href="../publications/2012/AZIZ+LREC2012.txt">bibtex</a>)
+
+		<p><b><a name="shots" id="shots" class="topic">SCREENSHOTS</a></b>
+		<p>
+		<img SRC="shots/1.png" width="600" align=CENTER><p>
+		<img SRC="shots/2.png" width="600" align=CENTER><p>
+		<img SRC="shots/3.png" width="600" align=CENTER><p>
+		<img SRC="shots/4.png" width="600" align=CENTER><p>
+		<img SRC="shots/5.png" width="600" align=CENTER>
+		
+
+	</body>
+
+</html>

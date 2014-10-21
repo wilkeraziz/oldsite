@@ -1,0 +1,123 @@
+<html>
+	<head>
+		<title>PET::Download</title>
+		<script src="jquery-1.7.2.js"></script>
+		<script language="JavaScript">
+			var licenses;
+			function validateForm()
+			{
+
+				var fields = ["Name", "Organization", "Address"];
+				for (i in fields){
+					var field = fields[i];
+					var value = document.getElementById(field.toLowerCase()).value;
+					if (value == null || value.trim() == ""){
+						alert(field + " is mandatory!");
+						return false;
+					}
+				}
+				var email = document.forms["register"]["email"].value;
+				var atpos = email.indexOf("@");
+				var dotpos = email.lastIndexOf(".");
+				if ( atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= email.length){
+					alert("Not a valid e-mail address");
+					return false;
+				}
+			}
+
+			function getNewXMLHttpRequest() {
+				var obj;
+				try {
+					// For Internet Explorer.
+					obj = new ActiveXObject('Microsoft.XMLHTTP');
+				}
+				catch(e) {
+					try {
+						// Gecko-based browsers, Safari, and Opera.
+						obj = new XMLHttpRequest();
+					}
+					catch (e) {
+						// Browser supports Javascript but not XMLHttpRequest.
+						obj = null;
+					}
+				}
+				return obj;
+			}
+
+			function getVersions()
+			{
+				var jqxhr = $.ajax( "queryVersions.php" )
+				    .done(function() { 
+						var JSONtext = jqxhr.responseText;
+						var JSONobject = jQuery.parseJSON(JSONtext); //JSON.parse(JSONtext);
+						var newest = JSONobject.newest;
+						licenses = JSONobject.license;
+						$("#version").append(JSONobject.options);
+						$("#license").append(licenses[newest]);
+					})
+				    .fail(function() { alert("Error"); 
+					});
+			}
+
+			function getLicense(version)
+			{
+				document.getElementById("license").innerHTML = licenses[version];
+			}
+
+		</script>
+
+		<style type="text/css">
+		div.serif{font-family:"Courier new",Times,serif;}
+		div.sansserif{font-family:Arial,Helvetica,sans-serif;}
+		</style>
+
+	</head>
+	<body onload="javascript: getVersions()">
+
+		<span id="licenses" name="licenses"></span>
+
+		<div class="serif" style="display:block; width:530px; text-align:center; border-style:inset; border-width:1px; background-color: #C0C0C0; font-weight:bold; font-size:150%">PET: Post-Editing Tool</div><br/>
+		<div id="license" name="license" class="serif" style="display:block; width:530px; text-align:justify; border-style:dotted; border-width:1px; background-color: #C0C0C0;">
+		</div>
+		<br/>
+
+		
+		<form name="register" action="register.php" method="post" onsubmit="return validateForm()">
+			<TABLE width="530"> 
+			<TR> 
+			<TD><font color="blue">Version:</font></TD> <TD>
+			<div id="selectBox" name="selectBox">
+				<select id="version" name="version" onchange="getLicense(this.value)">
+				</select>
+			</div>
+			</TD>
+			</TR>
+			<TR> 
+			<TD> <font color="blue">Name:</font> </TD> <TD> <INPUT TYPE="text" ID="name" NAME="name" SIZE=50> </TD>
+			<TR> 
+			<TD> <font color="blue">Affiliation:</font> </TD> <TD> <INPUT TYPE="text" ID="organization" NAME="organization" SIZE=50> </TD>
+			<TR> 
+			<TR> 
+			<TD> <font color="blue">Type:</font></TD> <TD>
+			<SELECT ID="orgtype" NAME="orgtype"> 
+				<OPTION VALUE="Academia" SELECTED>Academia
+				<OPTION VALUE="Industry">Industry
+			</SELECT></TD>
+			</TR>
+			<TR><TD> <font color="blue">Address:</font> </TD> <TD><TEXTAREA ID="address" NAME="address" ROWS=3 COLS=50></TEXTAREA> </TD>
+			<TR> 
+			<TD> <font color="blue">Email:</font> </TD> <TD><INPUT TYPE="text" NAME="email" SIZE=40> </TD>
+			<TR> 
+			<TD> Web site: </TD> <TD><INPUT TYPE="text" ID="site" NAME="site" SIZE=40> </TD>
+			<TR><TD> Tell us about your intended use of the tool: </TD> <TD><TEXTAREA ID="use" NAME="use" ROWS=5 COLS=50></TEXTAREA> </TD>
+			<TR>
+			<TD><input type="checkbox" id="news" name="news" value="1" checked="1" /> </TD> <TD>I wish to receive information about new versions</TD>
+			</TR>
+			<TR>
+			<TD/><TD align="center"><input type="submit" value="Accept the License and download"/><input type="hidden" name="pp" value="5"/></TD>
+			</TR>
+			<TR>
+			<TD/><TD>The only use we will make of your address information is as a record of the licensing and to inform you of software updates. <br/>It will not be passed on to third parties. </TD>
+		</form>
+	</body>
+</html>

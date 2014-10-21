@@ -1,0 +1,9 @@
+@INPROCEEDINGS{specia+2011:adequacy,
+    AUTHOR={Lucia Specia and Najeh Hajlaoui and Catalina Hallett and Wilker Aziz},
+    TITLE={Predicting Machine Translation Adequacy},
+    booktitle = {Proceedings of the 13th Machine Translation Summit},
+    address={Xiamen, China},
+    month={September},
+    year={2011},
+    pages={513--520}
+} 

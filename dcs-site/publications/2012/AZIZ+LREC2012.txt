@@ -1,0 +1,11 @@
+@InProceedings{aziz+2012:pet,
+  author = {Wilker Aziz and Sheila Castilho Monteiro de Sousa and Lucia Specia},
+  title = {{PET}: a Tool for Post-editing and Assessing Machine Translation},
+  booktitle = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
+  year = {2012},
+  month = {may},
+  date = {23-25},
+  address = {Istanbul, Turkey},
+  publisher = {European Language Resources Association (ELRA)},
+  isbn = {978-2-9517408-7-7}
+ }

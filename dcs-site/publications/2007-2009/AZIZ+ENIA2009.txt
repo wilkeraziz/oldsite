@@ -1,0 +1,11 @@
+@inproceedings{aziz+2009:PBSMT,
+  author = {Wilker Aziz and Thiago Pardo and Ivandr\'e Paraboni},
+  title = {Statistical Phrase-based Machine Translation: Experiments with Brazilian Portuguese},
+  booktitle = {XXIX CSBC VII Encontro Nacional de Inteligência Artificial},
+  series = {ENIA '09},
+  month = {July},
+  pages = {769--778},
+  year = {2009},
+  location = {Bento Gon\c{c}alves, Brazil},
+  publisher = {Springer-Verlag}
+}

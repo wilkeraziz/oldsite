@@ -1,0 +1,10 @@
+@INPROCEEDINGS{aziz+2012:subs,
+	author={Wilker Aziz and Sheila Castilho Monteiro de Sousa and Lucia Specia},
+	title={Cross-lingual Sentence Compression for Subtitles},
+	series = {EAMT '12},
+	booktitle={The 16th Annual Conference of the European Association for Machine Translation},
+	address={Trento, Italy},
+	pages = {103--110},
+	month={May},
+	year={2012}
+} 

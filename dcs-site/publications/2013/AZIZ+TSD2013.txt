@@ -1,0 +1,16 @@
+@InProceedings{Aziz+2013:TSD,
+  author    = {Aziz, Wilker and Mitkov, Ruslan and  Specia, Lucia},
+  title     = {Ranking Machine Translation Systems via Post-Editing},
+  booktitle = {In Proceedings of Text, Speech and Dialogue (TSD)},
+  series = {Lecture Notes in Computer Science},
+  volume = {8082},
+  day = {1-5},
+  month     = {September},
+  year      = {2013},
+  address   = {Pilsen, Czech Republic},
+  publisher = {Springer Berlin Heidelberg},
+  pages     = {410--418},
+  url       = {http://link.springer.com/chapter/10.1007/978-3-642-40585-3_52},
+  doi = {10.1007/978-3-642-40585-3_52}
+}
+

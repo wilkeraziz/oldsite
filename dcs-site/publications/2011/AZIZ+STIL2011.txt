@@ -1,0 +1,9 @@
+@INPROCEEDINGS{aziz+2011:newfapesp,
+    AUTHOR={Wilker Aziz and Lucia Specia},
+    TITLE={Fully Automatic Compilation of a {Portuguese-English} Parallel Corpus for Statistical Machine Translation},
+    BOOKTITLE={Proceedings of the 8th Brazilian Symposium in Information and Human Language Technology},
+    ADDRESS={Cuiab\'a, MT},
+    DAYS={24-26},
+    MONTH={Obtober},
+    YEAR={2011},
+} 

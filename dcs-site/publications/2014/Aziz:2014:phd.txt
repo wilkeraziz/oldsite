@@ -1,0 +1,7 @@
+@PHDTHESIS{Aziz:2014:phd,
+  author = {Wilker Ferreira Aziz},
+  title = {Exact Sampling and Optimisation in Statistical Machine Translation},
+  school = {University of Wolverhampton},
+  year = {2014}
+}
+

@@ -1,0 +1,9 @@
+@inproceedings{aziz+2008:fapesp,
+  author = {Wilker Aziz and Thiago Pardo and Ivandr\'e Paraboni},
+  title = {Building a Spanish-Portuguese Parallel Corpus for Statistical Machine Translation},
+  booktitle = {VI Workshop on Information and Human Language Technology},
+  series = {TIL '08},
+  month = {October},
+  year = {2008},
+  location = {Vila Velha, Brazil},
+}

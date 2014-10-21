@@ -1,0 +1,164 @@
+
+<!-- saved from url=(0059)http://dl.dropbox.com/u/49398679/fapesp-corpora/README.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=US-ASCII"></head><body><header>
+	<title>FAPESP Corpora - README</title>
+</header>
+
+
+<h1>
+REVISTA PESQUISA FAPESP PARALLEL CORPORA
+</h1>
+
+<p>
+Last update: January 30th, 2012
+</p>
+
+<h1>
+Content
+</h1>
+
+<p>
+These corpora are the Portuguese-English and Portuguese-Spanish bilingual collections of the online issue of the scientific news Brazilian magazine 
+<a href="http://revistapesquisa.fapesp.br/">
+REVISTA PESQUISA FAPESP
+</a>
+.
+<br>
+The monolingual collections are also available.
+<br>
+The monolingual files pt.xml, en.xml and es.xml contain details about the articles, such as date of release and title.
+</p>
+
+<p>
+A file name is composed by
+</p>
+
+<pre>
+<code>
+&lt;issue&gt;_&lt;article&gt;
+
+</code>
+
+</pre>
+
+<p>
+where the parts refer, respectively, to the attribute "file" in the XML entry 
+<strong>
+issue
+</strong>
+ and to the attribute "file" in the XML entry 
+<strong>
+article
+</strong>
+.
+</p>
+
+<p>
+Example:
+</p>
+
+<pre>
+<code>
+For the file pt/data/961_4604
+we find in pt.xml
+&lt;issue articles="22" file="961" month="1" number="191" year="2012"&gt;
+    ...
+    &lt;article file="4604"&gt;
+        &lt;title&gt;Corpo, jogo e teoria&lt;/title&gt;
+        ...
+    &lt;/article&gt;
+    ...
+&lt;/issue&gt;
+
+</code>
+
+</pre>
+
+<p>
+The context of the texts in the bilingual collections may not match exactly the content of the texts in the monolingual one as the sentence-aligned data is made of 1-1 correspondences.
+</p>
+
+<h2>
+Release
+</h2>
+
+<a href="http://www.adrive.com/public/KvjWkZ/fapesp">Fapesp-v2 (jan/2012)</a><br/>
+<ul>
+	<li> Monolingual files (pt, en, es)</li>
+	<li> Bitexts (pt-en, pt-es)</li>
+	<li> TMX files</li>
+</ul>
+<p><a href="http://www.adrive.com/public/KvjWkZ/papers/stil2011data.tgz">Pre-processed data, word-alignment, language-model, phrase-tables and reordering models (Aziz and Specia, 2011)</a><br/>
+
+
+
+<h1>
+Citing
+</h1>
+
+<p>
+When using these data please cite <a href="publications/2011/AZIZ+STIL2011.pdf">Aziz and Specia (2011)</a> and add a link to the magazine's webpage.
+</p>
+
+<pre>
+<code>
+
+<a href="http://revistapesquisa.fapesp.br/">
+http://revistapesquisa.fapesp.br
+</a>
+
+@INPROCEEDINGS{aziz:2011:newfapesp,
+AUTHOR={Wilker Aziz and Lucia Specia},
+TITLE={Fully Automatic Compilation of a {Portuguese-English} Parallel Corpus for Statistical Machine Translation},
+BOOKTITLE={STIL 2011},
+ADDRESS={Cuiab\'a, MT},
+DAYS={24-26},
+MONTH={Obtober},
+YEAR={2011},
+} 
+
+</code>
+
+</pre>
+
+<h1>
+Documentation
+</h1>
+
+<p>
+Please address to the paper <a href="publications/2011/AZIZ+STIL2011.pdf">(Aziz and Specia, 2011)</a>. 
+<br>
+For additional information email 
+<a href="mailto:will.aziz@gmail.com">
+Wilker Aziz
+</a>
+.
+</p>
+
+<h1>
+Format
+</h1>
+
+<p>
+The data is sentence-aligned (alignment is given by the line number).
+<br>
+Under bitexts you will find the document pairs (one document per file).
+<br>
+You will also find the data split into different sets (training, development and test) as used in (Aziz and Specia, 2011).
+</p>
+
+<h1>
+License
+</h1>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">FAPESP Parallel Corpora</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://pers-www.wlv.ac.uk/~in1676" property="cc:attributionName" rel="cc:attributionURL">Wilker Aziz</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://revistapesquisa.fapesp.br/" rel="cc:morePermissions">http://revistapesquisa.fapesp.br/</a>.
+
+<p>
+You may distribute and use these data for non-commercial purposes, such as academic reasearch, but any commercial use of the corpus must be agreed with REVISTA PESQUISA FAPESP.
+</p>
+
+
+
+
+</body></html>

@@ -1,0 +1,11 @@
+@InProceedings{koponen+12:petime,
+  author =       {Maarit Koponen, Wilker Aziz, Luciana Ramos and Lucia Specia},
+  title =        {{Post-editing time as a measure of cognitive effort }},
+  booktitle =    {AMTA 2012 Workshop on Post-Editing Technology and Practice (WPTP 2012)},
+  pages =        {11--20},
+  year =         2012,
+  address =      {San Diego, USA},
+  month =        {October},
+  organization = {Association for Machine Translation in the Americas (AMTA)},
+}
+

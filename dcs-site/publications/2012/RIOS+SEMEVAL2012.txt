@@ -1,0 +1,11 @@
+@InProceedings{Rios+2012:semeval,
+  author    = {Miguel  Rios and  Wilker  Aziz and  Lucia Specia},
+  title     = {{UOW}: Semantically Informed Text Similarity},
+  booktitle = {{*SEM 2012}: The First Joint Conference on Lexical and Computational Semantics -- Volume 1: Proceedings of the main conference and the shared task, and Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation {(SemEval 2012)}},
+  month     = {7-8 June},
+  year      = {2012},
+  address   = {Montr\'{e}al, Canada},
+  publisher = {Association for Computational Linguistics},
+  pages     = {673--678},
+  url       = {http://www.aclweb.org/anthology/S12-1100}
+}

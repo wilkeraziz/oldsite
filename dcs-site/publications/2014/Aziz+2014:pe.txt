@@ -1,0 +1,13 @@
+@INCOLLECTION{Aziz+2014:pe,
+  author = {Wilker Aziz and Maarit Koponen and Lucia Specia},
+  title = {Sub-sentence Level Analysis of Machine Translation Post-editing Effort},
+  booktitle = {Post-editing of Machine Translation: Processes and Applications},
+  publisher = {Cambridge Scholars Publishing},
+  year = {2014},
+  editor = {Sharon O'Brien and Laura Winther Balling and Michael Carl and Michel
+	Simard and Lucia Specia},
+  chapter = {8},
+  owner = {waziz},
+  timestamp = {2013.12.19}
+}
+

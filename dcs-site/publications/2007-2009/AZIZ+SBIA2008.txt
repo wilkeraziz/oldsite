@@ -1,0 +1,11 @@
+@inproceedings{aziz+2008:ptes,
+  author = {Wilker Aziz and Thiago Pardo and Ivandr\'e Paraboni},
+  title = {An Experiment in Portuguese-Spanish Statistical Machine Translation},
+  booktitle = {19th Brazilian Symposium on Artificial Intelligence},
+  series = {SBIA '08},
+  month = {October},
+  pages = {248--257},
+  year = {2008},
+  location = {Salvador, Brazil},
+  publisher = {Springer-Verlag}
+}

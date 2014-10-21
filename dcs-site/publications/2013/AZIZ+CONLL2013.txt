@@ -1,0 +1,12 @@
+@InProceedings{Aziz+2013:CoNLL,
+  author    = {Aziz, Wilker  and  Specia, Lucia},
+  title     = {Multilingual WSD-like Constraints for Paraphrase Extraction},
+  booktitle = {Proceedings of the Seventeenth Conference on Computational Natural Language Learning},
+  month     = {August},
+  year      = {2013},
+  address   = {Sofia, Bulgaria},
+  publisher = {Association for Computational Linguistics},
+  pages     = {202--211},
+  url       = {http://www.aclweb.org/anthology/W13-3522}
+}
+

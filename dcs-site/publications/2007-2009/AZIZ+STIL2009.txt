@@ -1,0 +1,10 @@
+@inproceedings{aziz+2009:PBSMT,
+  author = {Wilker Aziz and Thiago Pardo and Ivandr\'e Paraboni},
+  title = {Fine-tuning in Portuguese-English SMT},
+  booktitle = {7th Brazilian Symposium in Information and Human Language Technology},
+  series = {STIL '09},
+  month = {September},
+  year = {2009},
+  location = {S\~ao Carlos, Brazil},
+}
+
