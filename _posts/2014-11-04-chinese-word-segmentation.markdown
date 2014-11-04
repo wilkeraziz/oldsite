@@ -2,7 +2,7 @@
 layout: post
 title:  "Chinese word segmentation"
 date:   2014-11-04
-categories: jekyll update
+categories: work
 ---
 
 Benchmarking the effect of different Chinese word segmentation strategies on SMT performance (in terms of BLEU).
@@ -56,7 +56,7 @@ jieba     | 30s          | 14,220
 jieba-all | 15s          | 28,441
 
 
-Parallelising ``jieba`` with ``multiprocessing.Pool`` in ``python`` is stupid simple.
+Besides, parallelising ``jieba`` with ``multiprocessing.Pool`` in ``python`` is stupid simple and it will get *TED training2014* segmented in less than 5 seconds using the more accurate model.
 
 {% highlight python %}
 import jieba
