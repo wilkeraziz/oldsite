@@ -8,6 +8,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wilkeraziz.github.io/dcs-site/index.html" # the base hostname & protocol for your site
 twitter_username: wilkeraziz
 github_username:  wilkeraziz
+paginate: 4
+
+# current department
+current_department: DCS
+departamental_page: http://wilkeraziz.github.io/dcs-site
 
 # useful links
 google_scholar_url: http://scholar.google.co.uk/citations?user=phgBJXYAAAAJ&hl=en
