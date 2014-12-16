@@ -1,15 +1,18 @@
 <footer class="site-footer">
 
   <div class="wrapper">
+<!--            <a href="{{ site.departamental_page }}">
+                <img src="image/UoS.ico" alt="DCS"> {{ site.current_department }}
+            </a>-->
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+            <!--<li>{{ site.title }}</li>-->
+            <li><a href="mailto:{{ site.current_dpt_email }}">{{ site.current_dpt_email }}</a></li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><a href="{{ site.departamental_page }}">{{ site.current_department }}</a></li>
         </ul>
       </div>
 
@@ -48,7 +51,9 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
+          <p class="text">
+          <a href="{{ site.departamental_page }}">Here</a> you will find details about my work.
+          </p>
       </div>
     </div>
 

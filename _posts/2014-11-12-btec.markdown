@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "BTEC"
+date:   2014-11-12
+categories: work
+---
+
+Benchmarking Chinese-English hierarchical translation on turism and travel domain (BTEC data).
+
+## Data
+
+Chinese-English corpus of turism and travel domain (BTEC). Chinese side segmented using CTB segmentation style (see [Stanford word segmenter](http://nlp.stanford.edu/software/segmenter.shtml))
+
+* training: 44k sentences from the BTEC corpus
+* tuning: dev1 + dev2
+* test: dev3
+* cross-validation: dev1 + dev2 + dev3 (3 fold?)
+
+## Model
+
+Target model (P):
+
+* standard hiero 
+* 4-gram LM (target side of training data only)
+
+Proxy model (Q):
+
+* standard hiero
+* stateless 4-gram LM (target side of training data only)
+
+## Comparison
+
+
+Alg       | Model    | test     | xval     
+:---------|----------|---------:|---------:
+Minrisk   | P        | 0.5800   |    
+MIRA      | P        | 0.5766   |   
+Minrisk   | Q        | 0.4374   |  
+MIRA      | Q        | 0.4361   | 
+
+
+

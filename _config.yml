@@ -13,6 +13,7 @@ paginate: 4
 # current department
 current_department: DCS
 departamental_page: http://wilkeraziz.github.io/dcs-site
+current_dpt_email: w.aziz@sheffield.ac.uk
 
 # useful links
 google_scholar_url: http://scholar.google.co.uk/citations?user=phgBJXYAAAAJ&hl=en
