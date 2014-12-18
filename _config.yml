@@ -10,6 +10,9 @@ twitter_username: wilkeraziz
 github_username:  wilkeraziz
 paginate: 4
 
+# CV
+cv: "dcs-site/cv.pdf"
+
 # current department
 current_department: DCS
 departamental_page: http://wilkeraziz.github.io/dcs-site
