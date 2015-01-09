@@ -11,7 +11,7 @@ github_username:  wilkeraziz
 paginate: 4
 
 # CV
-cv: "dcs-site/cv.pdf"
+cv: "cv/cv.pdf"
 
 # current department
 current_department: ILLC

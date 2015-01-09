@@ -1,0 +1,71 @@
+\documentclass[10pt,a4paper,oneside]{article}
+\pagestyle{empty}
+\usepackage{url}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage{acronym}
+\usepackage{multirow}
+\usepackage{pbox}
+\usepackage[top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm]{geometry}
+\usepackage{titlesec}
+\usepackage{bibtopic}
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+
+\renewcommand{\rmdefault}{ptm}
+\setlength{\parindent}{0cm}
+
+
+\usepackage{xspace}
+
+\newcommand{\myname}{WILKER FERREIRA AZIZ\xspace}
+\newcommand{\birthday}{13/11/1985\xspace}
+\newcommand{\location}{S\~ao Paulo, SP -- Brazil\xspace}
+\newcommand{\citizenships}{Brazilian\xspace}
+\newcommand{\contact}{Institute for Logic, Language and Computation \\
+University of Amsterdam \\
+Science Park 107, F2.11 \\
+Netherlands  \\
+Tel: +44 (0) 7432134709 \\
+\url{w.aziz@uva.nl} \\
+\url{http://wilkeraziz.github.io} 
+}
+% \specialcell[t]{Lucia Specia (University of Sheffield) \\ Ruslan Mitkov (University of Wolverhampton)} 
+\newcommand{\specialcell}[2][c]{%
+  \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+\begin{document}
+
+
+\bibliographystyle{phcpc}
+
+
+
+\begin{center}
+{\large \bf
+\myname \\
+}
+{\small
+\today \\
+}
+\end{center}
+
+%\vspace{2mm}
+Birth: \birthday -- \location \\
+Citizenships: \citizenships \\
+\vspace{2mm}
+\begin{description}
+	\item[Contact:] \contact
+\end{description}
+
+\input{education}
+
+\input{employment}
+
+\input{research}
+
+\input{talks}
+
+\input{publications}
+
+\end{document}
