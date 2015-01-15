@@ -42,7 +42,7 @@ papers:
         img: emnlp2014
         title: Exact Decoding for Phrase-Based Statistical Machine Translation
         authors: Wilker Aziz, Marc Dymetman and Lucia Specia
-        booktitle: Proceedings of EMNLP
+        booktitle: Proceedings of the 2014 Conference on Empirical Methods on Natural Language Processing
         doc-url: http://www.aclweb.org/anthology/D/D14/D14-1131.pdf
         booktitle-url: http://emnlp2014.org
         #code: https://github.com/wilkeraziz/chisel
@@ -80,7 +80,7 @@ papers:
         img: wmt2013
         title: Investigations in Exact Inference for Hierarchical Translation
         authors: Wilker Aziz, Marc Dymetman and Sriram Venkatapathy
-        booktitle: Proceedings of the WMT
+        booktitle: Proceedings of the 8th Workshop on Statistical Machine Translation
         doc-url: http://www.aclweb.org/anthology/W/W13/W13-2260.pdf
         booktitle-url: http://www.statmt.org/wmt13/
         #code: https://github.com/wilkeraziz/chisel
@@ -131,4 +131,56 @@ papers:
               publisher = {Association for Computational Linguistics},
               pages     = {202--211},
               url       = {http://www.aclweb.org/anthology/W13-3522}
+            }
+    -
+        layout: paper
+        paper-type: inproceedings
+        selected: y
+        year: 2011
+        img: mtsummit2011
+        title: Predicting Machine Translation Adequacy
+        authors: Lucia Specia, Najeh Hajlaoui, Catalina Hallett and Wilker Aziz
+        booktitle: Proceedings of the 13th Machine Translation Summit
+        doc-url: http://www.mt-archive.info/MTS-2011-Specia.pdf 
+        booktitle-url: http://www.mt-archive.info/MTS-2011-TOC.htm
+        venue: conference
+        abstract: > 
+            As Machine Translation (MT) becomes more popular among end-users, an increasingly relevant issue is that of estimating the quality of automatic translations for a particular task. The main application for such quality estimates has been selecting good enough translations for human post-editing. The end-users, in this case, are fluent speakers of both source and target languages and the quality estimates reflect post-editing effort, for example, the time to post-edit a sentence. This paper focuses on quality estimation to address the challenging problem of making MT more reliable to a different type of end-user: those who cannot read the source language. We propose a number of indicators contrasting the source and translation texts to predict the adequacy of such translations at the sentence-level. Experiments with Arabic-English MT show that these indicators can yield improvements over previous work using general quality indicators based on source complexity and target fluency.
+        bibtex: >
+            @INPROCEEDINGS{specia+2011:adequacy,
+                AUTHOR={Lucia Specia and Najeh Hajlaoui and Catalina Hallett and Wilker Aziz},
+                TITLE={Predicting Machine Translation Adequacy},
+                booktitle = {Proceedings of the 13th Machine Translation Summit},
+                address={Xiamen, China},
+                month={September},
+                year={2011},
+                pages={513--520}
+            } 
+    -
+        layout: paper
+        paper-type: inproceedings
+        selected: y
+        year: 2010
+        img: eamt2010
+        title: Learning an Expert from Human Annotations in Statistical Machine Translation&#58; the Case of Out-of-Vocabulary Words
+        authors: Wilker Aziz, Marc Dymetman, Lucia Specia and Shachar Mirkin 
+        booktitle: Proceedings of the 14th Annual Conference of the European Association for Machine Translation
+        doc-url: http://www.mt-archive.info/EAMT-2010-Aziz.pdf
+        booktitle-url: http://www.mt-archive.info/EAMT-2010-TOC.htm
+        venue: conference
+        slides: http://www.mt-archive.info/EAMT-2010-Aziz-ppt.pdf
+        abstract: >
+            We present a general method for incorporating an "expert" model into a Statistical Machine Translation (SMT) system, in order to improve its performance on a particular "area of expertise", and apply this method to the specific task of finding adequate replacements for Out-of-Vocabulary (OOV) words. Candidate replacements are paraphrases and entailed phrases, obtained using monolingual resources. 
+            These candidate replacements are transformed into "dynamic biphrases", generated at decoding time based on the context of each source sentence. Standard SMT features are enhanced with a number of new features aimed at scoring translations produced by using different replacements. 
+            Active learning is used to discriminatively train the model parameters from human assessments of the quality of translations. The learning framework yields an SMT system which is able to deal with sentences containing OOV words but also guarantees that the performance is not degraded for input sentences without OOV words. 
+            Results of experiments on English-French translation show that this method outperforms previous work addressing OOV words in terms of acceptability.
+        bibtex: >
+            @inproceedings{aziz+2010:oov,
+                author = {Wilker Aziz and Marc Dymetman and Shachar Mirkin and Lucia Specia and Nicola Cancedda and Ido Dagan},
+                title = {Learning an Expert from Human Annotations in Statistical Machine Translation: the Case of Out-of-Vocabulary Words},
+                booktitle = {14th Annual Conference of the European Association for Machine Translation},
+                year = {2010},
+                series = {EAMT '10},
+                pages = {28--35},
+                location = {Saint-Raphael, France},
             }
