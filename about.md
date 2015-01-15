@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
@@ -10,5 +10,6 @@ which enable inference under complex models.
 
 I previously worked at the University of Sheffield with [Dr Lucia Specia]({{ site.lucia_specia }}) on the [MODIST project]({{ site.modist_url }}) which aims at making SMT discourse-aware.
 
-Have a look at my [departmental page]({{ site.dcs_page }}).
+Have a look at my old [departmental page]({{ site.dcs_page }}).
 
+Here is my [CV]({{ site.baseurl }}/{{ site.cv }}).
