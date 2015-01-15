@@ -72,5 +72,63 @@ papers:
               pages     = {1237--1249},
               url       = {http://www.aclweb.org/anthology/D14-1131}
             }
-
-
+    -
+        layout: paper
+        paper-type: inproceedings
+        selected: y
+        year: 2013
+        img: wmt2013
+        title: Investigations in Exact Inference for Hierarchical Translation
+        authors: Wilker Aziz, Marc Dymetman and Sriram Venkatapathy
+        booktitle: Proceedings of the WMT
+        doc-url: http://www.aclweb.org/anthology/W/W13/W13-2260.pdf
+        booktitle-url: http://www.statmt.org/wmt13/
+        #code: https://github.com/wilkeraziz/chisel
+        venue: conference
+        abstract: >
+            We present a method for inference in hierarchical phrase-based translation, where both optimisation and sampling are performed in a common exact inference framework related to adaptive rejection sampling. 
+            We also present a first implementation of that method along with experimental results shedding light on some fundamental issues. 
+            In hierarchical translation, inference needs to be performed over a high-complexity distribution defined by the intersection of a translation hypergraph and a target language model. 
+            We replace this intractable distribution by a sequence of tractable upperbounds for which exact optimisers and samplers are easy to obtain. 
+            Our experiments show that exact inference is then feasible using only a fraction of the time and space that would be required by the full intersection, without recourse to pruning techniques that only provide approximate solutions. 
+            While the current implementation is limited in the size of inputs it can handle in reasonable time, our experiments provide insights towards obtaining future speedups, while staying in the same general framework.
+        bibtex: >
+            @InProceedings{aziz-dymetman-venkatapathy:2013:WMT,
+              author    = {Aziz, Wilker  and  Dymetman, Marc  and  Venkatapathy, Sriram},
+              title     = {Investigations in Exact Inference for Hierarchical Translation},
+              booktitle = {Proceedings of the Eighth Workshop on Statistical Machine Translation},
+              month     = {August},
+              year      = {2013},
+              address   = {Sofia, Bulgaria},
+              publisher = {Association for Computational Linguistics},
+              pages     = {472--483},
+              url       = {http://www.aclweb.org/anthology/W13-2260}
+            }
+    -
+        layout: paper
+        paper-type: inproceedings
+        selected: y
+        year: 2013
+        img: conll2013
+        title: Multilingual WSD-like Constraints for Paraphrase Extraction
+        authors: Wilker Aziz and Lucia Specia
+        booktitle: Proceedings of the Seventeenth Conference on Computational Natural Language Learning (CoNLL)
+        doc-url: http://www.aclweb.org/anthology/W/W13/W13-3522.pdf
+        booktitle-url: http://www.clips.uantwerpen.be/conll2013/
+        #code: https://github.com/wilkeraziz/chisel
+        venue: conference
+        abstract: >
+            The use of pivot languages and word-alignment techniques over bilingual corpora has proved an effective approach for extracting paraphrases of words and short phrases. However, inherent ambiguities in the pivot language(s) can lead to inadequate paraphrases. 
+            We propose a novel approach that is able to extract paraphrases by pivoting through multiple languages while discriminating word senses in the input language, i.e., the language to be paraphrased. Text in the input language is annotated with "senses" in the form of foreign phrases obtained from bilingual parallel data and automatic word-alignment. This approach shows 62% relative improvement over previous work in generating paraphrases that are judged both more accurate and more fluent.
+        bibtex: >
+            @InProceedings{aziz-specia:2013:CoNLL-2013,
+              author    = {Aziz, Wilker  and  Specia, Lucia},
+              title     = {Multilingual WSD-like Constraints for Paraphrase Extraction},
+              booktitle = {Proceedings of the Seventeenth Conference on Computational Natural Language Learning},
+              month     = {August},
+              year      = {2013},
+              address   = {Sofia, Bulgaria},
+              publisher = {Association for Computational Linguistics},
+              pages     = {202--211},
+              url       = {http://www.aclweb.org/anthology/W13-3522}
+            }
