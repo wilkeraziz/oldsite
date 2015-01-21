@@ -1,10 +1,10 @@
 <div class="media">
   <a class="pull-left thumbnail" {% if include.paper.doc-url %} href="{{ include.paper.doc-url }}" {% endif %}>
-    <img src="img/paper/{{ include.paper.img }}.png" alt=""/>
+    <img src="/img/paper/{{ include.paper.img }}.png" alt=""/>
 </a>
   <div class="media-body">
     <strong>{{ include.paper.title }}</strong><br/>
-    {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}  
+    {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}
     {% case include.paper.paper-type %}
       {% when "inproceedings" %}
         In
@@ -28,7 +28,7 @@
             {% if include.paper.pages %}: pages {{ include.paper.pages }},{% endif %}
       {% when "dissertation" %}
         Dissertation, {{ include.paper.institution }}.
-    {% endcase %} 
+    {% endcase %}
     {{ include.paper.year }}.<br/>
     {% if include.paper.abstract %}
       <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
@@ -44,7 +44,7 @@
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
-      </div><!-- /.modal --> 
+      </div><!-- /.modal -->
     {% endif %}
     {% if include.paper.bibtex %}
       <!-- Modal -->
@@ -59,10 +59,10 @@
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
-      </div><!-- /.modal --> 
+      </div><!-- /.modal -->
        <a data-toggle="modal" href="#bibtex{{ include.paper.img }}" class="label label-warning">
          Bibtex
-      </a>&nbsp;      
+      </a>&nbsp;
     {% endif %}
     {% if include.paper.errata %}
       <!-- Modal -->
@@ -77,17 +77,16 @@
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
-      </div><!-- /.modal --> 
+      </div><!-- /.modal -->
        <a data-toggle="modal" href="#errata{{ include.paper.img }}" class="label label-danger">
          Errata
-      </a>&nbsp;      
+      </a>&nbsp;
     {% endif %}
-    {% if include.paper.slides %} 
-      <a href="{{ include.paper.slides }}" class="label label-info">Slides</a> 
+    {% if include.paper.slides %}
+      <a href="{{ include.paper.slides }}" class="label label-info">Slides</a>
     {% endif %}
     {% if include.paper.code %}
       <a href="{{ include.paper.code }}" class="label label-success">Code</a>
     {% endif %}
   </div>
 </div>
-

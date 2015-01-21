@@ -31,6 +31,37 @@ uva_url: http://www.illc.uva.nl/
 # Build settings
 markdown: kramdown
 
+# Collaborators
+
+people:
+  -
+    layout: person
+    relation: PhD candidate
+    selected: y
+    since: 2014
+    institution: UoS
+    img: david
+    name: David Steele
+    url: http://staffwww.dcs.shef.ac.uk/people/d.steele/
+    github: davidbsteele
+    about: >
+      David will soon rock the SMT world by modelling implicit discourse markers
+      in Chinese-English and English-Chinese translation.
+  -
+    layout: person
+    relation: PhD candidate
+    selected: y
+    since: 2014
+    institution: UoS
+    img: karin
+    name: Karin Smith
+    url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?K.Simsmith
+    github: karins
+    about: >
+      Karin will soon make your SMT system output coherent documents.
+      It will look so human-made that you will feel compelled to name your
+      system something more down to earth than Moses.
+
 # Paper entries
 
 papers:
@@ -48,10 +79,10 @@ papers:
         #code: https://github.com/wilkeraziz/chisel
         venue: conference
         abstract: >
-            The combinatorial space of translation derivations in phrase-based statistical machine translation is given by the intersection between a translation lattice and a target language model. 
-            We replace this intractable intersection by a tractable relaxation which incorporates a low-order upperbound on the language model. 
-            Exact optimisation is achieved through a coarse-to-fine strategy with connections to adaptive rejection sampling. 
-            We perform exact optimisation with unpruned language models of order 3 to 5 and show search-error curves for beam search and cube pruning on standard test sets. 
+            The combinatorial space of translation derivations in phrase-based statistical machine translation is given by the intersection between a translation lattice and a target language model.
+            We replace this intractable intersection by a tractable relaxation which incorporates a low-order upperbound on the language model.
+            Exact optimisation is achieved through a coarse-to-fine strategy with connections to adaptive rejection sampling.
+            We perform exact optimisation with unpruned language models of order 3 to 5 and show search-error curves for beam search and cube pruning on standard test sets.
             This is the first work to tractably tackle exact optimisation with language models of orders higher than 3.
         errata: >
             In the introduction, we comment about works that propose some form of exact search. In some cases, authors have proposed algorithms whose applicability seems mostly limited to toy models, such as Aziz et al. (2013). In other cases, authors modified the model in different (non-obvious) ways (e.g. monotone translation, compact rule sets, lower-order LM, entropy pruning for LM) enabling exact search. We mistakenly listed Iglesias et al (2009) amongst the former group. A more accurate wording would be:
@@ -86,11 +117,11 @@ papers:
         #code: https://github.com/wilkeraziz/chisel
         venue: conference
         abstract: >
-            We present a method for inference in hierarchical phrase-based translation, where both optimisation and sampling are performed in a common exact inference framework related to adaptive rejection sampling. 
-            We also present a first implementation of that method along with experimental results shedding light on some fundamental issues. 
-            In hierarchical translation, inference needs to be performed over a high-complexity distribution defined by the intersection of a translation hypergraph and a target language model. 
-            We replace this intractable distribution by a sequence of tractable upperbounds for which exact optimisers and samplers are easy to obtain. 
-            Our experiments show that exact inference is then feasible using only a fraction of the time and space that would be required by the full intersection, without recourse to pruning techniques that only provide approximate solutions. 
+            We present a method for inference in hierarchical phrase-based translation, where both optimisation and sampling are performed in a common exact inference framework related to adaptive rejection sampling.
+            We also present a first implementation of that method along with experimental results shedding light on some fundamental issues.
+            In hierarchical translation, inference needs to be performed over a high-complexity distribution defined by the intersection of a translation hypergraph and a target language model.
+            We replace this intractable distribution by a sequence of tractable upperbounds for which exact optimisers and samplers are easy to obtain.
+            Our experiments show that exact inference is then feasible using only a fraction of the time and space that would be required by the full intersection, without recourse to pruning techniques that only provide approximate solutions.
             While the current implementation is limited in the size of inputs it can handle in reasonable time, our experiments provide insights towards obtaining future speedups, while staying in the same general framework.
         bibtex: >
             @InProceedings{aziz-dymetman-venkatapathy:2013:WMT,
@@ -118,7 +149,7 @@ papers:
         #code: https://github.com/wilkeraziz/chisel
         venue: conference
         abstract: >
-            The use of pivot languages and word-alignment techniques over bilingual corpora has proved an effective approach for extracting paraphrases of words and short phrases. However, inherent ambiguities in the pivot language(s) can lead to inadequate paraphrases. 
+            The use of pivot languages and word-alignment techniques over bilingual corpora has proved an effective approach for extracting paraphrases of words and short phrases. However, inherent ambiguities in the pivot language(s) can lead to inadequate paraphrases.
             We propose a novel approach that is able to extract paraphrases by pivoting through multiple languages while discriminating word senses in the input language, i.e., the language to be paraphrased. Text in the input language is annotated with "senses" in the form of foreign phrases obtained from bilingual parallel data and automatic word-alignment. This approach shows 62% relative improvement over previous work in generating paraphrases that are judged both more accurate and more fluent.
         bibtex: >
             @InProceedings{aziz-specia:2013:CoNLL-2013,
@@ -141,10 +172,10 @@ papers:
         title: Predicting Machine Translation Adequacy
         authors: Lucia Specia, Najeh Hajlaoui, Catalina Hallett and Wilker Aziz
         booktitle: Proceedings of the 13th Machine Translation Summit
-        doc-url: http://www.mt-archive.info/MTS-2011-Specia.pdf 
+        doc-url: http://www.mt-archive.info/MTS-2011-Specia.pdf
         booktitle-url: http://www.mt-archive.info/MTS-2011-TOC.htm
         venue: conference
-        abstract: > 
+        abstract: >
             As Machine Translation (MT) becomes more popular among end-users, an increasingly relevant issue is that of estimating the quality of automatic translations for a particular task. The main application for such quality estimates has been selecting good enough translations for human post-editing. The end-users, in this case, are fluent speakers of both source and target languages and the quality estimates reflect post-editing effort, for example, the time to post-edit a sentence. This paper focuses on quality estimation to address the challenging problem of making MT more reliable to a different type of end-user: those who cannot read the source language. We propose a number of indicators contrasting the source and translation texts to predict the adequacy of such translations at the sentence-level. Experiments with Arabic-English MT show that these indicators can yield improvements over previous work using general quality indicators based on source complexity and target fluency.
         bibtex: >
             @INPROCEEDINGS{specia+2011:adequacy,
@@ -155,7 +186,7 @@ papers:
                 month={September},
                 year={2011},
                 pages={513--520}
-            } 
+            }
     -
         layout: paper
         paper-type: inproceedings
@@ -163,16 +194,16 @@ papers:
         year: 2010
         img: eamt2010
         title: Learning an Expert from Human Annotations in Statistical Machine Translation&#58; the Case of Out-of-Vocabulary Words
-        authors: Wilker Aziz, Marc Dymetman, Lucia Specia and Shachar Mirkin 
+        authors: Wilker Aziz, Marc Dymetman, Lucia Specia and Shachar Mirkin
         booktitle: Proceedings of the 14th Annual Conference of the European Association for Machine Translation
         doc-url: http://www.mt-archive.info/EAMT-2010-Aziz.pdf
         booktitle-url: http://www.mt-archive.info/EAMT-2010-TOC.htm
         venue: conference
         slides: http://www.mt-archive.info/EAMT-2010-Aziz-ppt.pdf
         abstract: >
-            We present a general method for incorporating an "expert" model into a Statistical Machine Translation (SMT) system, in order to improve its performance on a particular "area of expertise", and apply this method to the specific task of finding adequate replacements for Out-of-Vocabulary (OOV) words. Candidate replacements are paraphrases and entailed phrases, obtained using monolingual resources. 
-            These candidate replacements are transformed into "dynamic biphrases", generated at decoding time based on the context of each source sentence. Standard SMT features are enhanced with a number of new features aimed at scoring translations produced by using different replacements. 
-            Active learning is used to discriminatively train the model parameters from human assessments of the quality of translations. The learning framework yields an SMT system which is able to deal with sentences containing OOV words but also guarantees that the performance is not degraded for input sentences without OOV words. 
+            We present a general method for incorporating an "expert" model into a Statistical Machine Translation (SMT) system, in order to improve its performance on a particular "area of expertise", and apply this method to the specific task of finding adequate replacements for Out-of-Vocabulary (OOV) words. Candidate replacements are paraphrases and entailed phrases, obtained using monolingual resources.
+            These candidate replacements are transformed into "dynamic biphrases", generated at decoding time based on the context of each source sentence. Standard SMT features are enhanced with a number of new features aimed at scoring translations produced by using different replacements.
+            Active learning is used to discriminatively train the model parameters from human assessments of the quality of translations. The learning framework yields an SMT system which is able to deal with sentences containing OOV words but also guarantees that the performance is not degraded for input sentences without OOV words.
             Results of experiments on English-French translation show that this method outperforms previous work addressing OOV words in terms of acceptability.
         bibtex: >
             @inproceedings{aziz+2010:oov,
