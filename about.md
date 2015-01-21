@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am currently a *Research Associate* at the University of Amsterdam working with [Prof Khalil Sima`an]({{ site.khalil_simaan }}).
+I am a *Research Associate* at the University of Amsterdam working with [Prof Khalil Sima`an]({{ site.khalil_simaan }}).
 My work focusses on better inference for statistical machine translation, particularly, algorithms
 which enable inference under complex models.
 
