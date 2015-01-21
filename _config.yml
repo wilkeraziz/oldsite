@@ -28,7 +28,7 @@ khalil_simaan: https://staff.fnwi.uva.nl/k.simaan/
 slpll_url: https://staff.fnwi.uva.nl/k.simaan/research_all.html
 uva_url: http://www.illc.uva.nl/
 
-ksimaanstyle: Khalil Sima<font color="red">'</font>an
+ksimaanstyle: Khalil Sima<font color="red">`</font>an
 
 # Build settings
 markdown: kramdown
