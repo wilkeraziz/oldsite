@@ -28,6 +28,8 @@ khalil_simaan: https://staff.fnwi.uva.nl/k.simaan/
 slpll_url: https://staff.fnwi.uva.nl/k.simaan/research_all.html
 uva_url: http://www.illc.uva.nl/
 
+ksimaanstyle: Khalil Sima<font color="red">'</font>an
+
 # Build settings
 markdown: kramdown
 
@@ -61,6 +63,50 @@ people:
       Karin will soon make your SMT system output coherent documents.
       They will look so human-made that you will feel compelled to name your
       system something more down to earth than Moses.
+  -
+    layout: person
+    relation: PI
+    selected: y
+    since: 2015
+    institution: UvA
+    img: khalil
+    name: Khalil Sima'an
+    url: https://staff.fnwi.uva.nl/k.simaan/
+    about: >
+      I've joined Khalil's small army on 1 January 2015 to work on his Vici NWO project
+      <i>Machine Translators: Teaching Computers to Translate Using their own Words</i>.
+    extra: >
+      Khalil served as external examiner in my PhD viva.
+      We seem to have a common taste for beer, particularly, we are both very fond of <i>La Chouffe</i>.
+  -
+    layout: person
+    selected: y
+    since: 2009
+    institution: UoS
+    img: lucia
+    name: Lucia Specia
+    url: http://staffwww.dcs.shef.ac.uk/people/L.Specia/
+    github: lspecia
+    about: >
+      I've known and worked with Lucia since 2009. I've been her intern (2009),
+      PhD candidate (2010-2013) and postdoc (2014).
+    extra: >
+      Lucia taught me the first moves at skiing and climbing.
+  -
+    layout: person
+    selected: y
+    since: 2009
+    institution: XRCE
+    img: marc
+    name: Marc Dymetman
+    url: http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman
+    about: >
+      In 2009 and again in 2012, I spent some
+      wonderful time working under Marc's supervision as an intern at XRCE.
+      I also had the honour of having him in the supervisory team of my PhD studies.
+    extra: >
+      Marc inspired my taste for inference/decoding problems.
+      Unintentionaly, he also inspired me to use Moleskine plain notebooks.
 
 # Paper entries
 

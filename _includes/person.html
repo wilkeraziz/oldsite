@@ -3,7 +3,7 @@
     <img src="/img/people/{{ include.person.img }}.png" alt=""/>
 </a>
   <div class="media-body">
-    <strong>{{ include.person.name }}</strong>
+    <strong>{% if include.person.name == "Khalil Sima'an" %} {{ site.ksimaanstyle }} {% else %} {{ include.person.name }} {% endif %}</strong>
 
 
 
