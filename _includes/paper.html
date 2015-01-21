@@ -1,7 +1,7 @@
 <div class="media">
   <a class="pull-left thumbnail" {% if include.paper.doc-url %} href="{{ include.paper.doc-url }}" {% endif %}>
     <img src="/img/paper/{{ include.paper.img }}.png" alt=""/>
-</a>
+  </a>
   <div class="media-body">
     <strong>{{ include.paper.title }}</strong><br/>
     {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}
@@ -48,45 +48,49 @@
     {% endif %}
     {% if include.paper.bibtex %}
       <!-- Modal -->
-      <div class="modal fade" id="bibtex{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
+      <div class="modal fade" id="bibtex{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title">Bibtex | {{ include.paper.title }}</h4>
+              <h4 class="modal-title">Bibtex | {{ include.paper.title }}</h4>
             </div>
             <div class="modal-body">
-                <pre>{{ include.paper.bibtex }}</pre>
+              <pre>{{ include.paper.bibtex }}</pre>
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
-       <a data-toggle="modal" href="#bibtex{{ include.paper.img }}" class="label label-warning">
-         Bibtex
-      </a>&nbsp;
+      <a data-toggle="modal" href="#bibtex{{ include.paper.img }}" class="label label-warning">Bibtex</a>&nbsp;
     {% endif %}
-    {% if include.paper.errata %}
-      <!-- Modal -->
-      <div class="modal fade" id="errata{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-            <h4 class="modal-title">Errata | {{ include.paper.title }}</h4>
-            </div>
-            <div class="modal-body">
-              {{ include.paper.errata }}
-            </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
-       <a data-toggle="modal" href="#errata{{ include.paper.img }}" class="label label-danger">
-         Errata
-      </a>&nbsp;
-    {% endif %}
+
     {% if include.paper.slides %}
       <a href="{{ include.paper.slides }}" class="label label-info">Slides</a>
     {% endif %}
+
+    {% if include.paper.talk %}
+    <a href="{{ include.paper.talk }}" class="label label-info">Talk</a>
+    {% endif %}
+
     {% if include.paper.code %}
       <a href="{{ include.paper.code }}" class="label label-success">Code</a>
+    {% endif %}
+
+    {% if include.paper.errata %}
+    <div class="modal fade" id="errata{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Errata | {{ include.paper.title }}</h4>
+          </div>
+          <div class="modal-body">
+            {{ include.paper.errata }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <a data-toggle="modal" href="#errata{{ include.paper.img }}" class="label label-danger">Errata</a>&nbsp;
     {% endif %}
   </div>
 </div>
