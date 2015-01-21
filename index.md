@@ -1,8 +1,8 @@
 ---
-layout: page
-title: About me
-permalink: /about/
+layout: default
 ---
+
+![wilker](/img/people/wilker.png){: style="float: right;" }
 
 I am a *Research Associate* at the University of Amsterdam working with [Prof Khalil Sima`an]({{ site.khalil_simaan }}).
 My work focusses on better inference for statistical machine translation, particularly, algorithms
@@ -13,3 +13,4 @@ I previously worked at the University of Sheffield with [Dr Lucia Specia]({{ sit
 Have a look at my old [departmental page]({{ site.dcs_page }}).
 
 Here is my [CV]({{ site.baseurl }}/{{ site.cv }}).
+
