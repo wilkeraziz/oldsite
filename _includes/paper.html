@@ -3,6 +3,8 @@
     <img src="/img/paper/{{ include.paper.img }}.png" alt=""/>
   </a>
   <div class="media-body">
+    <!-- citation -->
+    {% if include.paper.logo %}<img src="/img/ico/{{ include.paper.logo }}.png" alt=""/>{% endif %}
     <strong>{{ include.paper.title }}</strong><br/>
     {% if include.paper.authors %}{{ include.paper.authors }}.{% endif %}
     {% case include.paper.paper-type %}
@@ -29,7 +31,11 @@
       {% when "dissertation" %}
         Dissertation, {{ include.paper.institution }}.
     {% endcase %}
-    {{ include.paper.year }}.<br/>
+    {{ include.paper.year }}.
+    {% if include.paper.note %}<i>{{ include.paper.note }}</i>{% endif %}
+    <br/>
+
+    <!-- abstract -->
     {% if include.paper.abstract %}
       <a data-toggle="modal" href="#abstract{{ include.paper.img }}" class="label label-default">Abstract</a>
       <!-- Modal -->
@@ -46,6 +52,8 @@
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
     {% endif %}
+
+    <!-- bibtex -->
     {% if include.paper.bibtex %}
       <!-- Modal -->
       <div class="modal fade" id="bibtex{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true">
@@ -61,20 +69,38 @@
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->
-      <a data-toggle="modal" href="#bibtex{{ include.paper.img }}" class="label label-warning">Bibtex</a>&nbsp;
+      <a data-toggle="modal" href="#bibtex{{ include.paper.img }}" class="label label-default">Bibtex</a>&nbsp;
+    {% endif %}
+
+    <!-- resources -->
+    <!-- draft/slides/poster/talk -->
+
+    {% if include.paper.draft %}
+    <a href="{{ include.paper.draft }}" class="label label-info">Draft</a>
     {% endif %}
 
     {% if include.paper.slides %}
       <a href="{{ include.paper.slides }}" class="label label-info">Slides</a>
     {% endif %}
 
+    {% if include.paper.poster %}
+    <a href="{{ include.paper.poster }}" class="label label-info">Poster</a>
+    {% endif %}
+
     {% if include.paper.talk %}
     <a href="{{ include.paper.talk }}" class="label label-info">Talk</a>
     {% endif %}
 
+    <!-- code and data -->
     {% if include.paper.code %}
       <a href="{{ include.paper.code }}" class="label label-success">Code</a>
     {% endif %}
+
+    {% if include.paper.data %}
+    <a href="{{ include.paper.data }}" class="label label-success">Data</a>
+    {% endif %}
+
+    <!-- amendments -->
 
     {% if include.paper.errata %}
     <div class="modal fade" id="errata{{ include.paper.img }}" tabindex="-1" role="dialog" aria-hidden="true">

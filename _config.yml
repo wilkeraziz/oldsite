@@ -221,6 +221,72 @@ papers:
         layout: paper
         paper-type: inproceedings
         selected: y
+        year: 2013
+        img: tsd2013
+        title: Ranking Machine Translation Systems via Post-Editing
+        authors: Wilker Aziz, Ruslan Mitkov and Lucia Specia
+        booktitle: Proceedings of Text, Speech and Dialogue (TSD)
+        pages: 410-418
+        doc-url: http://dx.doi.org/10.1007/978-3-642-40585-3_52
+        draft: /papers/tsd2013.pdf
+        poster: /posters/tsd2013.pdf
+        data: http://www.adrive.com/public/ZMxfXA/papers
+        booktitle-url: http://www.kiv.zcu.cz/tsd2013/
+        venue: conference
+        abstract: >
+            In this paper we investigate ways in which information from the post-editing of machine translations can be used to rank translation systems for quality. In addition to the commonly used edit distance between the raw translation and its edited version, we consider post-editing time and keystroke logging, since these can account not only for technical effort, but also cognitive effort. In this system ranking scenario, post-editing poses some important challenges: i) multiple post-editors are required since having the same annotator fixing alternative translations of a given input segment can bias their post-editing; ii) achieving high enough inter-annotator agreement requires extensive training, which is not always feasible; iii) there exists a natural variation among post-editors, particularly w.r.t. editing time and keystrokes, which makes their measurements less directly comparable. Our experiments involve untrained human annotators, but we propose ways to normalise their post-editing effort indicators to make them comparable. We test these methods using a standard dataset from a machine translation evaluation campaign and show that they yield reliable rankings of systems.
+        bibtex: >
+            @InProceedings{Aziz+2013:TSD,
+              author    = {Aziz, Wilker and Mitkov, Ruslan and  Specia, Lucia},
+              title     = {Ranking Machine Translation Systems via Post-Editing},
+              booktitle = {In Proceedings of Text, Speech and Dialogue (TSD)},
+              series = {Lecture Notes in Computer Science},
+              volume = {8082},
+              day = {1-5},
+              month     = {September},
+              year      = {2013},
+              address   = {Pilsen, Czech Republic},
+              publisher = {Springer Berlin Heidelberg},
+              pages     = {410--418},
+              url       = {http://link.springer.com/chapter/10.1007/978-3-642-40585-3_52},
+              doi = {10.1007/978-3-642-40585-3_52}
+            }
+    -
+        layout: paper
+        paper-type: inproceedings
+        selected: y
+        year: 2012
+        img: lrec2012
+        title: "PET: a Tool for Post-editing and Assessing Machine Translation"
+        authors: Wilker Aziz, Sheila Castilho and Lucia Specia
+        booktitle: Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)
+        doc-url: http://www.lrec-conf.org/proceedings/lrec2012/pdf/985_Paper.pdf
+        poster: /posters/lrec2012.pdf
+        data: http://www.adrive.com/public/ZMxfXA/papers
+        code: https://github.com/wilkeraziz/PET
+        booktitle-url: http://www.lrec-conf.org/proceedings/lrec2012/index.html
+        venue: conference
+        #logo: pet
+        abstract: >
+            Given the significant improvements in Machine Translation (MT) quality and the increasing demand for translations, post-editing of automatic translations is becoming a popular practice in the translation industry. It has been shown to allow for much larger volumes of translations to be produced, saving time and costs. In addition, the post-editing of automatic translations can help understand problems in such translations and this can be used as feedback for researchers and developers to improve MT systems. Finally, post-editing can be used as a way of evaluating the quality of translations in terms of how much post-editing effort these translations require. We describe a standalone tool that has two main purposes: facilitate the post-editing of translations from any MT system so that they reach publishable quality and collect sentence-level information from the post-editing process, e.g.: post-editing time and detailed keystroke statistics.
+        bibtex: >
+            @InProceedings{AZIZEtAl2012PET,
+              author = {Wilker Aziz and Sheila Castilho and Lucia Specia},
+              title = {PET: a Tool for Post-editing and Assessing Machine Translation},
+              booktitle = {Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)},
+              year = {2012},
+              month = {may},
+              date = {23-25},
+              address = {Istanbul, Turkey},
+              editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Mehmet Uğur Doğan and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
+              publisher = {European Language Resources Association (ELRA)},
+              isbn = {978-2-9517408-7-7},
+              language = {english}
+             }
+    -
+        layout: paper
+        paper-type: inproceedings
+        selected: y
         year: 2011
         img: mtsummit2011
         title: Predicting Machine Translation Adequacy
