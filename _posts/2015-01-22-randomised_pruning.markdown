@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  Randomised Sampling
-date:   2014-11-12
+title:  Randomised pruning
 categories: review
 ---
 
