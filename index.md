@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![wilker](/img/people/wilker.png){: style="float: right;" }
+![wilker](/img/people/wilker.png){: style="float: right; margin: 0px 20px" }
 
 I am a *Research Associate* at the University of Amsterdam working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}).
 My work focusses on better inference for statistical machine translation, particularly, algorithms
