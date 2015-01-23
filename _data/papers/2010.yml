@@ -1,0 +1,28 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2010
+  img: eamt2010
+  title: Learning an Expert from Human Annotations in Statistical Machine Translation&#58; the Case of Out-of-Vocabulary Words
+  authors: Wilker Aziz, Marc Dymetman, Lucia Specia and Shachar Mirkin
+  booktitle: Proceedings of the 14th Annual Conference of the European Association for Machine Translation
+  doc-url: http://www.mt-archive.info/EAMT-2010-Aziz.pdf
+  booktitle-url: http://www.mt-archive.info/EAMT-2010-TOC.htm
+  venue: conference
+  slides: http://www.mt-archive.info/EAMT-2010-Aziz-ppt.pdf
+  abstract: >
+    We present a general method for incorporating an "expert" model into a Statistical Machine Translation (SMT) system, in order to improve its performance on a particular "area of expertise", and apply this method to the specific task of finding adequate replacements for Out-of-Vocabulary (OOV) words. Candidate replacements are paraphrases and entailed phrases, obtained using monolingual resources.
+    These candidate replacements are transformed into "dynamic biphrases", generated at decoding time based on the context of each source sentence. Standard SMT features are enhanced with a number of new features aimed at scoring translations produced by using different replacements.
+    Active learning is used to discriminatively train the model parameters from human assessments of the quality of translations. The learning framework yields an SMT system which is able to deal with sentences containing OOV words but also guarantees that the performance is not degraded for input sentences without OOV words.
+    Results of experiments on English-French translation show that this method outperforms previous work addressing OOV words in terms of acceptability.
+  bibtex: >
+    @inproceedings{aziz+2010:oov,
+        author = {Wilker Aziz and Marc Dymetman and Shachar Mirkin and Lucia Specia and Nicola Cancedda and Ido Dagan},
+        title = {Learning an Expert from Human Annotations in Statistical Machine Translation: the Case of Out-of-Vocabulary Words},
+        booktitle = {14th Annual Conference of the European Association for Machine Translation},
+        year = {2010},
+        series = {EAMT '10},
+        pages = {28--35},
+        location = {Saint-Raphael, France},
+    }

@@ -1,0 +1,27 @@
+-
+  layout: person
+  relation: PhD candidate
+  selected: y
+  since: 2014
+  institution: UoS
+  img: david
+  name: David Steele
+  url: http://staffwww.dcs.shef.ac.uk/people/d.steele/
+  github: davidbsteele
+  about: >
+    David will soon rock the SMT world by modelling implicit discourse markers
+    in Chinese-English and English-Chinese translation.
+-
+  layout: person
+  relation: PhD candidate
+  selected: y
+  since: 2014
+  institution: UoS
+  img: karin
+  name: Karin Smith
+  url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?K.Simsmith
+  github: karins
+  about: >
+    Karin will soon make your SMT system output coherent documents.
+    They will look so human-made that you will feel compelled to name your
+    system something more down to earth than Moses.
