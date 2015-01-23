@@ -3,11 +3,17 @@ layout: photolist
 title: Publications
 ---
 
-{% assign years = (site.data.papers) %}
-{% for year in years reversed %}
-## {{ year[0] }}
-{% assign papers = (year[1] | where: "selected", "y") %}
-{% for paper in papers %}
+{% assign hashes = (site.data.papers) %}
+{% capture years %}
+{% for hash in hashes %}
+{{ hash[0] }}
+{% endfor %}
+{% endcapture %}
+
+{% assign sortedyears = years | split:' ' | sort | reverse %}
+{% for year in sortedyears %}
+# {{ year }}
+{% for paper in hashes[year] %}
 {% include paper.html paper=paper %}
 {% endfor %}
 {% endfor %}
