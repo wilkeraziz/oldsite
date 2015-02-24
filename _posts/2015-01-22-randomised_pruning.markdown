@@ -5,16 +5,16 @@ categories: review
 ---
 
 This week, here at the [SLPLL], we discussed the paper [Randomized Pruning: Efficiently Calculating Expectations in Large Dynamic Programs][RP] by Bouchard-Côté et al. (2009).
-If anything in this post is inaccurate, this my responsibility alone, I'm entirely to blame ;)
+If anything in this post is inaccurate, this is my responsibility alone, I'm entirely to blame ;)
 
 # Motivation
 
-In NLP, we typically deal with discrete distributions (e.g. distributions over derivation trees) whose support are highly combinatorial objects that typically grow intractable pretty quickly.
+In NLP, we typically deal with discrete distributions (e.g. distributions over derivation trees) whose supports are highly combinatorial objects that typically grow intractable pretty quickly.
 These distributions are often parameterised as log-linear models and encoded using formal tools (e.g. finite-state automata or context-free grammars).
 We can also view these objects as graphs or hypergraphs.
-Computing expectations under these distributions require a cubic-time algorithm (cubic with the size of the graphical representation), the Inside-Outside algorithm.
-Expectations are necessary in task such as maximum likelihood estimation, empirical risk minimisation, MBR and consensus decoding.
-Approximate search (e.g. local search or beam search) has proven adequate for tasks in which approximate MAP (often, rather Viterbi) inference suffices.
+Computing expectations under these distributions requires a cubic-time algorithm (linear in the size of the graphical representation -- which in parsing is cubic with the number of nonterminal symbols and sentence length), the Inside-Outside algorithm.
+Expectations are necessary in tasks such as maximum likelihood estimation, empirical risk minimisation, MBR and consensus decoding.
+Approximate search (e.g. local search or beam search) has proven adequate for tasks in which approximate MAP (often, rather approximate Viterbi) inference suffices.
 If reliable estimates of *expectations* are necessary, approximate search can in general only provide an *arbitrarily* biased view of the true distribution.
 
 
@@ -28,7 +28,7 @@ The authors design a Markov chain that has as stationary distribution the true i
 
 Intuitively, the method "samples approximate distributions" encoded as truncated hypergraphs (aka *charts* in the case of parsing).
 These are small enough for a complete Inside-Outside run which summarises (biased) feature expectations.
-Such approximate (or truncated) distributions are averaged and the expectations are guaranteed to converge to the true expectations in the limit of infinite samples.
+Such approximate (or truncated) distributions are averaged and the resulting expectations are then guaranteed to converge to the true expectations in the limit of infinite samples.
 
 # Method
 
