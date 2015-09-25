@@ -1,0 +1,33 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  img: mtmpbml2015
+  title: "Grasp: Randomised Semiring Parsing"
+  authors: Wilker Aziz
+  booktitle: The Prague Bulletin of Mathematical Linguistics
+  doc-url: http://ufal.mff.cuni.cz/pbml/104/art-aziz.pdf
+  booktitle-url: http://ufal.mff.cuni.cz/pbml/104
+  code: https://github.com/wilkeraziz/grasp
+  poster: /posters/mtmpbml2015.pdf
+  venue: conference
+  abstract: >
+    We present a suite of algorithms for inference tasks over (finite and infinite) context-free sets. 
+    For generality and clarity, we have chosen the framework of semiring parsing with support to the most common semirings (e.g. Forest, Viterbi, k-best and Inside). 
+    We see parsing from the more general viewpoint of weighted deduction allowing for arbitrary weighted finite-state input and provide implementations of both bottom-up (CKY-inspired) and top-down (Earley-inspired) algorithms. 
+    We focus on approximate inference by Monte Carlo methods and provide implementations of ancestral sampling and slice sampling. In principle, sampling methods can deal with models whose independence assumptions are weaker than what is feasible by standard dynamic programming. 
+    We envision applications such as monolingual constituency parsing, synchronous parsing, context-free models of reordering for machine translation, and machine translation decoding.
+  errata: >
+      In the print version, Equation 3 is incorrect. I intended to first discuss the univariate slice sampler (Neal, 2003) and then introduce the multivariate extension of Blunsom and Cohn (2010). In shortening the text, I misrepresented f(d,u) by mixing its definition with the univariate case. A complete and correct specification of f(d, u) is present in the electronic version.
+  bibtex: >
+    @article{Aziz:2015:GRASP,
+        Author = {Wilker Aziz},
+        Journal = {The Prague Bulletin of Mathematical Linguistics},
+        Month = {October},
+        Number = {1},
+        Pages = {51--62},
+        Title = {Grasp: Randomised Semiring Parsing},
+        Volume = {104},
+        Year = {2015}
+    }

@@ -3,6 +3,18 @@
   relation: PhD candidate
   selected: y
   since: 2014
+  institution: UvA
+  img: philip
+  name: Philip Schulz
+  url: http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/c/p.schulz/p.schulz.html
+  github: philschulz
+  about: >
+    Philip will change the way we learn word alignments in SMT.
+-
+  layout: person
+  relation: PhD candidate
+  selected: y
+  since: 2014
   institution: UoS
   img: david
   name: David Steele
