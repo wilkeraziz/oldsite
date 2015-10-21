@@ -2,14 +2,28 @@
   layout: person
   relation: PhD candidate
   selected: y
-  since: 2014
+  since: 2015
+  institution: UvA
+  img: milos
+  name: Miloš Stanojević
+  url: https://staff.fnwi.uva.nl/m.stanojevic/
+  github: stanojevic
+  extra: >
+      Milos is a Chomskyan himself and rumour has it that he's been trying to drag me to his side of the force.
+  about: >
+    Milos is putting SMT in order.
+-
+  layout: person
+  relation: PhD candidate
+  selected: y
+  since: 2015
   institution: UvA
   img: philip
   name: Philip Schulz
   url: http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/c/p.schulz/p.schulz.html
   github: philschulz
   about: >
-    Philip will change the way we learn word alignments in SMT.
+      Philip designs statistical models that are more aligned with our expectations.
 -
   layout: person
   relation: PhD candidate
@@ -21,8 +35,7 @@
   url: http://staffwww.dcs.shef.ac.uk/people/d.steele/
   github: david-steele
   about: >
-    David will soon rock the SMT world by modelling implicit discourse markers
-    in Chinese-English and English-Chinese translation.
+      David makes SMT less implicit.
 -
   layout: person
   relation: PhD candidate
@@ -34,6 +47,4 @@
   url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?K.Simsmith
   github: karins
   about: >
-    Karin will soon make your SMT system output coherent documents.
-    They will look so human-made that you will feel compelled to name your
-    system something more down to earth than Moses.
+      Karin makes SMT coherent.
