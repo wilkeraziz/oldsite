@@ -9,7 +9,7 @@
   booktitle: AMTA 2012 Workshop on Post-Editing Technology and Practice
   doc-url: http://amta2012.amtaweb.org/AMTA2012Files/html/13/13_paper.pdf
   booktitle-url: https://sites.google.com/site/wptp2012/
-  data: http://www.adrive.com/public/ZMxfXA/papers
+  data: https://www.adrive.com/public/KzUwWz/wptp2012data.tar.gz
   venue: conference
   abstract: >
     Post-editing machine translations has been attracting increasing attention both as a common practice within the translation industry and as a way to evaluate Machine Translation (MT) quality via edit distance metrics between the MT and its post-edited version. Commonly used metrics such as HTER are limited in that they cannot fully capture the effort required for post-editing. Particularly, the cognitive effort required may vary for different types of errors and may also depend on the context. We suggest post-editing time as a way to assess some of the cognitive effort involved in post-editing. This paper presents two experiments investigating the connection between post-editing time and cognitive effort. First, we examine whether sentences with long and short post-editing times involve edits of different levels of difficulty. Second, we study the variability in post-editing time and other statistics among editors.
@@ -35,7 +35,7 @@
   booktitle: Proceedings of the Eight International Conference on Language Resources and Evaluation (LREC'12)
   doc-url: http://www.lrec-conf.org/proceedings/lrec2012/pdf/985_Paper.pdf
   poster: /posters/lrec2012.pdf
-  data: http://www.adrive.com/public/ZMxfXA/papers
+  data: https://www.adrive.com/public/wmXPtn/lrec2012data.zip
   code: https://github.com/wilkeraziz/PET
   booktitle-url: http://www.lrec-conf.org/proceedings/lrec2012/index.html
   venue: conference
