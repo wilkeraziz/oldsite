@@ -1,0 +1,148 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [NPL II (2016)](#npl-ii-2016)
+  - [Content and other Courses](#content-and-other-courses)
+  - [Schedule](#schedule)
+    - [Introduction (29 March)](#introduction-29-march)
+    - [Word alignment models (31 March)](#word-alignment-models-31-march)
+    - [ITG-based models (05 April)](#itg-based-models-05-april)
+    - [Phrase-based models (07 April)](#phrase-based-models-07-april)
+    - [Hierarchical models (12 April)](#hierarchical-models-12-april)
+    - [Evaluation and tuning (14 April)](#evaluation-and-tuning-14-april)
+    - [Word-order and reordering grammar (21 April)](#word-order-and-reordering-grammar-21-april)
+    - [Labelling Hiero (26 April)](#labelling-hiero-26-april)
+    - [Translating into morphologically rich languages (28 April)](#translating-into-morphologically-rich-languages-28-april)
+    - [Neural models for translation (03 May)](#neural-models-for-translation-03-may)
+    - [Multimodal MT (10 May)](#multimodal-mt-10-may)
+    - [Parallel text as a linguistic resource (12 May)](#parallel-text-as-a-linguistic-resource-12-may)
+  - [Project](#project)
+    - [Word alignment (15 April)](#word-alignment-15-april)
+    - [Translation (06 May)](#translation-06-may)
+    - [Reranking (27 May)](#reranking-27-may)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# NPL II (2016)
+
+## Content and other Courses
+
+This course, which builds on NLP I, is about statistical language processing with graphical representations (like trees) as hidden structures underlying the data. 
+We will concentrate on Machine Translation as a good example of an application field for a wide set of computational linguistic tasks such as parsing, morphology and semantics. 
+We will start with word-level models of MT for inducing alignments; Only touch upon phrase-based models and their techniques, which we completely leave for Applied Language Technology (ALP); Directly move towards hierarchical models with trees, syntax and with modelling word order differences (reordering) between languages as the central challenge. We will also look at inducing semantic representations from multilingual data.
+
+**Format** 
+
+This is a research-oriented course. A  number of lectures is given by the lecturers and invited speakers. Depending on number of students, the aim is to have the students work in pairs on presenting an article from the list below:
+* prepare a 30min presentation of the article
+* present the article to fellow students; lead a discussion on the article
+* all students contribute to the discussion about the article for 10-15mins after presentation
+
+**Homework  for all students every session**  
+
+Read and prepare the articles before the session. 
+You are expected to participate in the discussions during the session and prepare questions about the articles. 
+You could be questioned about the articles or possibly even asked to sketch some technical aspects of the article on the board, should the need arise.
+
+**Projects** 
+
+There will be a large project with three milestones: students work in pairs.
+
+1. Alignment models
+2. Translation
+3. Reranking
+
+**Grades** 
+
+An interpolation of the grades for presentation (10%), project work (30%/30%/30%). 
+
+## Schedule
+
+### Introduction (29 March)
+
+1. Introduction to the course
+2. Schedule
+
+### Word alignment models (31 March)
+
+1. IBM1 and IBM2
+
+### ITG-based models (05 April)
+
+1. Word-order
+2. Inversion transduction grammar
+3. Estimation
+4. Decoding
+
+### Phrase-based models (07 April)
+
+1. Phrase extraction
+2. Reordering of phrases
+3. Generation
+
+### Hierarchical models (12 April)
+
+1. Lexicalised ITG rules
+2. Synchronous context-free grammars
+3. Rule extraction
+4. Generation
+
+### Evaluation and tuning (14 April)
+
+1. Automatic MT evaluation
+2. Tuning
+
+### Word-order and reordering grammar (21 April)
+
+1. Preordering
+2. Factorizing permutations 
+3. Reordering grammar
+
+### Labelling Hiero (26 April)
+
+1. Syntactic labelling
+2. Labelling by factorizing word alignments 
+
+### Translating into morphologically rich languages (28 April)
+
+1. Morphology and word-order
+2. Transferring linguistic information
+3. Predicting morphology and word-order
+
+### Neural models for translation (03 May)
+
+1. Encoder/decoder
+2. Language model
+3. NMT
+
+### Multimodal MT (10 May)
+
+1. Image representations
+2. Text representations
+
+
+### Parallel text as a linguistic resource (12 May)
+
+1. Transfer learning
+2. Crosslingual applications
+
+
+## Project
+
+### Word alignment (15 April)
+
+1. IBM1
+2. IBM2
+
+### Translation (06 May)
+
+1. Dictionary of phrases
+2. Set of permutations
+3. Translation options
+4. Estimation
+
+### Reranking (27 May)
+
+1. Rich features
+2. Tuning
