@@ -100,19 +100,25 @@ Arguments:
 
 # Examples
  
-We make phrase features by selecting for every word the whole input POS tag, the last two chars of the target words, we do not constrain features
+Make phrase features by concatenating the input POS tag of source words and the last two chars of target words
 
 
     SparsePhrasePairMorphology name=PM input-factor=1 output-factor=0 output-max-chars=-2
 
 
-Here we make word features and we do fire unaligned words.
+Make word features by pairing source POS tag and target suffix for aligned words
+
+
+    SparseWordPairMorphology name=WM input-factor=1 output-factor=0 output-max-chars=-2 
+
+
+Make word features by pairing source POS tag and target suffix for aligned words. If a word is unaligned we pair it with a dummy token.
 
 
     SparseWordPairMorphology name=WM input-factor=1 output-factor=0 output-max-chars=-2 fire-unaligned=true
 
 
-Now we also constrain the output vocabulary
+We can also constrain the output vocabulary
 
 
     SparseWordPairMorphology name=WM input-factor=1 output-factor=0 output-max-chars=-2 fire-unaligned=true output-vocab=SparseMorphology.ovocab
