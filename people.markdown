@@ -3,6 +3,7 @@ layout: photolist
 title: People
 ---
 
+
 I have the great pleasure to work with very smart people.
 Here are some of them.
 
