@@ -23,7 +23,7 @@
             <h4 class="modal-title">{{ include.person.name }}</h4>
           </div>
           <div class="modal-body">
-            {{ include.person.extra }}
+            {{ include.person.extra | markdownify }}
           </div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
@@ -47,7 +47,7 @@
     <!-- about -->
 
     <div class="modal-body">
-      {{ include.person.about }}
+      {{ include.person.about | markdownify }}
     </div>
 
   </div>

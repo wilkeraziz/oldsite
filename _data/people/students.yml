@@ -48,3 +48,28 @@
   github: karins
   about: >
       Karin makes SMT coherent.
+-
+  layout: person
+  relation: BA candidate
+  selected: y
+  since: 2016
+  institution: UvA
+  img: avatar
+  name: Guido Linders
+  url: 
+  github: guido0013
+  about: >
+      Guido is working on feature-rich unsupervised word alignment.
+-
+  layout: person
+  relation: BA
+  selected: y
+  since: 2015
+  institution: UvA
+  img: avatar
+  name: Iason de Bondt
+  url: 
+  github: Iason
+  about: >
+      I supervised Iason's BA project on [slice sampling from arbitrary PCFGs](https://github.com/wilkeraziz/pcfg-sampling).
+      Unfortunately, I did not get to keep Iason around as he left the realms of academia.
