@@ -1,0 +1,16 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  img: acl2016
+  title: "Word alignment without NULL words"
+  authors: "Philip Schulz, Wilker Aziz and Khalil Sima'an"
+  booktitle: ACL 
+  doc-url: 
+  booktitle-url: 
+  code: 
+  poster: 
+  venue: conference
+  abstract: >
+  bibtex: >

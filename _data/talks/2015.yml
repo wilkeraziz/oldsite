@@ -2,7 +2,7 @@
   layout: talk
   selected: y
   year: 2014
-  event: 23/02/2014, 9am, Science Park G4.15
+  event: 23/02/2015, 9am, Science Park G4.15
   img: 23-02-2015-uva-ull-sampling
   title: Sampling (for unsupervised language learning)
   authors: Wilker Aziz
@@ -11,4 +11,4 @@
   abstract: >
     In this one hour talk, I discuss how sampling methods can help optimise objectives like MLE and MAP with special attention to parsing.
   about: >
-    This was a guest lecture for Jelle Zuidema's course on <a href="http://wzuidema.humanities.uva.nl/unsupervised-language-learning-2015/">Unsupervised Language Learning</a> at UvA.
+    Guest lecture for Jelle Zuidema's course on <a href="http://wzuidema.humanities.uva.nl/unsupervised-language-learning-2015/">Unsupervised Language Learning</a> at UvA.

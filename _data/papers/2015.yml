@@ -31,3 +31,34 @@
         Volume = {104},
         Year = {2015}
     }
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2015
+  img: icassp2015
+  title: "Quality estimation for ASR K-best list rescoring in spoken language translation"
+  authors: Raymond W. M. Ng, Kashif Shah, Wilker Aziz, Lucia Specia, and Thomas Hain
+  booktitle: 40th IEEE International Conference on Acoustics, Speech and Signal Processing 
+  doc-url: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7178968 
+  booktitle-url: http://www.icassp2015.org 
+  draft: /papers/icassp2015.pdf
+  code: 
+  poster:
+  venue: conference
+  abstract: >
+    Spoken language translation (SLT) combines automatic speech recognition (ASR) and machine translation (MT). During the decoding stage, the best hypothesis produced by the ASR system may not be the best input candidate to the MT system, but making use of multiple sub-optimal ASR results in SLT has been shown to be too complex computationally. This paper presents a method to rescore the k-best ASR output such as to improve translation quality. A translation quality estimation model is trained on a large number of features which aim to capture complementary information from both ASR and MT on translation difficulty and adequacy, as well as syntactic properties of the SLT inputs and outputs. Based on the predicted quality score, the ASR hypotheses are rescored before they are fed to the MT system. ASR confidence is found to be crucial in guiding the rescoring step. In an English-to-French speech-to-text translation task, the coupling of ASR and MT systems led to an increase of 0.5 BLEU points in translation quality.
+  bibtex: >
+    @inproceedings{Raymond+2015:QESLT,
+      author    = {Raymond W. M. Ng and Kashif Shah and Wilker Aziz and Lucia Specia and Thomas Hain},
+      title     = {Quality estimation for asr k-best list rescoring in spoken language translation},
+      booktitle = {2015 {IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2015.},
+      pages     = {5226--5230},
+      month     = {April},
+      year      = {2015},
+      address   = {South Brisbane, Queensland, Australia},
+      url       = {http://dx.doi.org/10.1109/ICASSP.2015.7178968},
+      doi       = {10.1109/ICASSP.2015.7178968},
+      timestamp = {Wed, 12 Aug 2015 12:51:08 +0200},
+      biburl    = {http://dblp.uni-trier.de/rec/bib/conf/icassp/NgSASH15},
+    }
