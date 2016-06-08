@@ -15,3 +15,22 @@
   abstract: >
   bibtex: >
   draft: /papers/acl2016.pdf
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2016
+  img: wmt2016
+  title: "Examining the Relationship between Preordering and Word Order Freedom in Machine Translation"
+  authors: "Joachim Daiber, Miloš Stanojević, Wilker Aziz and Khalil Sima'an"
+  booktitle: "ACL 2016 First Conference on Machine Translation (WMT16) "
+  doc-url: 
+  booktitle-url: 
+  code: 
+  poster: 
+  venue: conference
+  abstract: >
+  bibtex: >
+  note: to appear
+  draft: /papers/wmt2016.pdf
+
