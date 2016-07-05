@@ -21,3 +21,8 @@ We are probably discussing the following as well:
 * [Gutmann and Hyvarinen. 2012. Noise-constrastive estimation of unnormalized statistical models, with applications to natural image statistics.](http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf)
 * [Dyer. 2014. Notes on noise contrastive estimation and negative sampling.](http://arxiv.org/pdf/1410.8251v1.pdf)
 
+
+Useful links:
+
+* [NIPS workshop on VI](https://sites.google.com/site/variationalworkshop/)
+
