@@ -3,6 +3,7 @@ layout: post
 title:  "BTEC"
 date:   2014-11-12
 categories: work
+tag: Benchmark
 ---
 
 Benchmarking Chinese-English hierarchical translation on turism and travel domain (BTEC data).

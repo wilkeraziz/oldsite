@@ -2,6 +2,7 @@
 layout: post
 title:  Randomised pruning
 categories: review
+tag: MT reading group
 ---
 
 This week, here at the [SLPLL], we discussed the paper [Randomized Pruning: Efficiently Calculating Expectations in Large Dynamic Programs][RP] by Bouchard-Côté et al. (2009).

@@ -1,0 +1,14 @@
+---
+layout: post
+title: MCMC
+categories: review
+tag: MCMC reading group
+---
+
+This is stuff that we are still to discuss
+
+* [Neal. 2000. Markov chain sampling methods for Dirichlet process mixture models](http://www.stat.columbia.edu/npbayes/papers/neal_sampling.pdf)
+* [Martin A. Tanner and Wing Hung Wong. 1987. The Calculation of Posterior Distributions by Data Augmentation.](http://www.stat.cmu.edu/~brian/905-2009/all-papers/tanner-wong-1987-with-disc.pdf)
+* [He, Sa, Mitliagkas and Re.2016. Scar order in Gibbs sampling: models in which it matters and bounds on how much.](http://arxiv.org/pdf/1606.03432.pdf)
+* [Steinhardt and Liang. 2015. Learning Fast-Mixing Models for Structured Prediction](http://jmlr.org/proceedings/papers/v37/steinhardtb15.pdf)
+* [T. Shi and J. Steinhardt and P. Liang. 2015. Learning Where To Sample in Structured Prediction.](https://cs.stanford.edu/~pliang/papers/sample-aistats2015.pdf)

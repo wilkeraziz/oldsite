@@ -3,6 +3,7 @@ layout: post
 title:  "Chinese word segmentation"
 date:   2014-11-04
 categories: work
+tag: Benchmark
 ---
 
 Benchmarking the effect of different Chinese word segmentation strategies on SMT performance (in terms of BLEU).

@@ -3,6 +3,7 @@ layout: post
 title:  "Morphology features in Moses"
 date:   2016-04-02
 categories: toolkits
+tag: Tools
 ---
 
 # General arguments
