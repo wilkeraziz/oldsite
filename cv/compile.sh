@@ -1,5 +1,5 @@
-/usr/texbin/pdflatex cv
-/usr/texbin/bibtex cv1
-/usr/texbin/bibtex cv2
-/usr/texbin/pdflatex cv
-/usr/texbin/pdflatex cv
+pdflatex cv
+bibtex cv1
+bibtex cv2
+pdflatex cv
+pdflatex cv
