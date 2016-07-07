@@ -17,6 +17,7 @@ We aim at reviewing the following papers:
 
 We are probably discussing the following as well:
 
+* [Wang, Chong and Kulkarni, 1997. Weighted Averaging and Sto chastic Approximation.](http://www.cs.jhu.edu/~ijwang/pub/mcss_Mar20.pdf)
 * [Geyer. 1994. On the convergence of Monte Carlo maximum likelihood calculations.](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/GibbsFieldEst/GeyerConvergeMCMaxLik1994.pdf)
 * [Gutmann and Hyvarinen. 2012. Noise-constrastive estimation of unnormalized statistical models, with applications to natural image statistics.](http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf)
 * [Dyer. 2014. Notes on noise contrastive estimation and negative sampling.](http://arxiv.org/pdf/1410.8251v1.pdf)
