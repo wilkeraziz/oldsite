@@ -3,29 +3,29 @@
   paper-type: inproceedings
   selected: y
   year: 2016
-  img: acl2016
-  title: "Word alignment without NULL words"
-  authors: "Philip Schulz, Wilker Aziz and Khalil Sima'an"
-  booktitle: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics
-  doc-url: https://www.aclweb.org/anthology/P/P16/P16-2028.pdf
-  booktitle-url: http://acl2016.org
+  img: coling2016
+  title: "Fast Collocation-Based Bayesian HMM Word Alignment"
+  authors: "Philip Schulz and Wilker Aziz"
+  booktitle: Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics
+  doc-url: 
+  booktitle-url: http://coling2016.anlp.jp
   code: https://github.com/philschulz/Aligner 
-  poster: /poster/acl2016.pdf
+  poster: 
+  draft: /papers/coling2016.pdf
   venue: conference
   abstract: >
-      "In word alignment certain source words are only needed for fluency reasons and do not have a translation on the target side. Most word alignment models assume a target NULL word from which they generate these untranslatable source words. Hypothesising a target NULL word is not without problems, however. For example, because this NULL word has a position, it interferes with the distribution over alignment jumps. We present a word alignment model that accounts for untranslatable source words by generating them from preceding source words. It thereby removes the need for a target NULL word and only models alignments between word pairs that are actually observed in the data. Translation experiments on English paired with Czech, German, French and Japanese show that the model outperforms its traditional IBM counterparts in terms of BLEU score."
+      "We present a new Bayesian HMM word alignment model for statistical machine translation. The model is a mixture of an alignment model and a language model. The alignment component is a Bayesian extension of the standard HMM. The language model component is responsible for the generation of words needed for source fluency reasons from source language context. This allows for untranslatable source words to remain unaligned and at the same time avoids the introduction of artificial NULL words which introduces unusually long alignment jumps. Existing Bayesian word alignment models are unpractically slow because they consider each target position when resampling a given alignment link. The sampling complexity therefore grows linearly in the target sentence length. In order to make our model useful in practice, we devise an auxiliary variable Gibbs sampler that allows us to resample alignment links in constant time independently of the target sentence length. This leads to considerable speed improvements. Experimental results show that our model performs as well as existing word alignment toolkits in terms of resulting BLEU score."
   bibtex: >
-    @InProceedings{Schulz+2016:BIBM2Z,
-    author    = {Schulz, Philip  and  Aziz, Wilker  and  Sima'an, Khalil},
-    title     = {Word Alignment without NULL Words},
-    booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
-    month     = {August},
+    @InProceedings{Schulz+2016:BHMMZ,
+    author    = {Schulz, Philip  and  Aziz, Wilker},
+    title     = {Fast Collocation-Based Bayesian HMM Word Alignment},
+    booktitle = {Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics},
+    month     = {December},
     year      = {2016},
-    address   = {Berlin, Germany},
-    publisher = {Association for Computational Linguistics},
-    pages     = {169--174},
-    url       = {http://anthology.aclweb.org/P16-2028}
+    address   = {Osaka, Japan},
+    publisher = {Association for Natural Language Processing},
     }
+  note: to appear
 -
   layout: paper
   paper-type: inproceedings
@@ -59,15 +59,26 @@
   paper-type: inproceedings
   selected: y
   year: 2016
-  img: coling2016
-  title: "Fast Collocation-Based Bayesian HMM Word Alignment"
-  authors: "Philip Schulz and Wilker Aziz"
-  booktitle: Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics
-  doc-url: 
-  booktitle-url: http://coling2016.anlp.jp
+  img: acl2016
+  title: "Word alignment without NULL words"
+  authors: "Philip Schulz, Wilker Aziz and Khalil Sima'an"
+  booktitle: Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics
+  doc-url: https://www.aclweb.org/anthology/P/P16/P16-2028.pdf
+  booktitle-url: http://acl2016.org
   code: https://github.com/philschulz/Aligner 
-  poster: 
-  draft: /papers/coling2016.pdf
+  poster: /poster/acl2016.pdf
   venue: conference
   abstract: >
-      "We present a new Bayesian HMM word alignment model for statistical machine translation. The model is a mixture of an alignment model and a language model. The alignment component is a Bayesian extension of the standard HMM. The language model component is responsible for the generation of words needed for source fluency reasons from source language context. This allows for untranslatable source words to remain unaligned and at the same time avoids the introduction of artificial NULL words which introduces unusually long alignment jumps. Existing Bayesian word alignment models are unpractically slow because they consider each target position when resampling a given alignment link. The sampling complexity therefore grows linearly in the target sentence length. In order to make our model useful in practice, we devise an auxiliary variable Gibbs sampler that allows us to resample alignment links in constant time independently of the target sentence length. This leads to considerable speed improvements. Experimental results show that our model performs as well as existing word alignment toolkits in terms of resulting BLEU score."
+      "In word alignment certain source words are only needed for fluency reasons and do not have a translation on the target side. Most word alignment models assume a target NULL word from which they generate these untranslatable source words. Hypothesising a target NULL word is not without problems, however. For example, because this NULL word has a position, it interferes with the distribution over alignment jumps. We present a word alignment model that accounts for untranslatable source words by generating them from preceding source words. It thereby removes the need for a target NULL word and only models alignments between word pairs that are actually observed in the data. Translation experiments on English paired with Czech, German, French and Japanese show that the model outperforms its traditional IBM counterparts in terms of BLEU score."
+  bibtex: >
+    @InProceedings{Schulz+2016:BIBM2Z,
+    author    = {Schulz, Philip  and  Aziz, Wilker  and  Sima'an, Khalil},
+    title     = {Word Alignment without NULL Words},
+    booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+    month     = {August},
+    year      = {2016},
+    address   = {Berlin, Germany},
+    publisher = {Association for Computational Linguistics},
+    pages     = {169--174},
+    url       = {http://anthology.aclweb.org/P16-2028}
+    }
