@@ -10,22 +10,22 @@ The plan is to review approximate inference techniques.
 
 Stochastic approximation:
 
-* [Robbins and Monro. 1951. A stochastic approximation method.](https://www.jstor.org/stable/2236626?seq=1#page_scan_tab_contents)
+* [Robbins and Monro. 1951. A stochastic approximation method.](https://www.jstor.org/stable/2236626?seq=1#page_scan_tab_contents) `done`
 * [Wang, Chong and Kulkarni, 1997. Weighted Averaging and Sto chastic Approximation.](http://www.cs.jhu.edu/~ijwang/pub/mcss_Mar20.pdf)
 
 Variational inference:
 
-* [Blei, Kucukelbir and McAuliffe. 2016. Variational Inference: a review for statisticians.](https://arxiv.org/abs/1601.00670)
+* [Blei, Kucukelbir and McAuliffe. 2016. Variational Inference: a review for statisticians.](https://arxiv.org/abs/1601.00670) `done`
+* [Paisley, Blei and Jordan. 2012. Variational Bayesian Inference with Stochastic Search](http://www.columbia.edu/~jwp2128/Papers/PaisleyBleiJordan2012b.pdf) `done`
 * [Hoffman, Blei, Wang and Paisley. 2013. Stochastic Variational Inference.](http://www.columbia.edu/~jwp2128/Papers/HoffmanBleiWangPaisley2013.pdf)
-* [Paisley, Blei and Jordan. 2012. Variational Bayesian Inference with Stochastic Search](http://www.columbia.edu/~jwp2128/Papers/PaisleyBleiJordan2012b.pdf)
 * [NIPS workshop on VI](https://sites.google.com/site/variationalworkshop/)
 
 
 Approximating partition functions:
 
+* [Gutmann and Hyvarinen. 2012. Noise-constrastive estimation of unnormalized statistical models, with applications to natural image statistics.](http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf) `done`
+* [Dyer. 2014. Notes on noise contrastive estimation and negative sampling.](http://arxiv.org/pdf/1410.8251v1.pdf) `done`
 * [Geyer. 1994. On the convergence of Monte Carlo maximum likelihood calculations.](https://www2.stat.duke.edu/~scs/Courses/Stat376/Papers/GibbsFieldEst/GeyerConvergeMCMaxLik1994.pdf)
-* [Gutmann and Hyvarinen. 2012. Noise-constrastive estimation of unnormalized statistical models, with applications to natural image statistics.](http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf)
-* [Dyer. 2014. Notes on noise contrastive estimation and negative sampling.](http://arxiv.org/pdf/1410.8251v1.pdf)
 
 
 
