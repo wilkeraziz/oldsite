@@ -5,7 +5,7 @@ categories: teaching
 ---
 
 
-Starting to organise some notes
+Notes for guest lecture at NLP I: I covered a bit of PGMs (DAGs in particular) and MLE for fully observable data (e.g. bigram language modelling) and for incomplete data (word alignment with IBM model 1).
 
 * [Slides for DGMs and IBM model 1 (NLP I)](/resources/courses/slides-dgm-ibm1.pdf)
 * [MLE for IBM1](/resources/courses/notes-mle-ibm1.pdf)
