@@ -7,6 +7,6 @@ categories: teaching
 
 Starting to organise some notes
 
-* [MLE for IBM1 and 2](resources/courses/notes-mle.pdf)
-* [Directed graphical models](resources/courses/notes-dgm.pdf)
-* [IBM model 1](resources/courses/dgm-ibm1.pdf)
+* [MLE for IBM1 and 2](/resources/courses/notes-mle.pdf)
+* [Directed graphical models](/resources/courses/notes-dgm.pdf)
+* [IBM model 1](/resources/courses/dgm-ibm1.pdf)
