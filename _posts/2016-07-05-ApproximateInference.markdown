@@ -37,3 +37,5 @@ MCMC:
 * [Steinhardt and Liang. 2015. Learning Fast-Mixing Models for Structured Prediction](http://jmlr.org/proceedings/papers/v37/steinhardtb15.pdf)
 * [T. Shi and J. Steinhardt and P. Liang. 2015. Learning Where To Sample in Structured Prediction.](https://cs.stanford.edu/~pliang/papers/sample-aistats2015.pdf)
 * [Rasmussen and Ghahramani. 2003. Bayesian Monte Carlo](http://mlg.eng.cam.ac.uk/zoubin/papers/RasGha03.pdf)
+* [David Blackwell. 1947. Conditional Expectation and Unbiased Sequential Estimation](http://projecteuclid.org/euclid.aoms/1177730497)
+* [George Casella and Christian P. Robert. 1996. Rao-Blackwellisation  of sampling schemes](https://biomet.oxfordjournals.org/content/83/1/81.full.pdf+html)
