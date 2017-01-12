@@ -7,7 +7,7 @@ layout: default
 
 I am a *Research Associate* at the [University of Amsterdam][UvA] working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}).
 My work focusses on better inference for statistical machine translation, particularly, algorithms
-which enable inference under complex models.
+which enable inference under complex models. I also work on alignment models and paraphrasing.
 
 
 I am a member of the [Statistical Language Processing and Learning Lab][SLPLL], at the [Institute for Logic, Language and Computation][ILLC].
