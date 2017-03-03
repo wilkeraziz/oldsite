@@ -18,6 +18,8 @@ Done:
 * [Hierarchical Variational Models](https://arxiv.org/pdf/1511.02386.pdf)
 * [Black Box Variational Inference](https://arxiv.org/pdf/1401.0118.pdf)
 * [Stochastic Variational Inference](https://arxiv.org/pdf/1206.7051.pdf)
+* [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/pdf/1406.5298.pdf)
+* [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 * [Variational Bayesian Inference with Stochastic Search](https://arxiv.org/pdf/1206.6430.pdf)
 * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 * [A Stochastic Approximation Method](https://www.jstor.org/stable/2236626)
