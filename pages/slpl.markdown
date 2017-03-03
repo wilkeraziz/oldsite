@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# SLPL reading group 
-
 This group is interested in NLP applications with a particular focus on parsing and machine translation.
 
 
