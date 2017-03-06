@@ -9,7 +9,7 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 Scheduled:
 
-* Probabilistic Matrix Factorization
+* [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) (Extra: [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf))
 
 Done:
 
