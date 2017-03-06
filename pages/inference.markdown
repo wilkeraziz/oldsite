@@ -17,6 +17,10 @@ Done:
 * [Auxiliary Deep Generative Models]( https://arxiv.org/pdf/1602.05473.pdf)
 * [Hierarchical Variational Models](https://arxiv.org/pdf/1511.02386.pdf)
 * [Black Box Variational Inference](https://arxiv.org/pdf/1401.0118.pdf)
+* [Rejection Sampling Variational Inference](https://arxiv.org/pdf/1610.05683.pdf)
+* [The Generalized Reparameterization Gradient](https://arxiv.org/pdf/1610.02287.pdf)
+* [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/pdf/1611.00712.pdf)
+* [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/pdf/1611.01144.pdf)
 * [Stochastic Variational Inference](https://arxiv.org/pdf/1206.7051.pdf)
 * [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/pdf/1406.5298.pdf)
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
@@ -24,3 +28,12 @@ Done:
 * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 * [A Stochastic Approximation Method](https://www.jstor.org/stable/2236626)
 
+
+Pool:
+
+* [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
+* [Variational Inference with Normalizing Flows](http://jmlr.org/proceedings/papers/v37/rezende15.pdf)
+* [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)
+* [Operator Variational Inference](https://arxiv.org/pdf/1610.09033.pdf)
+* [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
+* [Stick-Breaking Variational Autoencoders](https://arxiv.org/pdf/1605.06197.pdf)
