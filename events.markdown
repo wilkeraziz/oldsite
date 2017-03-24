@@ -9,5 +9,7 @@ title: Events
 
 * [Approximate inference](pages/inference)
 * [SLPL](pages/slpl)
+* [Deep generative models](pages/dgm)
+* [Deep learning](pages/deeplearning)
 
 
