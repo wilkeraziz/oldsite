@@ -9,10 +9,10 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 Scheduled:
 
-* [Short text clustering by finding core terms](https://link.springer.com/article/10.1007/s10115-010-0299-7)
 
 Done:
 
+* [Short text clustering by finding core terms](https://link.springer.com/article/10.1007/s10115-010-0299-7)
 * [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) (Extra: [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf))
 * [Dynamic Programming for Linear-Time Incremental Parsing](http://www.aclweb.org/anthology/P10-1110)
 * [Trainable Greedy Decoding for Neural Machine Translation](https://arxiv.org/pdf/1702.02429.pdf)
