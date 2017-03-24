@@ -10,10 +10,11 @@ This group is interested in techniques for approximate inference in complex prob
 
 Scheduled:
 
-* [Deep and Hierarchical Implicit Models](https://arxiv.org/pdf/1702.08896.pdf)
 
 Done:
 
+* [Operator Variational Inference](https://arxiv.org/pdf/1610.09033.pdf)
+* [Deep and Hierarchical Implicit Models](https://arxiv.org/pdf/1702.08896.pdf)
 * [Auxiliary Deep Generative Models]( https://arxiv.org/pdf/1602.05473.pdf)
 * [Hierarchical Variational Models](https://arxiv.org/pdf/1511.02386.pdf)
 * [Black Box Variational Inference](https://arxiv.org/pdf/1401.0118.pdf)
@@ -34,6 +35,5 @@ Pool:
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
 * [Variational Inference with Normalizing Flows](http://jmlr.org/proceedings/papers/v37/rezende15.pdf)
 * [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)
-* [Operator Variational Inference](https://arxiv.org/pdf/1610.09033.pdf)
 * [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
 * [Stick-Breaking Variational Autoencoders](https://arxiv.org/pdf/1605.06197.pdf)
