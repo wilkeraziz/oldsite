@@ -9,6 +9,7 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 Scheduled:
 
+* [A Neural Attention Model for Sentence Summarization](https://aclweb.org/anthology/D/D15/D15-1044.pdf)
 
 Done:
 
