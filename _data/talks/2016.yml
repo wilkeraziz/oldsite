@@ -1,0 +1,13 @@
+-
+  layout: talk
+  selected: y
+  year: 2016
+  event: 08/12/2016, 1pm, Science Park C0.110
+  img: dgm
+  title: Directed graphical models (the case of lexical alignment models)
+  authors: Wilker Aziz
+  doc-url: /slides/dgm.pdf
+  slides: /slides/dgm.pdf
+  abstract: >
+    Invited lecture for NLPI at UvA, I covered basic of directed graphical models and presented IBM1 as an application for latent variable modelling. I also discussed maximum likelihood estimation via expectation maximisation for categorical distributions.
+
