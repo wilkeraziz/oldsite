@@ -12,16 +12,15 @@ This is the third edition which I organise, the first one was in the spring of 2
 
 ## Bayesian PCFG
 
-In March 2017, I offered a 4 weeks course on Bayesian PCFGs, here is a lits of the topics covered:
+In March 2017, I offered a 4 weeks course on Bayesian PCFGs, here is a list of the topics covered:
 
 * Parsing as weighted deduction (CKY, Earley)
-* Algorithms: Inside-Outside, Viterbi, ancestral sampling
+* Inside-Outside and ancestral sampling
 * Maximum likelihood of PCFGs via EM
 * Dirichlet priors
-* Bayesian PCFG: Gibbs sampler
-* Bayesian PCFG: collapsed Metropolis-Hastings sampler
+* Bayesian PCFG: Gibbs sampler and collapsed Metropolis-Hastings sampler
 
-My student [DAan van Stigt](//github.com/daandouwe) did an excellent job! Check his amazing [notebooks](//github.com/daandouwe/Probabilistic-modelling-with-PCFG).
+My student [Daan van Stigt](//github.com/daandouwe) did an excellent job! Check his amazing [notebooks](//github.com/daandouwe/Probabilistic-modelling-with-PCFG).
 
 
 ## Sampling from PCFGs
@@ -32,7 +31,7 @@ In the spring of 2015, I offered a course to Master of Logic students on [parsin
 
 ## Featurised EM
 
-In the spring of 2016, I am offered a BA project on [feature-rich unsupervised alignment models](resources/courses/BA-featurised-EM.pdf). My student [Guido Linders](//esc.fnwi.uva.nl/thesis/centraal/files/f1886233032.pdf) did a great job ([thesis](//esc.fnwi.uva.nl/thesis/centraal/files/f1886233032.pdf), [code](//github.com/wilkeraziz/lola))!
+In the spring of 2016, I offered a BA project on [feature-rich unsupervised alignment models](resources/courses/BA-featurised-EM.pdf). My student [Guido Linders](//esc.fnwi.uva.nl/thesis/centraal/files/f1886233032.pdf) did a great job ([thesis](//esc.fnwi.uva.nl/thesis/centraal/files/f1886233032.pdf), [code](//github.com/wilkeraziz/lola))!
 
 ## Slice sampling from PCFGs
 
