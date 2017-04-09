@@ -12,7 +12,6 @@ title: Talks
 
 {% assign sortedyears = years | split:' ' | sort | reverse %}
 {% for year in sortedyears %}
-### {{ year }}
 {% for talk in hashes[year] %}
 {% include talk.html talk=talk %}
 {% endfor %}
