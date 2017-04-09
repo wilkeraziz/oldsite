@@ -51,6 +51,6 @@
 
     * [Parsing as weighted deduction](https://arxiv.org/pdf/cmp-lg/9404008.pdf) (CKY, Earley)
     * [Inside-Outside](http://www.aclweb.org/anthology/J/J99/J99-4004.pdf)
-    * [Ancestral sampling]()
-    * [Slice sampling]()
+    * [Ancestral sampling](http://dl.acm.org/citation.cfm?id=748109)
+    * [Slice sampling](http://www.aclweb.org/anthology/N10-1028)
 
