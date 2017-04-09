@@ -1,0 +1,12 @@
+-
+  layout: course
+  selected: y
+  year: 2016
+  event: "Guido Linder's BA project (2016)"
+  img: nlp2
+  title: Feature-rich unsupervised word alignment models
+  doc-url: resources/courses/BA-featurised-EM.pdf
+  institution: UvA
+  github: wilkeraziz/lola
+  about: |
+    In the spring of 2016, I offered a BA project on feature-rich unsupervised alignment models. My student [Guido Linders]() did a great [job](https://esc.fnwi.uva.nl/thesis/centraal/files/f1886233032.pdf)!

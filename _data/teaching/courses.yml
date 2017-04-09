@@ -1,0 +1,56 @@
+-
+  layout: course
+  selected: y
+  year: 2017
+  event: 2015-present (offered in Spring)
+  img: nlp2
+  title: Natural Language Processing II
+  doc-url: //uva-slpl.github.io/nlp2/
+  institution: UvA
+  github: uva-slpl/nlp2 
+  about: |
+    I’m organising Natural Language Processing II at UvA (the course is focused on machine translation). This is the third edition which I organise, the first one was in the spring of 2015. 
+
+    The course is organised in three blocks
+
+    * Unsupervised word alignments: directed models (EM estimation and VB) and undirected models (MLE via gradient-based optimisation)
+    * Statistical machine translation: (hierarchical) phrase-based MT (linear models), latent-variable CRF for hierarhical PBSMT
+    * Neural machine translation: fully supervised sequence to sequence models, deep generative models
+-
+  layout: course
+  selected: y
+  year: 2017
+  event: March 2017
+  img: pcfg
+  title: Bayesian inference for PCFGs
+  doc-url: /resources/courses/pcfgs.pdf
+  institution: UvA
+  about: |
+    4 weeks course on Bayesian inference for PCFGs, here is a list of the topics covered:
+
+    * [Parsing as weighted deduction](https://arxiv.org/pdf/cmp-lg/9404008.pdf) (CKY, Earley)
+    * [Inside-Outside and ancestral sampling](http://www.aclweb.org/anthology/J/J99/J99-4004.pdf)
+    * [Maximum likelihood of PCFGs via EM](https://www.cs.jhu.edu/~jason/665/lari-young.pdf)
+    * Introduction to Dirichlet distribution and related processes
+    * [Bayesian inference for PCFG](/Users/waziz/workspace/github/nlp2/img/lectures/biparsing.png): Gibbs sampler and collapsed Metropolis-Hastings sampler
+
+    My student [Daan van Stigt](//github.com/daandouwe) did an excellent job! Check his amazing [notebooks](//github.com/daandouwe/Probabilistic-modelling-with-PCFG).
+
+-
+  layout: course
+  selected: y
+  year: 2015
+  event: June 2015
+  img: deduction
+  title: Monte Carlo inference for probabilistic context-free grammars
+  doc-url: /resources/courses/MoL-pcfg-sampling.pdf
+  institution: UvA
+  github: wilkeraziz/notebooks/tree/master/MoL_June15
+  about: |
+    4 weeks course on MC techniques for PCFGs, here is a list of the topics covered:
+
+    * [Parsing as weighted deduction](https://arxiv.org/pdf/cmp-lg/9404008.pdf) (CKY, Earley)
+    * [Inside-Outside](http://www.aclweb.org/anthology/J/J99/J99-4004.pdf)
+    * [Ancestral sampling]()
+    * [Slice sampling]()
+
