@@ -20,7 +20,7 @@
   layout: course
   selected: y
   year: 2017
-  event: March 2017
+  event: March 2017 - 6EC
   img: pcfg
   title: Bayesian inference for PCFGs
   doc-url: /resources/courses/pcfgs.pdf
@@ -40,7 +40,7 @@
   layout: course
   selected: y
   year: 2015
-  event: June 2015
+  event: June 2015 - 6EC
   img: deduction
   title: Monte Carlo inference for probabilistic context-free grammars
   doc-url: /resources/courses/MoL-pcfg-sampling.pdf
