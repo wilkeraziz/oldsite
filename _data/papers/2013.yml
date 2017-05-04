@@ -1,11 +1,12 @@
 -
   layout: paper
-  paper-type: inproceedings
+  paper-type: thesis
   selected: y
   year: 2013
   img: thesis
   title: Exact Sampling and Optimisation in Statistical Machine Translation
   authors: Wilker Aziz
+  institution: University of Wolverhampton
   doc-url: http://rgcl.wlv.ac.uk/papers/aziz-thesis.pdf
   bibtex: >
     @PhdThesis{aziz-phd,

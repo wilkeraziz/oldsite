@@ -5,7 +5,6 @@ layout: default
 ![wilker](/img/people/wilker2.png){: style="float: right; margin: 0px 20px; width: 250px; height: 250px" }
 
 
-
 I am a *Research Associate* at the [University of Amsterdam][UvA] working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}).
 My work focusses on better inference for machine translation, particularly, algorithms
 which enable inference under complex models. I also work on alignment models and paraphrasing.
