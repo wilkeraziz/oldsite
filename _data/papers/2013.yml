@@ -3,6 +3,23 @@
   paper-type: inproceedings
   selected: y
   year: 2013
+  img: thesis
+  title: Exact Sampling and Optimisation in Statistical Machine Translation
+  authors: Wilker Aziz
+  doc-url: http://rgcl.wlv.ac.uk/papers/aziz-thesis.pdf
+  bibtex: >
+    @PhdThesis{aziz-phd,
+       author =   {Wilker Aziz},
+       title =    {Exact Sampling and Optimisation in Statistical Machine Translation},
+       year =     {2013},
+       address =  {Wolverhampton, UK},
+       URL =      {http://clg.wlv.ac.uk/papers/aziz-thesis.pdf}
+    }
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2013
   img: wmt2013
   title: Investigations in Exact Inference for Hierarchical Translation
   authors: Wilker Aziz, Marc Dymetman and Sriram Venkatapathy
