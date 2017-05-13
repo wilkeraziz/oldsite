@@ -9,6 +9,8 @@
 \usepackage[top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm]{geometry}
 \usepackage{titlesec}
 \usepackage{bibtopic}
+\usepackage{hyperref}
+\usepackage{scrextend}
 
 \titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
 
@@ -25,11 +27,10 @@
 \newcommand{\contact}{Institute for Logic, Language and Computation \\
 University of Amsterdam \\
 Science Park 107, F2.11 \\
-Amsterdam, 1098 XG \\
-Netherlands  \\
+Amsterdam, 1098 XG, Netherlands  \\
 Tel: +31 (0) 631991009 \\
 \url{w.aziz@uva.nl} \\
-\url{http://wilkeraziz.github.io} 
+\url{https://wilkeraziz.github.io} 
 }
 % \specialcell[t]{Lucia Specia (University of Sheffield) \\ Ruslan Mitkov (University of Wolverhampton)} 
 \newcommand{\specialcell}[2][c]{%
@@ -53,12 +54,15 @@ Tel: +31 (0) 631991009 \\
 
 %\vspace{2mm}
 Birth: \birthday -- \location \\
-Citizenships: \citizenships \\
+%Citizenships: \citizenships \\
 Languages: Portuguese (native), English (fluent), Italian and French (basic)
 \vspace{2mm}
-\begin{description}
-	\item[Contact:] \contact
-\end{description}
+
+
+\begin{addmargin}[0em]{2em}% 1em left, 2em right
+\contact
+\end{addmargin}
+
 
 \input{education}
 
@@ -66,7 +70,7 @@ Languages: Portuguese (native), English (fluent), Italian and French (basic)
 
 \input{research}
 
-\input{talks}
+%\input{talks}
 
 \input{publications}
 
