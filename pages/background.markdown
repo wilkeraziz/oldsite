@@ -14,4 +14,4 @@ In 2010, I obtained my BSc degree in Computer Engineering from the Engineering S
 
 # Personal 
 
-I really enjoy playing the guitar (ask me for a Brazilian bossa nova tune) and I've been told I mix great cocktails (ask me for a classic). Recently, I've been collecting cocktail glassware and I bought a turntable (and now you know what to give me on November 13 ;)).
+I really enjoy playing the guitar (ask me for a Brazilian bossa nova tune) and I've been told I mix great cocktails (ask me for a classic). Recently, I've been collecting cocktail glassware and I bought a turntable (and now you know what to give me on November 13 &#x1F609;).
