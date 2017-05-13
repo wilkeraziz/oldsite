@@ -21,7 +21,7 @@
   selected: y
   year: 2017
   event: March 2017 - 6EC
-  img: pcfg
+  img: bpcfg
   title: Bayesian inference for PCFGs
   doc-url: /resources/courses/pcfgs.pdf
   institution: UvA
@@ -32,7 +32,7 @@
     * [Inside-Outside and ancestral sampling](http://www.aclweb.org/anthology/J/J99/J99-4004.pdf)
     * [Maximum likelihood of PCFGs via EM](https://www.cs.jhu.edu/~jason/665/lari-young.pdf)
     * Introduction to Dirichlet distribution and related processes
-    * [Bayesian inference for PCFG](/Users/waziz/workspace/github/nlp2/img/lectures/biparsing.png): Gibbs sampler and collapsed Metropolis-Hastings sampler
+    * [Bayesian inference for PCFG](https://cocosci.berkeley.edu/tom/papers/mcmc-pcfg.pdf): Gibbs sampler and collapsed Metropolis-Hastings sampler
 
     My student [Daan van Stigt](//github.com/daandouwe) did an excellent job! Check his amazing [notebooks](//github.com/daandouwe/Probabilistic-modelling-with-PCFG).
 

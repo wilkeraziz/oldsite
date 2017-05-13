@@ -1,34 +1,51 @@
 -
   layout: person
-  relation: PhD candidate
+  relation: PhD candidate (2017-)
   selected: y
-  since: 2015
+  institution: UvA
+  img: joost
+  name: Joost Bastings
+  url: http://joost.ninja
+  github: bastings
+  about: >
+    Neural machine translation, deep linguistic analysis (e.g. syntax, semantics, coreference) for NMT.
+-
+  layout: person
+  relation: PhD candidate (2016-)
+  selected: y
+  institution: UvA
+  img: jo
+  name: Joachim Daiber
+  url: http://jodaiber.de
+  github: jodaiber
+  about: >
+    Machine translation, free word-order, rich morphology, and parsing.
+-
+  layout: person
+  relation: PhD candidate (2015-)
+  selected: y
+  institution: UvA
+  img: philip
+  name: Philip Schulz
+  url: http://philipschulz.org 
+  github: philschulz
+  about: >
+      Hierarchical Bayesian models for machine translation and word alignment.
+-
+  layout: person
+  relation: PhD candidate (2015-)
+  selected: y
   institution: UvA
   img: milos
   name: Miloš Stanojević
   url: https://staff.fnwi.uva.nl/m.stanojevic/
   github: stanojevic
-  extra: >
-      Milos is a Chomskyan himself and rumour has it that he's been trying to drag me to his side of the force.
   about: >
-    Milos is putting SMT in order.
+    Machine translation, word-order, automatic evaluation, and parsing.
 -
   layout: person
-  relation: PhD candidate
-  selected: y
-  since: 2015
-  institution: UvA
-  img: philip
-  name: Philip Schulz
-  url: http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/s/c/p.schulz/p.schulz.html
-  github: philschulz
-  about: >
-      Philip designs statistical models that are more aligned with our expectations.
--
-  layout: person
-  relation: PhD candidate
-  selected: y
-  since: 2014
+  relation: PhD candidate (2014-)
+  selected: n
   institution: UoS
   img: david
   name: David Steele
@@ -38,9 +55,8 @@
       David makes SMT less implicit.
 -
   layout: person
-  relation: PhD candidate
-  selected: y
-  since: 2014
+  relation: PhD candidate (2014-)
+  selected: n
   institution: UoS
   img: karin
   name: Karin Smith
@@ -50,9 +66,19 @@
       Karin makes SMT coherent.
 -
   layout: person
-  relation: BA candidate
+  relation: MA candidate (2017-)
   selected: y
-  since: 2016
+  institution: UvA
+  img: avatar
+  name: Sander Bijl de Vroe
+  url: 
+  github: Brednas
+  about: >
+      I supervise Sander's project on deep generative models of morphological segmentation and analysis for neural machine translation.
+-
+  layout: person
+  relation: BA (2016)
+  selected: y
   institution: UvA
   img: avatar
   name: Guido Linders
@@ -63,9 +89,8 @@
       He is now pursuing an Erasmus Mundus master degree in Language and Communication Technologies.
 -
   layout: person
-  relation: BA
+  relation: BA (2015)
   selected: y
-  since: 2015
   institution: UvA
   img: avatar
   name: Iason de Bondt

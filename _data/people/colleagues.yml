@@ -2,7 +2,6 @@
   layout: person
   relation: PI
   selected: y
-  since: 2015
   institution: UvA
   img: khalil
   name: Khalil Sima'an
@@ -16,7 +15,6 @@
 -
   layout: person
   selected: y
-  since: 2009
   institution: UoS
   img: lucia
   name: Lucia Specia
@@ -32,7 +30,6 @@
 -
   layout: person
   selected: y
-  since: 2009
   institution: XRCE
   img: marc
   name: Marc Dymetman
