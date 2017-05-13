@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Occasionally, we also read about deep learning (even when latent variables are nowhere to be seen and inference is trivial).
+We also read about deep learning (even when latent variables are nowhere to be seen and inference is trivial).
 
 Pool:
 

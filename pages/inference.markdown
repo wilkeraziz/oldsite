@@ -8,10 +8,18 @@ This group is interested in techniques for approximate inference in complex prob
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=250&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=oa6cmu8nbg8iet2j07d9tobs1c%40group.calendar.google.com&amp;color=%236E6E41&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="250" frameborder="0" scrolling="no"></iframe>
 
 
-Scheduled:
+# Scheduled
+
+Where: F2.02 from 11:30 to 12:30
+
+What: 
+
+* May 25: [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
+* June 1:
+* June 8:
 
 
-Done:
+# Done
 
 * [Operator Variational Inference](https://arxiv.org/pdf/1610.09033.pdf)
 * [Deep and Hierarchical Implicit Models](https://arxiv.org/pdf/1702.08896.pdf)
@@ -33,5 +41,4 @@ Pool:
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
 * [Variational Inference with Normalizing Flows](http://jmlr.org/proceedings/papers/v37/rezende15.pdf)
 * [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)
-* [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
 * [Faster Coordinate Descent via Adaptive Importance Sampling](https://arxiv.org/pdf/1703.02518.pdf)

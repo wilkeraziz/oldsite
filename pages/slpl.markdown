@@ -7,12 +7,26 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=250&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=iuesktj5bg3jmil7kjjtpplju4%40group.calendar.google.com&amp;color=%23853104&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="250" frameborder="0" scrolling="no"></iframe>
 
-Scheduled:
+# Scheduled 
+
+Where: F2.02 from 11:30 to 12:30.
+
+What:
+
+* May 26: Sophie's choice
+* June 2: Joost's choice
+* June 9: Miguel's choice
+* June 16: Wilker's choice
+* June 23: Milos's choice
+* June 30: Amir's choice
+* July 7: Khalil's choice
+* July 14: Jo's choice
+* July 21: Philip's choice
+* July 28: Marion's choice
+
+# Done
 
 * [A Neural Attention Model for Sentence Summarization](https://aclweb.org/anthology/D/D15/D15-1044.pdf)
-
-Done:
-
 * [Short text clustering by finding core terms](https://link.springer.com/article/10.1007/s10115-010-0299-7)
 * [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) (Extra: [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf))
 * [Dynamic Programming for Linear-Time Incremental Parsing](http://www.aclweb.org/anthology/P10-1110)
