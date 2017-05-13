@@ -3,6 +3,8 @@ layout: photolist
 title: Talks
 ---
 
+Some invited talks, lectures and tutorials:
+
 {% assign hashes = (site.data.talks) %}
 {% capture years %}
 {% for hash in hashes %}
