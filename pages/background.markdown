@@ -1,8 +1,9 @@
 ---
 layout: default
+menu: no
 ---
 
-Here you find a bit about my work and personal life.
+Here you find a bit more about my background and personal life.
 
 # Work
 

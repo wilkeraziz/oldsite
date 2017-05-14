@@ -1,5 +1,6 @@
 ---
 layout: default
+menu: no
 ---
 
 This group is interested in NLP applications with a particular focus on parsing and machine translation.

@@ -1,5 +1,6 @@
 ---
 layout: default
+menu: no
 ---
 
 Coming soon: a reading group on Bayesian NLP.

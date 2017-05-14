@@ -1,5 +1,6 @@
 ---
 layout: default
+menu: no
 ---
 
 This group is interested in techniques for approximate inference in complex probabilistic models.

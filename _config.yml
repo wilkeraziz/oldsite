@@ -1,5 +1,5 @@
 # Site settings
-exclude: [README.md, posts.html]
+exclude: [README.md]
 title: Wilker Aziz
 email: wilker.aziz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"

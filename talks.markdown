@@ -1,6 +1,7 @@
 ---
 layout: photolist
 title: Talks
+menu: yes
 ---
 
 Some invited talks, lectures and tutorials:

@@ -13,9 +13,7 @@ I pursue combinations of statistical and logical views to NLP problems, that is 
 
 Recently, I've developed quite an interest in deep generative models, write to me if you are looking for a project.
 
-I am a member of the [Statistical Language Processing and Learning Lab][SLPLL], at the [Institute for Logic, Language and Computation][ILLC].
 
-Here is my [CV]({{ site.baseurl }}/{{ site.cv }}) and here is a quick [background](pages/background).
 
 If you need to find me try Science Park 107 (F2.11).
 

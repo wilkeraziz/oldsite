@@ -1,6 +1,7 @@
 ---
 layout: photolist
 title: Teaching
+menu: yes
 ---
 
 # Courses

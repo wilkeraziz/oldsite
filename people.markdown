@@ -1,6 +1,7 @@
 ---
 layout: photolist
 title: People
+menu: yes
 ---
 
 

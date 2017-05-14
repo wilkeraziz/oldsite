@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Events
+menu: yes
 ---
 
 I organise a few reading groups, if you feel like suggesting a paper you can contact me directly.
