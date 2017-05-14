@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Here you find a bit about my work and personal life.
+
 # Work
 
 From November 2013 to December 2014, I worked at the [University of Sheffield](http://www.sheffield.ac.uk/dcs) with [Dr Lucia Specia]({{ site.lucia_specia }}) on the [MODIST project]({{ site.modist_url }}) which aims at making SMT discourse-aware.
@@ -14,4 +16,4 @@ In 2010, I obtained my BSc degree in Computer Engineering from the Engineering S
 
 # Personal 
 
-I really enjoy playing the guitar (ask me for a Brazilian bossa nova tune) and I've been told I mix great cocktails (ask me for a classic). Recently, I've been collecting cocktail glassware and I bought a turntable (and now you know what to give me on November 13 &#x1F609;).
+I really enjoy playing the guitar (ask me for a Brazilian tune from the 60s) and I've been told I mix great cocktails (ask me for a classic). Recently, I've been collecting cocktail glassware and I bought a turntable (and now you know what to give me on November 13 &#x1F609;).
