@@ -42,7 +42,7 @@
   year: 2015
   event: June 2015 - 6EC
   img: deduction
-  title: Monte Carlo sampling for probabilistic context-free grammars
+  title: Parsing as deduction and Monte Carlo sampling for PCFGs
   doc-url: /resources/courses/MoL-pcfg-sampling.pdf
   institution: UvA
   github: wilkeraziz/notebooks/tree/master/MoL_June15
