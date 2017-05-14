@@ -10,4 +10,6 @@
   slides: /slides/embed-align.pdf
   abstract: >
     In this talk I will outline a few deep generative models applied to induction of word alignments. I propose a fully probabilistic account to unsupervised problems such as word embedding, alignment and segmentation. This is in contrast with deterministic representations obtained as a byproduct of training neural networks as fully supervised classifiers. If you care about NLP applications such as machine translation and if you are interested in the synergy between probabilistic graphical modelling and neural networks, then do come to my talk.
+  about: > 
+    Invited talk at ILPS.
 
