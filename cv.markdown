@@ -10,11 +10,18 @@ I am a member of the [Statistical Language Processing and Learning Lab][SLPLL], 
 Here is my complete [CV]({{ site.baseurl }}/{{ site.cv }}) and a bit more on my [background](pages/background).
 
 
-I often serve on the program committe of ML/CL/NLP/MT conferences:
+I often serve on the program committee of ML/CL/NLP/MT conferences
 
 * CL/NLP conferences: ACL, EMNLP, Coling, IJCNLP, CoNLL, RANLP, LREC
 * ML conferences: NIPS, ICLR
 * MT conferences: WMT, EAMT, AMTA, MT Summit
+
+and I review for CL/NLP/MT journals
+
+* Natural Language Engineering
+* Computer Speech and Language
+* Machine Translation
+
 
 
 [SLPLL]: {{ site.slpll_url }} "Statistical Language Processing and Learning Lab"
