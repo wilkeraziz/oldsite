@@ -37,7 +37,7 @@ What:
 * [A Convolutional Encoder Model for Neural Machine Translation](https://arxiv.org/pdf/1611.02344.pdf)
 * [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](https://arxiv.org/pdf/1512.05287.pdf) (Extra: [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](https://arxiv.org/pdf/1506.02142.pdf))
 * [The Neural Noisy Channel](https://arxiv.org/pdf/1611.02554.pdf)
-* [Recurrent Neural Network Grammars](https://arxiv.org/pdf/1602.07776.pdf) (Extra: [What Do Recurrent Neural Network Grammars Learn About Syntax?](https://arxiv.org/pdf/1611.05774.pdf))
+* [Recurrent Neural Network Grammars](https://arxiv.org/pdf/1602.07776.pdf) (Extra: [Transition-Based Dependency Parsing with Stack Long Short-Term Memory](http://www.aclweb.org/anthology/P15-1033) and [What Do Recurrent Neural Network Grammars Learn About Syntax?](https://arxiv.org/pdf/1611.05774.pdf))
 * [Tree-To-Sequence Attentional Neural Machine Translation](http://www.aclweb.org/anthology/P16-1078)
 * [LSTM: A Search Space Odyssey](https://arxiv.org/pdf/1503.04069.pdf)
 * [Nonparametric Spherical Topic Modeling with Word Embeddings](http://aclweb.org/anthology/P/P16/P16-2087.pdf)
