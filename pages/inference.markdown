@@ -39,6 +39,7 @@ What:
 
 Pool:
 
+* [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
 * [Variational Inference with Normalizing Flows](http://jmlr.org/proceedings/papers/v37/rezende15.pdf)
 * [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)

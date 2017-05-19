@@ -7,6 +7,7 @@ We also read about deep learning (even when latent variables are nowhere to be s
 
 Pool:
 
+* [Grammar variational auto-encoder](https://arxiv.org/abs/1703.01925)
 * [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
 * [Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/pdf/1606.03126.pdf)
 
