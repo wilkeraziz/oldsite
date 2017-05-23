@@ -14,8 +14,8 @@ Where: F2.02 from 11:30 to 12:30.
 
 What:
 
-* May 26: Sophie's choice
-* June 2: Joost's choice
+* May 24: [Recurrent Additive Networks](http://www.kentonl.com/pub/llz.2017.pdf)
+* June 2: Sophie's choice
 * June 9: Miguel's choice
 * June 16: Wilker's choice
 * June 23: Milos's choice
