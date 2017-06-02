@@ -46,3 +46,4 @@ Pool:
 * [Variational Inference with Normalizing Flows](http://jmlr.org/proceedings/papers/v37/rezende15.pdf)
 * [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)
 * [Faster Coordinate Descent via Adaptive Importance Sampling](https://arxiv.org/pdf/1703.02518.pdf)
+* [Markov Chain Monte Carlo and Variational Inference: Bridging the Gap](http://proceedings.mlr.press/v37/salimans15.pdf)
