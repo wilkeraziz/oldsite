@@ -18,3 +18,5 @@ Done:
 Pool:
 
 * [Stick-Breaking Variational Autoencoders](https://arxiv.org/pdf/1605.06197.pdf)
+* [Discovering Discrete Latent Topics with Neural Variational Inference](//arxiv.org/pdf/1706.00359.pdf)
+* Nonparametric Variational Auto-Encoders for Hierarchical Representation Learning

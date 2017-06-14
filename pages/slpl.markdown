@@ -14,10 +14,7 @@ Where: F2.02 from 11:30 to 12:30.
 
 What:
 
-* May 24: [Recurrent Additive Networks](http://www.kentonl.com/pub/llz.2017.pdf)
-* June 2: Sophie's choice
-* June 9: Miguel's choice
-* June 16: Wilker's choice
+* June 16: [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)
 * June 23: Milos's choice
 * June 30: Amir's choice
 * July 7: Khalil's choice
@@ -27,6 +24,9 @@ What:
 
 # Done
 
+* [Non-projective Dependency-based Pre-Reordering with Recurrent Neural Network for Machine Translation](//aclweb.org/anthology/W/W15/W15-1002.pdf)
+* [Semi-Supervised Learning with Ladder Networks](//arxiv.org/pdf/1507.02672.pdf)
+* [Recurrent Additive Networks](http://www.kentonl.com/pub/llz.2017.pdf)
 * [A Neural Attention Model for Sentence Summarization](https://aclweb.org/anthology/D/D15/D15-1044.pdf)
 * [Short text clustering by finding core terms](https://link.springer.com/article/10.1007/s10115-010-0299-7)
 * [Probabilistic Matrix Factorization](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf) (Extra: [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf))

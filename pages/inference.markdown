@@ -15,7 +15,7 @@ Where: F2.02 from 11:30 to 12:30
 
 What: 
 
-* May 25: [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
+* [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
 * June 1:
 * June 8:
 
