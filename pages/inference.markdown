@@ -15,7 +15,9 @@ Where: F2.02 from 11:30 to 12:30
 
 What: 
 
+* [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf)
 * [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
+* [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 * June 1:
 * June 8:
 
@@ -39,7 +41,6 @@ What:
 
 Pool:
 
-* [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
 * [Continuous Relaxations for Discrete Hamiltonian Monte Carlo](https://papers.nips.cc/paper/4652-continuous-relaxations-for-discrete-hamiltonian-monte-carlo.pdf)
 * [Discrete Variational Autoencoders](https://arxiv.org/abs/1609.02200)
