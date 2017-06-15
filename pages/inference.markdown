@@ -15,7 +15,6 @@ Where: F2.02 from 11:30 to 12:30
 
 What: 
 
-* [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf)
 * [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
 * [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 * June 1:
@@ -35,6 +34,7 @@ What:
 * [Categorical Reparameterization with Gumbel-Softmax](https://arxiv.org/pdf/1611.01144.pdf)
 * [Stochastic Variational Inference](https://arxiv.org/pdf/1206.7051.pdf)
 * [Variational Bayesian Inference with Stochastic Search](https://arxiv.org/pdf/1206.6430.pdf)
+* [The wake-sleep algorithm for unsupervised neural networks](http://www.cs.toronto.edu/~fritz/absps/ws.pdf)
 * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
 * [A Stochastic Approximation Method](https://www.jstor.org/stable/2236626)
 
