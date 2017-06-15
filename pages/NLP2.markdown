@@ -7,11 +7,11 @@ This is not exactly a reading group, it's more of a seminar session at [a course
 
 # Scheduled
 
-* May 19: [Learning to Parse and Translate Improves Neural Machine Translation](https://arxiv.org/pdf/1702.03525.pdf)
-* May 19: [The Neural Noisy Channel](https://arxiv.org/pdf/1611.02554.pdf)
 
 # Done
 
+* May 19: [Learning to Parse and Translate Improves Neural Machine Translation](https://arxiv.org/pdf/1702.03525.pdf)
+* May 19: [The Neural Noisy Channel](https://arxiv.org/pdf/1611.02554.pdf)
 * May 17: [Character-Aware Neural Language Models](https://arxiv.org/pdf/1508.06615.pdf) 
 * May 17: [Frustratingly Short Attention Spans in Neural Language Modeling](https://arxiv.org/pdf/1702.04521.pdf)
 * May 12: [Unsupervised Word Alignment with Arbitrary Features](http://www.aclweb.org/anthology/P11-1042)
