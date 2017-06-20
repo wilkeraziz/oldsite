@@ -14,7 +14,6 @@ Where: F2.02 from 11:30 to 12:30.
 
 What:
 
-* June 16: [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)
 * June 23: Milos's choice
 * June 30: Amir's choice
 * July 7: Khalil's choice
@@ -24,6 +23,7 @@ What:
 
 # Done
 
+* [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)
 * [Non-projective Dependency-based Pre-Reordering with Recurrent Neural Network for Machine Translation](//aclweb.org/anthology/W/W15/W15-1002.pdf)
 * [Semi-Supervised Learning with Ladder Networks](//arxiv.org/pdf/1507.02672.pdf)
 * [Recurrent Additive Networks](http://www.kentonl.com/pub/llz.2017.pdf)
@@ -46,3 +46,9 @@ What:
 * [Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://arxiv.org/pdf/1606.01847.pdf)
 * [Incremental Parsing with Minimal Features Using Bi-Directional LSTM](https://www.aclweb.org/anthology/P/P16/P16-2006.pdf) (Extra: [Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations](https://arxiv.org/pdf/1603.04351.pdf))
 * [Most "babies" are "little" and most "problems" are "huge": Compositional Entailment in Adjective-Nouns](https://www.aclweb.org/anthology/P/P16/P16-1204.pdf)
+
+# Pool
+
+* [Semi-Supervised Learning for Neural Machine Translation](https://arxiv.org/pdf/1606.04596.pdf)
+* [On Using Monolingual Corpora in Neural Machine Translation](https://arxiv.org/pdf/1503.03535.pdf)
+* [Plan, Attend, Generate: Character-Level Neural Machine Translation with Planning](https://arxiv.org/pdf/1706.05087.pdf)
