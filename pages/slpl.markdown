@@ -1,5 +1,6 @@
 ---
 layout: default
+title: SLPL Reading Group
 menu: no
 ---
 

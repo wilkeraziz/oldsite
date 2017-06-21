@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Deep Learning for NLP
 menu: no
 ---
 

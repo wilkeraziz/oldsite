@@ -18,7 +18,8 @@ I organise a few reading groups, if you feel like suggesting a paper you can con
 * &#x1F4D8; [SLPL](pages/slpl)
 * &#x1F4D9; [Deep generative models](pages/dgm)
 * &#x1F4D7; [Deep learning](pages/deeplearning)
-* &#x1F4D2; Bayesian NLP ``coming soon!``
 * [NLP2](pages/NLP2)
+* [Bayesian optimisation](pages/bayesianopt)
+* [Bayesian NLP](pages/bayesiannlp)
 
 

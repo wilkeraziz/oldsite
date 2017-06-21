@@ -1,5 +1,6 @@
 ---
 layout: default
+title: NLP2 seminar
 menu: no
 ---
 

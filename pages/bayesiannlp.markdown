@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Bayesian NLP
 menu: no
 ---
 

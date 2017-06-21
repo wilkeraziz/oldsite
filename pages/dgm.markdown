@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Deep Generative Models
 menu: no
 ---
 
