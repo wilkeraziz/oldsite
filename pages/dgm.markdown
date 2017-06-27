@@ -9,10 +9,10 @@ This group is interested in deep generative models (DGMs). DGMs usually require 
 
 Scheduled:
 
-* [Towards a Deeper Understanding of Variational Autoencoding Models](https://arxiv.org/pdf/1702.08658.pdf) and [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/pdf/1706.02262.pdf)
 
 Done:
 
+* [Towards a Deeper Understanding of Variational Autoencoding Models](https://arxiv.org/pdf/1702.08658.pdf) and [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/pdf/1706.02262.pdf)
 * [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)
 * [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/pdf/1406.5298.pdf)
 * [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
