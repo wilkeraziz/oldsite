@@ -8,6 +8,7 @@ We also read about deep learning (even when latent variables are nowhere to be s
 
 # Scheduled
 
+* Friday 30: [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/pdf/1308.3432.pdf) and Gumbel relaxations ([a](https://arxiv.org/abs/1611.00712) and [b](https://arxiv.org/pdf/1611.01144.pdf))
 
 # Pool
 
