@@ -15,12 +15,6 @@ Where: F2.02 from 11:30 to 12:30.
 
 What:
 
-* June 23: Milos's choice
-* June 30: Amir's choice
-* July 7: Khalil's choice
-* July 14: Jo's choice
-* July 21: Philip's choice
-* July 28: Marion's choice
 
 # Done
 
@@ -50,6 +44,7 @@ What:
 
 # Pool
 
+* [On Using Very Large Target Vocabulary for Neural Machine Translation](https://arxiv.org/pdf/1412.2007.pdf)
 * [Semi-Supervised Learning for Neural Machine Translation](https://arxiv.org/pdf/1606.04596.pdf)
 * [On Using Monolingual Corpora in Neural Machine Translation](https://arxiv.org/pdf/1503.03535.pdf)
 * [Plan, Attend, Generate: Character-Level Neural Machine Translation with Planning](https://arxiv.org/pdf/1706.05087.pdf)
