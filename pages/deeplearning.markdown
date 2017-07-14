@@ -13,6 +13,7 @@ We also read about deep learning (even when latent variables are nowhere to be s
 
 * [Unsupervised Learning of Task-Specific Tree Structures with Tree-LSTMs](https://arxiv.org/pdf/1707.02786.pdf)
 * [Jointly Learning Sentence Embeddings and Syntax with Unsupervised Tree-LSTMs](https://arxiv.org/pdf/1705.09189.pdf)
+* [Grammar variational auto-encoder](https://arxiv.org/abs/1703.01925)
 * [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
 * [Key-Value Memory Networks for Directly Reading Documents](https://arxiv.org/pdf/1606.03126.pdf)
 

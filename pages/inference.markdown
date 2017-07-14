@@ -42,6 +42,7 @@ What:
 
 Pool:
 
+* [Neural Variational Inference Random Field Learning](https://openreview.net/pdf?id=ZY9x1mJ3zS5Pk8ELfEjD)
 * [Lost Relatives of the Gumbel Trick](https://arxiv.org/pdf/1706.04161.pdf)
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
 * [Continuous Relaxations for Discrete Hamiltonian Monte Carlo](https://papers.nips.cc/paper/4652-continuous-relaxations-for-discrete-hamiltonian-monte-carlo.pdf)
