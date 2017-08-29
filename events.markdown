@@ -19,7 +19,7 @@ I organise a few reading groups, if you feel like suggesting a paper you can con
 * &#x1F4D9; [Deep generative models](pages/dgm)
 * &#x1F4D7; [Deep learning](pages/deeplearning)
 * [NLP2](pages/NLP2)
-* [Bayesian optimisation](pages/bayesianopt)
+* [Optimisation](pages/opt)
 * [Bayesian NLP](pages/bayesiannlp)
 
 
