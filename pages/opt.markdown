@@ -45,3 +45,17 @@ Code
 * [NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies)
 * [Deep learning using genetic algorithms](http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=1257&context=theses)
 
+
+# Misc
+
+Papers
+
+
+* [Algorithms for Hyper-Parameter Optimization](http://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization.pdf)
+* [Learning to Learn without Gradient Descent by Gradient Descent](https://arxiv.org/pdf/1611.03824.pdf)
+* [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf)
+
+
+Code
+
+* [NeuPy](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
