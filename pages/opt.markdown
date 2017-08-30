@@ -4,11 +4,13 @@ title: Optimisation
 menu: no
 ---
 
-# Convex optimisation
+# Stochastic approximation
 
 * [A Stochastic Approximation Method](https://www.jstor.org/stable/2236626)
 * [Acceleration of Stochastic Optimization by Averaging](http://www.meyn.ece.ufl.edu/archive/spm_files/Courses/ECE555-2011/555media/poljud92.pdf)
 * [Introduction to Stochastic Approximation Algorithms](http://www.professeurs.polymtl.ca/jerome.le-ny/teaching/DP_fall09/notes/lec11_SA.pdf)
+* [Stochastic Optimization (Chapter 6 of Handbook of Computational Statistics)](http://www.jhuapl.edu/spsa/PDF-SPSA/Handbook04_StochasticOptimization.pdf)
+* [Slides by Li and Rowland](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ReadingGroup/sgd.pdf)
 
 
 # Bayesian optimisation
