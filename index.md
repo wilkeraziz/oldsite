@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![wilker](/img/people/wilker2.png){: style="float: right; margin: 0px 20px; width: 250px; height: 250px" }
+![wilker](/img/people/wilker3.jpg){: style="float: right; margin: 0px 20px; width: 204px; height: 362px" }
 
 I am a *Research Associate* at the [University of Amsterdam][UvA] working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}).
 My work focusses on natural language processing problems such as machine translation, word alignment, and paraphrasing. My interests sit at the intersection of various disciplines (e.g. formal languages, machine learning, approximate inference, global optimisation, and computational linguistics). 
