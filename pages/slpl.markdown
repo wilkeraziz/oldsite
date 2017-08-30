@@ -11,9 +11,11 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 # Scheduled 
 
-Where: F2.02 from 11:30 to 12:30.
+Where: F2.02 
 
-What:
+When: Friday, 1 September, 11:30-12:30
+
+What: [Neural Machine Translation with Gumbel-Greedy Decoding](https://arxiv.org/pdf/1706.07518.pdf)
 
 
 # Done
