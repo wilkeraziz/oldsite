@@ -13,13 +13,15 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 Where: F2.02 
 
-When: Friday, 1 September, 11:30-12:30
+When: Friday, 15 September, 11:30-12:30
 
-What: [Neural Machine Translation with Gumbel-Greedy Decoding](https://arxiv.org/pdf/1706.07518.pdf)
+What: [Learning to parse from a semantic objective: It works. Is it syntax?](https://arxiv.org/pdf/1709.01121.pdf)
 
 
 # Done
 
+* [Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation](https://arxiv.org/pdf/1707.05114)
+* [Neural Machine Translation with Gumbel-Greedy Decoding](https://arxiv.org/pdf/1706.07518.pdf)
 * [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)
 * [Non-projective Dependency-based Pre-Reordering with Recurrent Neural Network for Machine Translation](//aclweb.org/anthology/W/W15/W15-1002.pdf)
 * [Semi-Supervised Learning with Ladder Networks](//arxiv.org/pdf/1507.02672.pdf)
