@@ -56,3 +56,4 @@ Pool:
 * [The Variational Gaussian Approximation Revisited](https://pdfs.semanticscholar.org/48dc/1de73230c3b1ff15d5aa20132fbdc31ad7d5.pdf)
 * [Unconstrained Parameterizations for Variance-Covariance Matrices](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.494&rep=rep1&type=pdf)
 * [Gaussian Covariance and Scalable Variational Inference](https://pdfs.semanticscholar.org/b024/1a272affef1e5230e6fa3cc3e19143785fa6.pdf)
+* [Learning Model Reparametrizations: Implicit Variational Inference by Fitting MCMC distributions](https://arxiv.org/pdf/1708.01529.pdf)
