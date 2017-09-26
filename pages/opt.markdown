@@ -12,6 +12,11 @@ menu: no
 * [Stochastic Optimization (Chapter 6 of Handbook of Computational Statistics)](http://www.jhuapl.edu/spsa/PDF-SPSA/Handbook04_StochasticOptimization.pdf)
 * [Slides by Li and Rowland](http://cbl.eng.cam.ac.uk/pub/Intranet/MLG/ReadingGroup/sgd.pdf)
 
+Batch size vs learning rate
+
+* [Automated Inference with Adaptive Batches](http://proceedings.mlr.press/v54/de17a/de17a.pdf)
+* [Coupling Adaptive Batch Sizes with Learning Rates](https://arxiv.org/pdf/1612.05086.pdf)
+
 
 # Bayesian optimisation
 
