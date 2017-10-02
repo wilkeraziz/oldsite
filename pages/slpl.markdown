@@ -11,15 +11,18 @@ This group is interested in NLP applications with a particular focus on parsing 
 
 # Scheduled 
 
-Where: F2.02 
+Where: 
 
-When: Friday, 15 September, 11:30-12:30
+When: 
 
-What: [Learning to parse from a semantic objective: It works. Is it syntax?](https://arxiv.org/pdf/1709.01121.pdf)
+What: 
 
 
 # Done
 
+* [The garden of forking paths: Why multiple comparisons can be a problem, even when there is no "fishing expedition" or "p-hacking" and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+* [Universal Semantic Parsing](https://arxiv.org/pdf/1702.03196.pdf)
+* [Learning to parse from a semantic objective: It works. Is it syntax?](https://arxiv.org/pdf/1709.01121.pdf)
 * [Towards Bidirectional Hierarchical Representations for Attention-Based Neural Machine Translation](https://arxiv.org/pdf/1707.05114)
 * [Neural Machine Translation with Gumbel-Greedy Decoding](https://arxiv.org/pdf/1706.07518.pdf)
 * [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)

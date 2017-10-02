@@ -16,14 +16,12 @@ Where: F2.02 from 11:30 to 12:30
 
 What: 
 
-* [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
-* [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
-* June 1:
-* June 8:
 
 
 # Done
 
+* [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/pdf/1703.07370.pdf)
+* [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 * [Automatic Differentiation Variational Inference](https://arxiv.org/pdf/1603.00788.pdf)
 * [Operator Variational Inference](https://arxiv.org/pdf/1610.09033.pdf)
 * [Deep and Hierarchical Implicit Models](https://arxiv.org/pdf/1702.08896.pdf)
@@ -43,6 +41,7 @@ What:
 
 Pool:
 
+* [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
 * [Neural Variational Inference Random Field Learning](https://openreview.net/pdf?id=ZY9x1mJ3zS5Pk8ELfEjD)
 * [Lost Relatives of the Gumbel Trick](https://arxiv.org/pdf/1706.04161.pdf)
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
