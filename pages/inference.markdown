@@ -75,7 +75,7 @@ Courses:
 
 * [David Duvenaud's Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete)
 * [David Duvenaud's Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
-
+* [Roger Grosse's Scalable and Flexible Models of Uncertainty](https://csc2541-f17.github.io)
 
 Blogs:
 
