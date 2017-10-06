@@ -56,3 +56,29 @@ Pool:
 * [Unconstrained Parameterizations for Variance-Covariance Matrices](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.31.494&rep=rep1&type=pdf)
 * [Gaussian Covariance and Scalable Variational Inference](https://pdfs.semanticscholar.org/b024/1a272affef1e5230e6fa3cc3e19143785fa6.pdf)
 * [Learning Model Reparametrizations: Implicit Variational Inference by Fitting MCMC distributions](https://arxiv.org/pdf/1708.01529.pdf)
+
+# Support Material
+
+
+Theses:
+
+* Variational Bayes: [Matthew J. Beal, 2003](https://www.cse.buffalo.edu//faculty/mbeal/papers/beal03.pdf)
+* Expectation Propagation: [Thomas P. Minka, 2001](https://tminka.github.io/papers/ep/minka-thesis.pdf)
+* Deep Generative Models: [Diederik P. Kingma, 2017](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
+
+Tutorials:
+
+* [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+
+
+Courses:
+
+* [David Duvenaud's Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete)
+* [David Duvenaud's Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+
+
+Blogs:
+
+* [Ferenc Huszár](http://www.inference.vc)
+* [David Barber](https://davidbarber.github.io/blog)
+* [Dustin Tran](http://dustintran.com/blog)
