@@ -41,6 +41,8 @@ What:
 
 Pool:
 
+* [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
+* [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
 * [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
 * [Neural Variational Inference Random Field Learning](https://openreview.net/pdf?id=ZY9x1mJ3zS5Pk8ELfEjD)
 * [Lost Relatives of the Gumbel Trick](https://arxiv.org/pdf/1706.04161.pdf)
@@ -58,12 +60,6 @@ Pool:
 * [Learning Model Reparametrizations: Implicit Variational Inference by Fitting MCMC distributions](https://arxiv.org/pdf/1708.01529.pdf)
 
 
-Gradient estimation:
-
-* [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254)
-* [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
-* [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/pdf/1703.07370.pdf)
-* [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
 
 # Support Material
 
@@ -84,6 +80,11 @@ Courses:
 * [David Duvenaud's Learning Discrete Latent Structure](https://duvenaud.github.io/learn-discrete)
 * [David Duvenaud's Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * [Roger Grosse's Scalable and Flexible Models of Uncertainty](https://csc2541-f17.github.io)
+
+Gradient estimation:
+
+* Michael Fu's chapters on [Stochastic Gradient Estimation](https://link.springer.com/content/pdf/10.1007/978-1-4939-1384-8_5.pdf) and [Stochastic Approximation](https://link.springer.com/content/pdf/10.1007/978-1-4939-1384-8_6.pdf)
+* [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254)
 
 Blogs:
 
