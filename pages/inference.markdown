@@ -57,6 +57,14 @@ Pool:
 * [Gaussian Covariance and Scalable Variational Inference](https://pdfs.semanticscholar.org/b024/1a272affef1e5230e6fa3cc3e19143785fa6.pdf)
 * [Learning Model Reparametrizations: Implicit Variational Inference by Fitting MCMC distributions](https://arxiv.org/pdf/1708.01529.pdf)
 
+
+Gradient estimation:
+
+* [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254)
+* [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
+* [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/pdf/1703.07370.pdf)
+* [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
+
 # Support Material
 
 

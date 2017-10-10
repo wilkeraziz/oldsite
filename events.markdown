@@ -22,5 +22,5 @@ I organise a few reading groups, if you feel like suggesting a paper you can con
 * [Optimisation](pages/opt)
 * [Bayesian NLP](pages/bayesiannlp)
 * [BNNs](pages/bnn)
-
+* [Statistics](pages/stat)
 
