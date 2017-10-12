@@ -41,6 +41,7 @@ What:
 
 Pool:
 
+* [Deep Exponential Families](http://www.cs.toronto.edu/~lcharlin/papers/def_aistats.pdf)
 * [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
 * [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
 * [Doubly Stochastic Variational Bayes for non-Conjugate Inference](http://jmlr.org/proceedings/papers/v32/titsias14.pdf)
