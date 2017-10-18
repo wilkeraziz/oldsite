@@ -20,6 +20,8 @@ What:
 
 # Done
 
+* [Multi-Space VAE for Semi-Supervised Labeled Sequence Transduction](https://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1029.pdf)
+* [A Challenge Set Approach to Evaluating Machine Translation](http://aclweb.org/anthology/D17-1262)
 * [The garden of forking paths: Why multiple comparisons can be a problem, even when there is no "fishing expedition" or "p-hacking" and the research hypothesis was posited ahead of time](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 * [Universal Semantic Parsing](https://arxiv.org/pdf/1702.03196.pdf)
 * [Learning to parse from a semantic objective: It works. Is it syntax?](https://arxiv.org/pdf/1709.01121.pdf)
