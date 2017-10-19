@@ -41,6 +41,12 @@ What:
 
 Pool:
 
+* [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
+* [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
+* [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)
+* [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/pdf/1703.01961.pdf)
+* [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/pdf/1502.03509.pdf)
+* [Improving Variational Auto-Encoders using Householder Flow](https://arxiv.org/pdf/1611.09630.pdf)
 * [Deep Exponential Families](http://www.cs.toronto.edu/~lcharlin/papers/def_aistats.pdf)
 * [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
 * [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
@@ -71,9 +77,10 @@ Theses:
 * Expectation Propagation: [Thomas P. Minka, 2001](https://tminka.github.io/papers/ep/minka-thesis.pdf)
 * Deep Generative Models: [Diederik P. Kingma, 2017](https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1)
 
-Tutorials:
+Tutorials and articles that read almost like tutorials:
 
 * [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670.pdf)
+* [Variational Inference for Dirichlet Process Mixtures](http://www.cs.columbia.edu/~blei/papers/BleiJordan2004.pdf)
 
 
 Courses:
