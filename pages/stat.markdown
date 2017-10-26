@@ -16,4 +16,4 @@ Here I am starting to collect some papers from statistics with no particular pur
 * [David Blei's rather short notes on exponential families](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/exponential-families.pdf)
 * [Exponential Families (with a table of examples)](http://www2.stat.duke.edu/courses/Spring11/sta114/lec/expofam.pdf)
 * Jordan's Chapter 8 on [The Exponential Family and Generalized Linear Models](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704466)
-
+* [Fundamentals of Statistical Exponential Families with Applications in Statistical Decision Theory](https://www.jstor.org/stable/4355554)
