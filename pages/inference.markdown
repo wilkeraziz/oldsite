@@ -67,6 +67,23 @@ Pool:
 * [Learning Model Reparametrizations: Implicit Variational Inference by Fitting MCMC distributions](https://arxiv.org/pdf/1708.01529.pdf)
 
 
+# Gradient Estimation
+
+* [Simple Statistical Gradient-Flowing Algorithms for Connectionist Reinforcement Learning](https://link.springer.com/content/pdf/10.1007%2FBF00992696.pdf)
+* [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
+* [Variational Bayesian Inference with Stochastic Search](http://icml.cc/2012/papers/687.pdf)
+* [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
+* [Deep AutoRegressive Networks](https://arxiv.org/pdf/1310.8499.pdf)
+* [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
+* [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254)
+* [Local Expectation Gradients for Black Box Variational Inference](http://machinelearning.wustl.edu/mlpapers/paper_files/NIPS2015_5678.pdf)
+* [Reweighted Wake-Sleep](https://arxiv.org/pdf/1406.2751.pdf)
+* [Importance Weighted Auto Encoders](https://arxiv.org/pdf/1509.00519.pdf)
+* [Variational Inference for Monte Carlo Objectives](https://arxiv.org/pdf/1602.06725.pdf)
+* [Reducing Reparameterization Gradient Variance](https://arxiv.org/pdf/1705.07880.pdf)
+* [Sticking the Landing: A Simple Reduced-Variance Gradient for ADVI](http://approximateinference.org/accepted/RoederEtAl2016.pdf)
+* [DRAW: A Recurrent Neural Network For Image Generation](http://proceedings.mlr.press/v37/gregor15.pdf)
+
 
 # Support Material
 
@@ -92,7 +109,6 @@ Courses:
 Gradient estimation:
 
 * Michael Fu's chapters on [Stochastic Gradient Estimation](https://link.springer.com/content/pdf/10.1007/978-1-4939-1384-8_5.pdf) and [Stochastic Approximation](https://link.springer.com/content/pdf/10.1007/978-1-4939-1384-8_6.pdf)
-* [Gradient Estimation Using Stochastic Computation Graphs](https://arxiv.org/abs/1506.05254)
 
 Blogs:
 
