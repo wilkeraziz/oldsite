@@ -30,11 +30,10 @@ This group is interested in techniques for approximate inference in complex prob
 * Where: F2.02
 * Current topic: review of variational inference (see support material at the end of the page)
 * Schedule
-    * `October 13` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+    * `Done (October 13)` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
         * Background on Gaussian distribution: sections 1.2.4 and 2.3 of Bishop's book;
         * Background on exponential families: chapters [8](https://www.stat.berkeley.edu/~mjwain/Fall2012_Stat241a/reader_ch8.pdf) and [9](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf) of Jordan's book;
     * `November 3` Sections 3-4 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
-    * `Done (October 31)` [Variational Inference with Normalising Flows](https://arxiv.org/abs/1505.05770)
 
 
 
