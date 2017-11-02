@@ -13,7 +13,7 @@ This group is interested in techniques for approximate inference in complex prob
 # Schedule
 
 
-*Normalising Flows*
+**Normalising Flows**
 
 * When: Tuesdays 8:30-9:30 
 * Where: F2.11
@@ -24,7 +24,7 @@ This group is interested in techniques for approximate inference in complex prob
     * `November 14` [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
 
 
-*Deep generative models*
+**Deep generative models**
  
 * When: Fridays 15:00-16:00 
 * Where: F2.02
