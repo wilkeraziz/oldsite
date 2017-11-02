@@ -14,9 +14,8 @@ I organise a few reading groups, if you feel like suggesting a paper you can con
 [comment]: <> (http://apps.timwhitlock.info/emoji/tables/unicode)
 [comment]: <> (&#x1F4D4; or D2, D3for Bayesian NLP)
 
-* &#x1F4D5; [Approximate inference](pages/inference)
+* &#x1F4D5; [Approximate inference and deep generative models](pages/inference)
 * &#x1F4D8; [SLPL](pages/slpl)
-* &#x1F4D9; [Deep generative models](pages/dgm)
 * &#x1F4D7; [Deep learning](pages/deeplearning)
 * [NLP2](pages/NLP2)
 * [Optimisation](pages/opt)

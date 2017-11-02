@@ -10,16 +10,43 @@ This group is interested in techniques for approximate inference in complex prob
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=250&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=oa6cmu8nbg8iet2j07d9tobs1c%40group.calendar.google.com&amp;color=%236E6E41&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="250" frameborder="0" scrolling="no"></iframe>
 
 
-# Scheduled
+# Schedule
 
-Where: F2.02 from 11:30 to 12:30
 
-What: 
+*Normalising Flows*
+
+* When: Tuesdays 8:30-9:30 
+* Where: F2.11
+* Why so early? Because Philip (who is leading this reading group) is now in Australia. 
+* Schedule
+    * `Done (October 31)` [Variational Inference with Normalising Flows](https://arxiv.org/abs/1505.05770)
+    * `November 7` [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)
+    * `November 14` [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
+
+
+*Deep generative models*
+ 
+* When: Fridays 15:00-16:00 
+* Where: F2.02
+* Current topic: review of variational inference (see support material at the end of the page)
+* Schedule
+    * `October 13` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+        * Background on Gaussian distribution: sections 1.2.4 and 2.3 of Bishop's book;
+        * Background on exponential families: chapters [8](https://www.stat.berkeley.edu/~mjwain/Fall2012_Stat241a/reader_ch8.pdf) and [9](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf) of Jordan's book;
+    * `November 3` Sections 3-4 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+    * `Done (October 31)` [Variational Inference with Normalising Flows](https://arxiv.org/abs/1505.05770)
 
 
 
 # Done
 
+* [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://arxiv.org/pdf/1609.07317.pdf)
+* [Semantic Parsing with Semi-Supervised Sequential Autoencoders](https://arxiv.org/pdf/1609.09315.pdf)
+* [Towards a Deeper Understanding of Variational Autoencoding Models](https://arxiv.org/pdf/1702.08658.pdf) and [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/pdf/1706.02262.pdf)
+* [Generating Sentences from a Continuous Space](//arxiv.org/pdf/1511.06349.pdf)
+* [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/pdf/1406.5298.pdf)
+* [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+* [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
 * [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/pdf/1703.07370.pdf)
 * [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277)
 * [Automatic Differentiation Variational Inference](https://arxiv.org/pdf/1603.00788.pdf)
@@ -41,6 +68,15 @@ What:
 
 Pool:
 
+* [Controllable Text Generation](https://arxiv.org/pdf/1703.00955.pdf)
+* [Grammar variational auto-encoder](https://arxiv.org/abs/1703.01925)
+* [Stick-Breaking Variational Autoencoders](https://arxiv.org/pdf/1605.06197.pdf)
+* [Discovering Discrete Latent Topics with Neural Variational Inference](//arxiv.org/pdf/1706.00359.pdf)
+* [Nonparametric Variational Auto-Encoders for Hierarchical Representation Learning](https://arxiv.org/pdf/1703.07027.pdf)
+* [On Unifying Deep Generative Models](https://arxiv.org/pdf/1706.00550.pdf)
+* [Adversarially Regularized Autoencoders for Generating Discrete Structures](https://arxiv.org/pdf/1706.04223.pdf)
+* [Adversarial Feature Matching for Text Generation](https://arxiv.org/pdf/1706.03850.pdf)
+* [Variational Approaches for Auto-Encoding Generative Adversarial Networks](https://arxiv.org/pdf/1706.04987.pdf)
 * [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/pdf/1402.0030.pdf)
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
 * [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf)
