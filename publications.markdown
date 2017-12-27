@@ -13,7 +13,7 @@ menu: yes
 
 {% assign sortedyears = years | split:' ' | sort | reverse %}
 {% for year in sortedyears %}
-### {{ year }}
+[comment]: <> (### {{ year }})
 {% for paper in hashes[year] %}
 {% include paper.html paper=paper %}
 {% endfor %}

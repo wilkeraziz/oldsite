@@ -16,6 +16,7 @@ Recently, I've developed quite an interest in deep generative models, write to m
 
 If you need to find me try Science Park 107 (F2.11).
 
+
 [SLPLL]: {{ site.slpll_url }} "Statistical Language Processing and Learning Lab"
 [ILLC]: {{ site.illc_url }} "Institute for Logic, Language and Computation"
 [UvA]: {{ site.uva_url }} "Universiteit van Amsterdam"
