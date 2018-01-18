@@ -33,7 +33,7 @@
   booktitle: Proceedings of the 8th Brazilian Symposium in Information and Human Language Technology
   doc-url: http://www.aclweb.org/anthology/W11-4533
   booktitle-url: http://200.129.241.113/stil2011/#conteudo/home.php
-  data: https://www.adrive.com/public/EfhRTw/stil2011data.tgz
+  data: https://surfdrive.surf.nl/files/index.php/s/Ta1DgFRQ24MhLrv/download
   venue: conference
   abstract: >
     This paper reports the fully automatic compilation of parallel corpora for Brazilian Portuguese. Scientific news texts available in Brazilian Portuguese, English and Spanish are automatically crawled from a multilingual Brazilian magazine. The texts are then automatically aligned at document- and sentence-level. The resulting corpora contain about 2,700 parallel documents totaling over 150,000 aligned sentences each. The quality of the corpora and their usefulness are tested in an experiment with machine translation.
