@@ -67,6 +67,7 @@ This group is interested in techniques for approximate inference in complex prob
 
 Pool:
 
+* [Autoencoding Variational Inference For Topic Models](https://arxiv.org/abs/1703.01488)
 * [Controllable Text Generation](https://arxiv.org/pdf/1703.00955.pdf)
 * [Grammar variational auto-encoder](https://arxiv.org/abs/1703.01925)
 * [Stick-Breaking Variational Autoencoders](https://arxiv.org/pdf/1605.06197.pdf)
