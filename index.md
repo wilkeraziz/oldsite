@@ -13,7 +13,7 @@ My interests sit at the intersection of disciplines such as formal languages, ma
 Recently, I've developed quite an interest in Bayesian deep learning. In particular, I'm developing probabilistic neural network models that reason with and induce forms of discrete generalisation such as trees and graphs. 
 
 
-If you are looking for a project with me, you might want to start by joining my [reading group on approximate inference](http://wilkeraziz.github.io/pages/inference). I've also made some technical notes [available on github](https://github.com/wilkeraziz/notes/tree/master/machine-learning).
+If you are looking for a project with me, you might want to start by joining my [reading group on approximate inference](http://wilkeraziz.github.io/pages/inference). I've also made some [technical notes](https://github.com/wilkeraziz/notes/tree/master/machine-learning) available on github.
 
 
 
