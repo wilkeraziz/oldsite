@@ -7,33 +7,35 @@ menu: no
 This group is interested in techniques for approximate inference in complex probabilistic models.
 
 
+
 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=250&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=oa6cmu8nbg8iet2j07d9tobs1c%40group.calendar.google.com&amp;color=%236E6E41&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="250" frameborder="0" scrolling="no"></iframe>
 
 
 # Schedule
+
+**Bayesian deep learning**
+ 
+* When: Fridays 10:30-12:00 
+* Where: F2.02
+* Current topic: review of variational inference (see support material at the end of the page)
+* Schedule
+    * `Scheduled February 26 (2018!)`: The appendix of [Gal's seminal paper](http://proceedings.mlr.press/v48/gal16-supp.pdf)
+    * `Done (November 3)` Sections 3-4 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+    * `Done (October 13)` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+        * Background on Gaussian distribution: sections 1.2.4 and 2.3 of Bishop's book;
+        * Background on exponential families: chapters [8](https://www.stat.berkeley.edu/~mjwain/Fall2012_Stat241a/reader_ch8.pdf) and [9](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf) of Jordan's book;
 
 
 **Normalising Flows**
 
 * When: Tuesdays 8:30-9:30 
 * Where: F2.11
-* Why so early? Because Philip (who is leading this reading group) is now in Australia. 
+* Why so early? Because Philip (who is leading this track group) is now in Australia. 
 * Schedule
+    * `Done (November 14)` [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
+    * `Done (November 7)` [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)
     * `Done (October 31)` [Variational Inference with Normalising Flows](https://arxiv.org/abs/1505.05770)
-    * `November 7` [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)
-    * `November 14` [Multiplicative Normalizing Flows for Variational Bayesian Neural Networks](https://arxiv.org/abs/1703.01961)
 
-
-**Deep generative models**
- 
-* When: Fridays 15:00-16:00 
-* Where: F2.02
-* Current topic: review of variational inference (see support material at the end of the page)
-* Schedule
-    * `Done (October 13)` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
-        * Background on Gaussian distribution: sections 1.2.4 and 2.3 of Bishop's book;
-        * Background on exponential families: chapters [8](https://www.stat.berkeley.edu/~mjwain/Fall2012_Stat241a/reader_ch8.pdf) and [9](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf) of Jordan's book;
-    * `November 3` Sections 3-4 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
 
 
 

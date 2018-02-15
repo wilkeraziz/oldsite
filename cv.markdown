@@ -5,15 +5,15 @@ menu: yes
 ---
 
 
-I am a member of the [Statistical Language Processing and Learning Lab][SLPLL], at the [Institute for Logic, Language and Computation][ILLC]. 
+I am a member of the [Statistical Language Processing and Learning Lab][SLPLL] working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }})  at the [Institute for Logic, Language and Computation][ILLC]. 
 
 Here is my complete [CV]({{ site.baseurl }}/{{ site.cv }}) and a bit more on my [background](pages/background).
 
 
 I often serve on the program committee of ML/CL/NLP/MT conferences
 
-* CL/NLP conferences: ACL, EMNLP, Coling, IJCNLP, CoNLL, RANLP, LREC
-* ML conferences: NIPS, ICLR
+* CL/NLP conferences: ACL, EMNLP, NAACL, Coling, IJCNLP, CoNLL
+* ML conferences: NIPS, ICLR, ICML
 * MT conferences: WMT, EAMT, AMTA, MT Summit
 
 and I review for CL/NLP/MT journals
