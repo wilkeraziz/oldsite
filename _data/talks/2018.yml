@@ -1,0 +1,26 @@
+-
+  layout: talk
+  selected: y
+  year: 2018
+  event: ACL18 Tutorial, Melbourne, Australia.
+  img: vi-tutorial
+  title: Variational Inference and Deep Generative Models
+  authors: Wilker Aziz and Philip Schulz
+  doc-url: https://github.com/philschulz/VITutorial
+  slides: https://github.com/philschulz/VITutorial
+  abstract: >
+      NLP has seen a surge in neural network models in recent years. These models provide state-of-the-art performance on many supervised tasks. Unsupervised and semi-supervised learning has only been addressed scarcely, however. Deep Generative Models (DGMs) make it possible to integrate neural networks with probabilistic graphical models. Using DGMs one can easily design latent variable models that account for missing observations and thereby enable unsupervised and semi-supervised learning with neural networks. The method of choice for training these models is variational inference. This tutorial offers a general introduction to variational inference followed by a thorough and example-driven discussion of how to use variational methods for training DGMs. It provides both the mathematical background necessary for deriving the learning algorithms as well as practical implementation guidelines. Moreover, we discuss common pitfalls that one may encounter when using DGMs for NLP applications, such as the latent variable being ignored by the model, and discuss potential solutions from a theoretical and practical perspective. Importantly, the tutorial will cover models with continuous and discrete variables.
+  about: |
+      Tutorial on variational inference and deep generative models.
+  schedule: |
+    This tutorial is scheduled to be presented at
+
+    * ACL 2018 in Melbourne: July 2018
+    * University of Amsterdam: March 22-23 2018
+    
+    and it has already been presented at
+
+    * Monash University on November 16 2017
+    * University of Melbourne on October 31 and November 2 2017
+    * Amazon (Berlin) on July 26-27 2017
+

@@ -11,17 +11,6 @@
     Neural machine translation, deep linguistic analysis (e.g. syntax, semantics, coreference) for NMT.
 -
   layout: person
-  relation: PhD candidate (2016-)
-  selected: y
-  institution: UvA
-  img: jo
-  name: Joachim Daiber
-  url: http://jodaiber.de
-  github: jodaiber
-  about: >
-    Machine translation, free word-order, rich morphology, and parsing.
--
-  layout: person
   relation: PhD candidate (2015-)
   selected: y
   institution: UvA
@@ -33,7 +22,18 @@
       Hierarchical Bayesian models for machine translation and word alignment.
 -
   layout: person
-  relation: PhD candidate (2015-)
+  relation: PhD candidate (2016-2018)
+  selected: y
+  institution: UvA
+  img: jo
+  name: Joachim Daiber
+  url: http://jodaiber.de
+  github: jodaiber
+  about: >
+    Machine translation, free word-order, rich morphology, and parsing. Jo joined Apple Inc and must be surfing right now. 
+-
+  layout: person
+  relation: PhD candidate (2015-2017)
   selected: y
   institution: UvA
   img: milos
@@ -41,7 +41,7 @@
   url: https://staff.fnwi.uva.nl/m.stanojevic/
   github: stanojevic
   about: >
-    Machine translation, word-order, automatic evaluation, and parsing.
+    Machine translation, word-order, automatic evaluation, and parsing. Milos is now in Edinburgh working with Marc Steedman.
 -
   layout: person
   relation: PhD candidate (2014-)
@@ -66,7 +66,7 @@
       Karin makes SMT coherent.
 -
   layout: person
-  relation: MA candidate (2017-)
+  relation: MA candidate (2017)
   selected: y
   institution: UvA
   img: avatar
@@ -74,7 +74,7 @@
   url: 
   github: Brednas
   about: >
-      I supervise Sander's project on deep generative models of morphological segmentation and analysis for neural machine translation.
+      I supervised Sander's project on alignment models for morphologically rich languages. Sander is now a PhD candidate at the University of Edinburgh.
 -
   layout: person
   relation: BA (2016)

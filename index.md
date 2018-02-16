@@ -19,6 +19,11 @@ If you are looking for a project with me, you might want to start by joining my 
 
 If you need to find me try Science Park 107 (F2.11).
 
+## <span style="color:darkblue">News </span>
+
+* [Philip](http://philipschulz.org) and I are going to present our [tutorial on variational inference and deep generative models](https://github.com/philschulz/VITutorial) at ACL 2018! See you in Melbourne!
+
+
 
 [SLPLL]: {{ site.slpll_url }} "Statistical Language Processing and Learning Lab"
 [ILLC]: {{ site.illc_url }} "Institute for Logic, Language and Computation"

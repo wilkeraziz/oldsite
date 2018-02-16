@@ -2,6 +2,28 @@
   layout: course
   selected: y
   year: 2017
+  event: 2018-present (offered in Winter)
+  img: nlmi
+  title: Natural Language Models and Interfaces
+  doc-url: //uva-slpl.github.io/nlmi/
+  institution: UvA
+  github: uva-slpl/nlmi
+  about: | 
+    I coordinate and teach Natural Language Models and Interfaces. This is a second-year course offered to students in the Bachelor's in Artificial Intelligence programme of the University of Amsterdam. The course covers some of the essential techniques in natural language processing with a focus on language modelling and word representation:
+
+    * Review of probability theory
+    * Probability of a setence
+    * Markov Models and n-gram language modelling
+    * Hidden Markov Models and part of speech tagging
+    * Probabilistic context-free grammars 
+    * Locally normalised log-linear models
+    * Distributional semantics and neural models of word representation
+    * Overview of NLP applications
+
+-
+  layout: course
+  selected: y
+  year: 2017
   event: 2015-present (offered in Spring)
   img: nlp2
   title: Natural Language Processing II
@@ -9,7 +31,7 @@
   institution: UvA
   github: uva-slpl/nlp2 
   about: |
-    I’m organising Natural Language Processing II at UvA (the course is focused on machine translation). This is the third edition which I organise, the first one was in the spring of 2015. 
+    I organise and teach Natural Language Processing II at UvA (the course is focused on machine translation). This is the third edition which I organise, the first one was in the spring of 2015. 
 
     The course is organised in three blocks
 
