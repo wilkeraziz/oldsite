@@ -8,7 +8,7 @@
   authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
   doc-url: https://arxiv.org/abs/1802.05883
   arxiv: https://arxiv.org/abs/1802.05883
-  code: 
+  code: https://github.com/uva-slpl/embedalign
   slides:
   booktitle: "To appear in NAACL18"
   abstract: >
