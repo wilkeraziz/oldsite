@@ -21,8 +21,9 @@ If you need to find me try Science Park 107 (F2.11).
 
 ## <span style="color:darkblue">News </span>
 
-* [Philip](http://philipschulz.org) and I are going to present our [tutorial on variational inference and deep generative models](https://github.com/philschulz/VITutorial) at ACL 2018! See you in Melbourne!
-* We will present our work on generative models of joint word representation and alignment at NAACL18 ([code](https://github.com/uva-slpl/embedalign) and [paper](https://arxiv.org/abs/1802.05883)).
+* I am co-organising a [DGM day at UvA](//uva-slpl.github.io/dgmday) where we will be presenting our VI tutorial as well as a bunch of interesting DGMs in NLP. Join us on March 22, 2018!
+* [Philip](//philipschulz.org) and I are going to present our [tutorial on variational inference and deep generative models](//github.com/philschulz/VITutorial) at ACL 2018! See you in Melbourne!
+* We will present our work on generative models of joint word representation and alignment at NAACL18 ([code](//github.com/uva-slpl/embedalign) and [paper](//arxiv.org/abs/1802.05883)).
 
 
 [SLPLL]: {{ site.slpll_url }} "Statistical Language Processing and Learning Lab"

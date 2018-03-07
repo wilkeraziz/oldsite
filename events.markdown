@@ -23,3 +23,7 @@ I organise a few reading groups, if you feel like suggesting a paper you can con
 * [BNNs](pages/bnn)
 * [Statistics](pages/stat)
 
+
+# Other
+
+* March 22, 2018: I am co-organising a [DGM day at UvA](//uva-slpl.github.io/dgmday) where we will be presenting our VI tutorial as well as a bunch of interesting DGMs in NLP
