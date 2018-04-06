@@ -11,9 +11,9 @@ DGMs are typically estimated as to maximise a lowerbound on log-likelihood of ob
 
 A lot of the success of NNs in supervised learning is due to the flexibility of maximum likelihood estimation powered by stochastic optimisation. For as long as we can express the probability of observations through a tractable and differentiable computation graph, we can count on the back-propagation algorithm (or other automatic differentiation toolboxes) to obtain gradient estimates on mini-batches of data. 
 
-The main research challenge in DMGs concerns leveraging the full power of automatic differentiation and stochastic optimisation to latent-variable models, where intractable marginalis need to be approximate by Monte Carlo estimation. 
+The main research challenge in DMGs concerns leveraging the full power of automatic differentiation and stochastic optimisation to latent-variable models, where intractable marginals need to be approximate by Monte Carlo estimation. 
 
-This list contains paper that in my view one should read to navigate more easily through literature on deep generative models and applications thereof. 
+This list contains papers that in my view one should read to navigate more easily through literature on deep generative models and their applications. 
 
 # The depths
 
