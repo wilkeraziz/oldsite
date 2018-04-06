@@ -64,7 +64,7 @@ If you care about semi-supervised learning you will like to read about this one:
 
 * [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/pdf/1406.5298.pdf)
 
-We can go beyond Gaussian variables in at least three ways. We can design more expressive approximations by exploiting hierarchy in graphical modelling:
+The reparameterised gradient was initially developed for a Gaussian approximate posterior, but we can go beyond that in at least three ways. We can design more expressive approximations by extending the hierarchy of the inference model:
 
 * [Auxiliary Deep Generative Models]( https://arxiv.org/pdf/1602.05473.pdf)
 * [Hierarchical Variational Models](https://arxiv.org/pdf/1511.02386.pdf)
