@@ -13,7 +13,7 @@ A lot of the success of NNs in supervised learning is due to the flexibility of 
 
 The main research challenge in DMGs concerns leveraging the full power of automatic differentiation and stochastic optimisation to latent-variable models, where intractable marginalis need to be approximate by Monte Carlo estimation. 
 
-This list concerns what one should read to navigate more easily through literature on deep generative models and applications thereof. 
+This list contains paper that in my view one should read to navigate more easily through literature on deep generative models and applications thereof. 
 
 # The depths
 
