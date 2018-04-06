@@ -6,7 +6,7 @@ menu: no
 
 # Gradient estimation for stochastic computation graphs
 
-Deep generative models (DGMs) are latent-variable models are powerful tools for learning a joint distribution over observed and unobserved data. Example of DGMs include variational auto-encoders (VAEs) and generative adversarial networks (GANs). 
+Deep generative models (DGMs) are powerful tools for learning a joint distribution over observed and unobserved data. Example of DGMs include variational auto-encoders (VAEs) and generative adversarial networks (GANs). 
 DGMs are typically estimated as to maximise a lowerbound on log-likelihood of observations. The key technique here is variational inference (VI), in particular, amortised VI (which can be thought of as VI powered by NNs). 
 
 A lot of the success of NNs in supervised learning is due to the flexibility of maximum likelihood estimation powered by stochastic optimisation. For as long as we can express the probability of observations through a tractable and differentiable computation graph, we can count on the back-propagation algorithm (or other automatic differentiation toolboxes) to obtain gradient estimates on mini-batches of data. 
