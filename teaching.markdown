@@ -6,8 +6,8 @@ menu: yes
 
 # Tutorials 
 
-* I have been organising some [notes](https://github.com/wilkeraziz/notes) on topics I teach. 
-* Together with Philip Schulz, I am organising a [tutorial on variational inference](https://github.com/philschulz/VITutorial). The tutorial is modular and some of its modules have already been presented a few times (check the repository for a gist of our schedule). 
+* I have been organising some [notes](//github.com/wilkeraziz/notes) on topics I teach. 
+* Together with Philip Schulz, I am organising a [tutorial on variational inference](vitutorial). The tutorial is modular and some of its modules have already been presented a few times (check the repository for a gist of our schedule). 
 
 
 # Courses
