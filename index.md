@@ -16,10 +16,10 @@ Recently, I've developed quite an interest in Bayesian deep learning. In particu
 If you are looking for a project with me, you might want to start by joining my [reading group on approximate inference](//wilkeraziz.github.io/pages/inference). I've put together a list of what I think may help navigate through [the landscape of deep generative models](//wilkeraziz.github.io/pages/landscape). And finally, I've made some [technical notes](//github.com/wilkeraziz/notes/tree/master/machine-learning) available on github.
 
 
-
 If you need to find me try Science Park 107 (F2.11).
 
 ## <span style="color:darkblue">News </span>
+
 
 * *May 21* We will present our work on modelling latent variation in translation data at ACL18 (links to code and paper coming soon!).
 * I am co-organising a [DGM day at UvA](//uva-slpl.github.io/dgmday) where we will be presenting our VI tutorial as well as a bunch of interesting DGMs in NLP. Join us on March 22, 2018!

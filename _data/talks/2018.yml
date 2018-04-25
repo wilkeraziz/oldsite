@@ -28,7 +28,7 @@
   selected: y
   year: 2018
   event: 03/04/2018, 11pm, Naver labs (France)
-  img: dgms
+  img: dgm-naver
   title: Probabilistic modelling for NLP powered by deep learning
   authors: Wilker Aziz
   doc-url: /slides/dgms-at-naver-2018.pdf
