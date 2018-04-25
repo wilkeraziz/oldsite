@@ -23,4 +23,18 @@
     * Monash University on November 16 2017
     * University of Melbourne on October 31 and November 2 2017
     * Amazon (Berlin) on July 26-27 2017
+-
+  layout: talk
+  selected: y
+  year: 2018
+  event: 03/04/2018, 11pm, Naver labs (France)
+  img: dgms
+  title: Probabilistic modelling for NLP powered by deep learning
+  authors: Wilker Aziz
+  doc-url: /slides/dgms-at-naver-2018.pdf
+  slides: /slides/dgms-at-naver-2018.pdf
+  abstract: >
+    "Deep generative models (DGMs) are probabilistic models parametrised by neural networks (NNs). DGMs combine the power of NNs with the generality of the probabilistic learning framework allowing a modeller to be more explicit about her statistical assumptions. To unlock this power however one must consider efficient ways to approach probabilistic inference. Variational inference surfaced as the method of choice, howerver, efficient and effective VI for DGMs require low-variance gradient estimation for stochastic computation graphs (Kingma and Welling, 2013; Rezende et al, 2014; Titsias and Lazaro-Gredilla, 2014). In this talk I will present an overview of deep generative modelling, amortised variational inference, and the mathematics behind low-variance reparameterised gradients."
+  about: > 
+    Invited talk at Naver Labs (France). The original talk was divide into two session and I also presented models that I have developed with my students and collaborators.
 
