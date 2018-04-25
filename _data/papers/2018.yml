@@ -3,6 +3,21 @@
   paper-type: inproceedings
   selected: y
   year: 2018
+  img: sdec2018
+  title: "A Stochastic Decoder for Neural Machine Translation"
+  authors: "Philip Schulz, Wilker Aziz and Trevor Coh"
+  doc-url: 
+  arxiv: 
+  code: 
+  slides:
+  booktitle: "To appear in ACL18"
+  abstract: >
+    "The process of translation is ambiguous, in that there are typically many valid translations for a given sentence. This gives rise to significant variation in parallel corpora, however, most current models of machine translation do not account for this variation, instead treating the problem as a deterministic process. To this end, we present a deep generative model of machine translation which incorporates a chain of latent variables, in order to account for local lexical and syntactic variation in parallel corpora. We provide an in-depth analysis of the pitfalls encountered in variational inference for training deep generative models. Experiments on several different language pairs demonstrate that the model consistently improves over strong baselines."
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
   img: embedalign2018
   title: "Deep Generative Model for Joint Alignment and Word Representation"
   authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
