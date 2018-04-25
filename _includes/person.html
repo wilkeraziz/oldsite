@@ -1,7 +1,9 @@
 <div class="media">
+  {% if include.person.img %}
   <a class="pull-left thumbnail" {% if include.person.url %} href="{{ include.person.url }}" {% endif %}>
     <img src="/img/people/{{ include.person.img }}.png" alt="" style="max-width:100px; height:auto;"/>
-</a>
+  </a>
+  {% endif %}
   <div class="media-body">
     <strong>{% if include.person.name == "Khalil Sima'an" %} {{ site.ksimaanstyle }} {% else %} {{ include.person.name }} {% endif %}</strong>
 
@@ -32,9 +34,9 @@
 
     <!-- quick links -->
 
-    {% if include.person.institution %}
+    {% if include.person.url %}
     <a href="{{ include.person.url }}">
-      <img src="/img/ico/{{ include.person.institution }}.png" alt=""/>
+     <span class="glyphicon glyphicon-globe"></span>
     </a>
     {% endif %}
     {% if include.person.github %}

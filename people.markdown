@@ -21,3 +21,11 @@ Here are some of them.
 {% for person in students %}
 {% include person.html person=person %}
 {% endfor %}
+
+
+## Former students
+
+{% assign students = (site.data.people.former | where: "selected", "y") %}
+{% for person in students %}
+{% include person.html person=person %}
+{% endfor %}

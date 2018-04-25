@@ -1,0 +1,76 @@
+-
+  layout: person
+  relation: PhD candidate (2016-2018)
+  selected: y
+  institution: UvA
+  img: jo
+  name: Joachim Daiber
+  url: http://jodaiber.de
+  github: jodaiber
+  about: >
+    Machine translation, free word-order, rich morphology, and parsing. Jo joined Apple Inc and must be surfing right now. 
+-
+  layout: person
+  relation: PhD candidate (2015-2017)
+  selected: y
+  institution: UvA
+  img: milos
+  name: Miloš Stanojević
+  url: https://staff.fnwi.uva.nl/m.stanojevic/
+  github: stanojevic
+  about: >
+    Machine translation, word-order, automatic evaluation, and parsing. Milos is now in Edinburgh working with Marc Steedman.
+-
+  layout: person
+  relation: PhD candidate (2014-)
+  selected: n
+  institution: UoS
+  img: david
+  name: David Steele
+  url: http://staffwww.dcs.shef.ac.uk/people/d.steele/
+  github: david-steele
+  about: >
+      David makes SMT less implicit.
+-
+  layout: person
+  relation: PhD candidate (2014-)
+  selected: n
+  institution: UoS
+  img: karin
+  name: Karin Smith
+  url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?K.Simsmith
+  github: karins
+  about: >
+      Karin makes SMT coherent.
+-
+  layout: person
+  relation: MA candidate (2017)
+  selected: y
+  institution: UvA
+  name: Sander Bijl de Vroe
+  url: 
+  github: Brednas
+  about: >
+      I supervised Sander's project on alignment models for morphologically rich languages. Sander is now a PhD candidate at the University of Edinburgh.
+-
+  layout: person
+  relation: BA (2016)
+  selected: y
+  institution: UvA
+  name: Guido Linders
+  url: 
+  github: guido0013
+  about: >
+      I supervised Guido's BA project on [feature-rich unsupervised word alignment](https://esc.fnwi.uva.nl/thesis/centraal/files/f1886233032.pdf).
+      He is now pursuing an Erasmus Mundus master degree in Language and Communication Technologies.
+-
+  layout: person
+  relation: BA (2015)
+  selected: y
+  institution: UvA
+  name: Iason de Bondt
+  url: 
+  github: Iason
+  about: >
+      I supervised Iason's BA project on [slice sampling from arbitrary PCFGs](https://esc.fnwi.uva.nl/thesis/centraal/files/f1550974112.pdf).
+      Unfortunately, I did not get to keep Iason around as he left the realms of academia.
