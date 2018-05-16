@@ -126,6 +126,7 @@ This group is interested in techniques for approximate inference in complex prob
 * [Reducing Reparameterization Gradient Variance](https://arxiv.org/pdf/1705.07880.pdf)
 * [Sticking the Landing: A Simple Reduced-Variance Gradient for ADVI](http://approximateinference.org/accepted/RoederEtAl2016.pdf)
 * [DRAW: A Recurrent Neural Network For Image Generation](http://proceedings.mlr.press/v37/gregor15.pdf)
+* [Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning](http://jmlr.csail.mit.edu/papers/volume5/greensmith04a/greensmith04a.pdf)
 
 
 # Support Material
