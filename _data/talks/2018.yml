@@ -29,13 +29,12 @@
   year: 2018
   event: 24/05/2018, 14pm, University of Edinburgh
   img: amortised-vi
-  title: Deep Generative Models: Backpropagation Through Stochastic Computation Graphs
+  title: "Deep Generative Models: Backpropagation Through Stochastic Computation Graphs"
   authors: Wilker Aziz
   doc-url: /slides/24-05-2018-uedin-dgm-vae.pdf
   slides: /slides/24-05-2018-uedin-dgm-vae.pdf
-  abstract: >
-    "This is a shortened version of a [tutorial on variational inference and deep generative models](https://github.com/philschulz/VITutorial) that I have developed with Philip Schulz and which we will be presenting at ACL2018"
-
+  about: >
+    This is a shortened version of a [tutorial on variational inference and deep generative models](https://github.com/philschulz/VITutorial) that I have developed with Philip Schulz and which we will be presenting at ACL2018. For this occasion, I had to leave the part about discrete variables out, but perhaps the [slides](/slides/24-05-2018-uedin-dgm-discrete.pdf) I would have used can still be useful.
 -
   layout: talk
   selected: y
