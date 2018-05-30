@@ -6,9 +6,9 @@
   img: sdec2018
   title: "A Stochastic Decoder for Neural Machine Translation"
   authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
-  doc-url: 
-  arxiv: 
-  code: 
+  doc-url: https://arxiv.org/pdf/1805.10844.pdf
+  arxiv: https://arxiv.org/abs/1805.10844
+  code: https://github.com/philschulz/stochastic-decoder 
   slides:
   booktitle: "To appear in ACL18"
   abstract: >
@@ -21,7 +21,7 @@
   img: embedalign2018
   title: "Deep Generative Model for Joint Alignment and Word Representation"
   authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
-  doc-url: https://arxiv.org/abs/1802.05883
+  doc-url: https://arxiv.org/pdf/1802.05883.pdf
   arxiv: https://arxiv.org/abs/1802.05883
   code: https://github.com/uva-slpl/embedalign
   slides:
