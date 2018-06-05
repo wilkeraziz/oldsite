@@ -22,9 +22,9 @@
   errata: >
     In the introduction, we comment about works that propose some form of exact search. In some cases, authors have proposed algorithms whose applicability seems mostly limited to toy models, such as Aziz et al. (2013). In other cases, authors modified the model in different (non-obvious) ways (e.g. monotone translation, compact rule sets, lower-order LM, entropy pruning for LM) enabling exact search. We mistakenly listed Iglesias et al (2009) amongst the former group, thus misrepresenting their contribution.
     A more accurate wording would be:
-    <blockquote>
-    To date, most attempts were limited to short sentences and/or somewhat toy models trained with artificially small datasets (Germann et al., 2001; Aziz et al., 2013). Other work has employed less common approximations to the model reducing its search space complexity (Kumar et al., 2006; Iglesias et al., 2009; Chang and Collins, 2011; Rush and Collins, 2011).
-    </blockquote>
+    
+    *To date, most attempts were limited to short sentences and/or somewhat toy models trained with artificially small datasets (Germann et al., 2001; Aziz et al., 2013). Other work has employed less common approximations to the model reducing its search space complexity (Kumar et al., 2006; Iglesias et al., 2009; Chang and Collins, 2011; Rush and Collins, 2011).*
+
     I thank Gonzalo Iglesias for kindly warning me about this problem.
   bibtex: >
     @InProceedings{aziz-dymetman-specia:2014:EMNLP2014,

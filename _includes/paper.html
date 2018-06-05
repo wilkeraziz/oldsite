@@ -46,7 +46,7 @@
               <h4 class="modal-title">{{ include.paper.title }}</h4>
             </div>
             <div class="modal-body">
-              {{ include.paper.abstract }}
+              {{ include.paper.abstract | markdownify }}
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
@@ -115,7 +115,7 @@
             <h4 class="modal-title">Errata | {{ include.paper.title }}</h4>
           </div>
           <div class="modal-body">
-            {{ include.paper.errata }}
+            {{ include.paper.errata | markdownify }}
           </div>
         </div>
       </div>
