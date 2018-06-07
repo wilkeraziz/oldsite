@@ -8,7 +8,7 @@
   authors: Wilker Aziz
   doc-url: /slides/2014-09-10-mtm14.pdf
   slides: /slides/2014-09-10-mtm14.pdf
-  abstract: >
+  abstract: |
     In this one hour talk, I give an overview of decoding for statistical machine translation.
-  about: >
-    Lecture at the <a href="http://statmt.org/mtm14/">Ninth Machine Translation Marathon</a> in Trento.
+  about: |
+    Lecture at the [Ninth Machine Translation Marathon](//statmt.org/mtm14/) in Trento.

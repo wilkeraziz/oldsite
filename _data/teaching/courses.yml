@@ -8,7 +8,7 @@
   doc-url: //uva-slpl.github.io/ull/
   institution: UvA
   github: uva-slpl/ull
-  about: | 
+  abstract: | 
     I coordinate and teach Unsupervised Language Learning together with Dr Ekaterina Shutova. This is a second-year course offered to students in the Masters' in Artificial Intelligence programme of the University of Amsterdam. The course covers advanced unsupervised learning techniques in natural language processing with a focus on meaning representation.
 
 -
@@ -21,7 +21,7 @@
   doc-url: //uva-slpl.github.io/nlmi/
   institution: UvA
   github: uva-slpl/nlmi
-  about: | 
+  abstract: | 
     I coordinate and teach Natural Language Models and Interfaces. This is a second-year course offered to students in the Bachelor's in Artificial Intelligence programme of the University of Amsterdam. The course covers some of the essential techniques in natural language processing with a focus on language modelling and word representation:
 
     * Review of probability theory
@@ -43,7 +43,7 @@
   doc-url: //uva-slpl.github.io/nlp2/
   institution: UvA
   github: uva-slpl/nlp2 
-  about: |
+  abstract: |
     I organise and teach Natural Language Processing II at UvA (the course is focused on machine translation). This is the third edition which I organise, the first one was in the spring of 2015. 
 
     The course is organised in three blocks
@@ -60,7 +60,8 @@
   title: Bayesian inference for PCFGs
   doc-url: /resources/courses/pcfgs.pdf
   institution: UvA
-  about: |
+  github: //github.com/daandouwe/Probabilistic-modelling-with-PCFG
+  abstract: |
     4 weeks course on Bayesian inference for PCFGs, here is a list of the topics covered:
 
     * [Parsing as weighted deduction](https://arxiv.org/pdf/cmp-lg/9404008.pdf) (CKY, Earley)
@@ -81,7 +82,7 @@
   doc-url: /resources/courses/MoL-pcfg-sampling.pdf
   institution: UvA
   github: wilkeraziz/notebooks/tree/master/MoL_June15
-  about: |
+  abstract: |
     4 weeks course on MC techniques for PCFGs, here is a list of the topics covered:
 
     * [Parsing as weighted deduction](https://arxiv.org/pdf/cmp-lg/9404008.pdf) (CKY, Earley)

@@ -8,5 +8,5 @@
   authors: Wilker Aziz
   doc-url: /slides/23-02-2015-uva-ull-sampling.pdf
   slides: /slides/23-02-2015-uva-ull-sampling.pdf
-  about: >
-    Guest lecture for Jelle Zuidema's course on <a href="http://wzuidema.humanities.uva.nl/unsupervised-language-learning-2015/">Unsupervised Language Learning</a> at UvA. In this one hour talk, I present sampling methods and their role in performing MLE and/or posterior inference with special attention to the case of parsing.
+  about: |
+    Guest lecture for Jelle Zuidema's course on [Unsupervised Language Learning](//wzuidema.humanities.uva.nl/unsupervised-language-learning-2015) at UvA. In this one hour talk, I present sampling methods and their role in performing MLE and/or posterior inference with special attention to the case of parsing.

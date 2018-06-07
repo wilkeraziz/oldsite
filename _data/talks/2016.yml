@@ -8,6 +8,6 @@
   authors: Wilker Aziz
   doc-url: /slides/dgm.pdf
   slides: /slides/dgm.pdf
-  about: >
+  about: |
     Invited lecture for NLP1 at UvA. I cover basic notions about directed graphical models and present IBM1 as an application of latent variable modelling. I also present maximum likelihood estimation via expectation maximisation for categorical distributions.
 

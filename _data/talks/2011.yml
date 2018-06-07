@@ -6,5 +6,5 @@
   img: 2011-ranlp
   title: Tutorial on Statistical Machine Translation
   authors: Wilker Aziz
-  abstract: >
+  abstract: |
     In this 3h tutorial, I will present word-alignment, phrase-based and hierarchical phrase-based statistical machine translation. The tutorial will also include a factored-based and syntax-based models. 

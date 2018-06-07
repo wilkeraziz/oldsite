@@ -8,8 +8,29 @@
     {% if include.talk.event %}
     <small><i>{{ include.talk.event }}</i></small><br/>
     {% endif %}
+
+    <!--
     {% if include.talk.about %}
     <span> {{ include.talk.about | markdownify }} </span>
+    {% endif %}
+    -->
+    
+    <!-- about -->
+    {% if include.talk.about %}
+      <a data-toggle="modal" href="#about{{ include.talk.img }}" class="label label-default">About</a>
+      <!-- Modal -->
+      <div class="modal fade" id="about{{ include.talk.img }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title">{{ include.talk.title }}</h4>
+            </div>
+            <div class="modal-body">
+              {{ include.talk.about | markdownify }}
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
     {% endif %}
 
     <!-- abstract -->
