@@ -8,6 +8,7 @@
   authors: "Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, Khalil Sima'an"
   doc-url: http://www.aclweb.org/anthology/D/D17/D17-1209.pdf
   arxiv: https://arxiv.org/pdf/1704.04675.pdf 
+  slides: /slides/emnlp2017.pdf
   booktitle: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
   abstract: >
       We present a simple and effective approach to incorporating syntactic structure into neural attention-based encoder-decoder models for machine translation. We rely on graph-convolutional networks (GCNs), a recent class of neural networks developed for modeling graph-structured data. Our GCNs use predicted syntactic dependency trees of source sentences to produce representations of words (i.e. hidden states of the encoder) that are sensitive to their syntactic neighborhoods. GCNs take word representations as input and produce word representations as output, so they can easily be incorporated as layers into standard encoders (e.g., on top of bidirectional RNNs or convolutional neural networks). We evaluate their effectiveness with English-German and English-Czech translation experiments for different types of encoders and observe substantial improvements over their syntax-agnostic versions in all the considered setups.
