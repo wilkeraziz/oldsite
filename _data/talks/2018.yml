@@ -27,7 +27,7 @@
   layout: talk
   selected: y
   year: 2018
-  event: 24/05/2018, 14pm, University of Edinburgh
+  event: 24/05/2018, University of Edinburgh
   img: amortised-vi
   title: "Deep Generative Models: Backpropagation Through Stochastic Computation Graphs"
   authors: Wilker Aziz
@@ -39,7 +39,7 @@
   layout: talk
   selected: y
   year: 2018
-  event: 03/04/2018, 11pm, Naver labs (France)
+  event: 03/04/2018, Naver labs (France)
   img: dgm-naver
   title: Probabilistic modelling for NLP powered by deep learning
   authors: Wilker Aziz
