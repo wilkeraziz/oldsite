@@ -12,7 +12,7 @@ This group is interested in techniques for approximate inference in complex prob
 
 # Schedule
 
-We are currently discussing chapters of [Bayesian Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) on Fridays from 3-4pm.
+We are currently discussing chapters of [Bayesian Theory](//onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) on Fridays from 3-4pm.
 
 # Done
 
