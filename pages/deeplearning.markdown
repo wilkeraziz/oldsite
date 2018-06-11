@@ -8,6 +8,7 @@ We also read about deep learning (even when latent variables are nowhere to be s
 
 # Scheduled
 
+We moved our activities to [this page](https://cl-illc.github.io/content/dl).
 
 # Pool
 

@@ -12,18 +12,7 @@ This group is interested in techniques for approximate inference in complex prob
 
 # Schedule
 
-**Bayesian deep learning**
- 
-* When: Fridays 10:30-12:00 
-* Where: F2.02
-* Current topic: review of variational inference (see support material at the end of the page)
-* Schedule
-    * `Scheduled February 26 (2018!)`: The appendix of [Gal's seminal paper](http://proceedings.mlr.press/v48/gal16-supp.pdf)
-    * `Done (November 3)` Sections 3-4 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
-    * `Done (October 13)` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
-        * Background on Gaussian distribution: sections 1.2.4 and 2.3 of Bishop's book;
-        * Background on exponential families: chapters [8](https://www.stat.berkeley.edu/~mjwain/Fall2012_Stat241a/reader_ch8.pdf) and [9](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf) of Jordan's book;
-
+We are currently discussing chapters of [Bayesian Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) on Fridays from 3-4pm.
 
 # Done
 
@@ -71,6 +60,17 @@ This group is interested in techniques for approximate inference in complex prob
 
 * [Generative Adversarial Networks](https://arxiv.org/pdf/1406.2661.pdf)
 * [Deep and Hierarchical Implicit Models](https://arxiv.org/pdf/1702.08896.pdf)
+
+## Bayesian deep learning
+ 
+Review of variational inference (see support material at the end of the page):
+
+* `Scheduled February 26 (2018!)`: The appendix of [Gal's seminal paper](http://proceedings.mlr.press/v48/gal16-supp.pdf)
+* `Done (November 3)` Sections 3-4 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+* `Done (October 13)` Sections 1-2 of [Blei's VI tutorial](https://arxiv.org/pdf/1601.00670.pdf)
+    * Background on Gaussian distribution: sections 1.2.4 and 2.3 of Bishop's book;
+    * Background on exponential families: chapters [8](https://www.stat.berkeley.edu/~mjwain/Fall2012_Stat241a/reader_ch8.pdf) and [9](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf) of Jordan's book;
+
 
 ## Applications
 
