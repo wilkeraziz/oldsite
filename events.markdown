@@ -15,13 +15,12 @@ I organise a few reading groups, if you feel like suggesting a paper you can con
 [comment]: <> (&#x1F4D4; or D2, D3for Bayesian NLP)
 
 * &#x1F4D5; [Approximate inference and deep generative models](pages/inference)
+* &#x1F4D8; [BNNs](pages/bnn)
 * &#x1F4D7; [Deep learning](pages/deeplearning)
-* &#x1F4D8; [SLPL](pages/slpl)
-* [NLP2](pages/NLP2)
 * [Optimisation](pages/opt)
 * [Bayesian NLP](pages/bayesiannlp)
-* [BNNs](pages/bnn)
 * [Statistics](pages/stat)
+* [SLPL](pages/slpl) `retired`
 
 
 # Other

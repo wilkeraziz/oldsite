@@ -4,14 +4,33 @@ title: Bayesian Neural Networks
 menu: no
 ---
 
-Scheduled:
+
+# Schedule
+
+* July 4, 2018: [Variational Dropout](//papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick.pdf)
+    * Further reading: 
+        * Sparse Variational Dropout: [paper](//arxiv.org/pdf/1701.05369) and [talk](//vimeo.com/238221185)
+        * [Variational Gaussian Dropout is not Bayesian](//arxiv.org/pdf/1711.02989.pdf)
+* June 27, 2018: [Dropout as a Bayesian Approximation: Appendix](//arxiv.org/pdf/1506.02157.pdf)
+    * Background:
+        * Hinton's dropout: [arxiv](//arxiv.org/pdf/1207.0580.pdf) and [JMLR](//jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
+
+# History of Bayesian NNs 
+
+* Early 90s: McKay [I](//www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.3.448), [II](//www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.3.415), and [III](//www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.5.720) 
+* [Neal, 1995](//www.cs.toronto.edu/~radford/ftp/thesis.pdf)
+* [Williams, 1997](//papers.nips.cc/paper/1197-computing-with-infinite-networks.pdf)
+* [Barber and Bishop, 1998](//www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bishop-ensemble-nato-98.pdf)
+* Check [Section 2.2 of Gal's thesis](//mlg.eng.cam.ac.uk/yarin/thesis/thesis.pdf)
 
 
-Done:
+## David McKay's
 
+* [Density Networks](https://pdfs.semanticscholar.org/8734/b13a74765d4a78ebf15c9c38991a5302d71c.pdf)
+* [Bayesian Neural Networks and Density Networks](http://www.inference.org.uk/mackay/ch_learning.pdf)
+* [Neural Networks Summer School](http://www.inference.org.uk/mackay/cpi4.pdf)
 
-
-Pool:
+# Pool
 
 * [Weight Uncertainty in Neural Networks](https://arxiv.org/pdf/1505.05424.pdf)
 * [Bayesian Recurrent Neural Networks](https://arxiv.org/pdf/1704.02798.pdf)
@@ -20,8 +39,3 @@ Pool:
 * [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](http://papers.nips.cc/paper/6241-a-theoretically-grounded-application-of-dropout-in-recurrent-neural-networks.pdf)
 * [Scalable Bayesian Learning of Recurrent Neural Networks for Language Modeling](http://www.aclweb.org/anthology/P17-1030)
 
-# David McKay's
-
-* [Density Networks](https://pdfs.semanticscholar.org/8734/b13a74765d4a78ebf15c9c38991a5302d71c.pdf)
-* [Bayesian Neural Networks and Density Networks](http://www.inference.org.uk/mackay/ch_learning.pdf)
-* [Neural Networks Summer School](http://www.inference.org.uk/mackay/cpi4.pdf)
