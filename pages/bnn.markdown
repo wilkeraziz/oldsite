@@ -7,7 +7,7 @@ menu: no
 
 # Schedule
 
-* 04/07/2018 11am F2.02: [Variational Dropout](//papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick.pdf)
+* 04/07/2018 11am F2.02: [Variational Dropout and the Local Reparameterization Trick](//papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick.pdf)
     * Further reading: 
         * Sparse Variational Dropout: [paper](//arxiv.org/pdf/1701.05369) and [talk](//vimeo.com/238221185)
         * [Variational Gaussian Dropout is not Bayesian](//arxiv.org/pdf/1711.02989.pdf)
