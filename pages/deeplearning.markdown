@@ -6,7 +6,9 @@ menu: no
 
 We also read about deep learning (even when latent variables are nowhere to be seen).
 
-# Scheduled
+
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=d5etdgvg97ajfnbetjebkmbdis%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="250" frameborder="0" scrolling="no"></iframe>
+
 
 We moved our activities to [this page](//cl-illc.github.io/content/dl).
 
