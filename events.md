@@ -19,6 +19,7 @@ menu: yes
 
 **Reading lists**
 
+* [Deep generative models](pages/landscape)
 * [Optimisation](pages/opt)
 * [Bayesian NLP](pages/bayesiannlp)
 * [Statistics](pages/stat)
