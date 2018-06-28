@@ -1,0 +1,34 @@
+-
+  layout: group
+  selected: y
+  img: dl
+  uid: dl
+  title: "Deep learning for NLP"
+  people: "Joost Bastings and Samira Abnar"
+  note: 
+  abstract: >
+    This reading group meets every other Tuesday to discuss papers on applications of deep learning to natural language processing.
+  url: //cl-illc.github.io/content/dl
+  subscribe: //list.uva.nl/mailman/listinfo/dlm-illc
+-
+  layout: group
+  selected: y
+  img: inf
+  uid: inf
+  title: "Approximate inference and deep generative models"
+  people: "Wilker Aziz"
+  note: 
+  abstract: >
+    This reading group meets to discuss advanced approximate inference techniques, in particular, in the context of deep generative models
+  url: //wilkeraziz.github.io/pages/inference
+-
+  layout: group
+  selected: y
+  img: bnn
+  uid: bnn
+  title: "Bayesian Neural Networks"
+  people: "Wilker Aziz"
+  note: 
+  abstract: >
+    Bayesian methods for neural network models
+  url: //wilkeraziz.github.io/pages/bnn
