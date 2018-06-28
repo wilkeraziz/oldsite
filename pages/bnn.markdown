@@ -4,6 +4,7 @@ title: Bayesian Neural Networks
 menu: no
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=c752525tganmcbvhfl1tu2b9vo%40group.calendar.google.com&amp;color=%230D7813&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="250" frameborder="0" scrolling="no"></iframe>
 
 # Schedule
 
