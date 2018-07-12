@@ -21,6 +21,7 @@ If you need to find me try Science Park 107 (F2.11).
 ## <span style="color:darkblue">News </span>
 
 
+* In January 2019, I will start as an *assistant professor* at UvA-ILLC! I expect to recruit PhD candidates early next year!
 * We will present our work on modelling latent variation in translation data at ACL18 ([code](//github.com/philschulz/stochastic-decoder) and [paper](//arxiv.org/pdf/1805.10844.pdf)).
 * [Philip](//philipschulz.org) and I are going to present our [tutorial on variational inference and deep generative models](//github.com/philschulz/VITutorial) at ACL 2018! See you in Melbourne!
 * We will present our work on generative models of joint word representation and alignment at NAACL18 ([code](//github.com/uva-slpl/embedalign) and [paper](//arxiv.org/pdf/1802.05883.pdf)).
