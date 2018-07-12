@@ -15,7 +15,7 @@ menu: no
         * [Variational Gaussian Dropout is not Bayesian](//arxiv.org/pdf/1711.02989.pdf)
 * 27/06/18 11am F2.02: [Dropout as a Bayesian Approximation: Appendix](//arxiv.org/pdf/1506.02157.pdf)
     * Background:
-        * Hinton's dropout: [arxiv](//arxiv.org/pdf/1207.0580.pdf) and [JMLR](//jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf)
+        * Hinton's dropout: [arxiv](//arxiv.org/pdf/1207.0580.pdf) and [JMLR](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 
 # History of Bayesian NNs 
 
