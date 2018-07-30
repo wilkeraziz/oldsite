@@ -1,14 +1,29 @@
 -
   layout: paper
+  paper-type: pre-print
+  selected: y
+  year: 2018
+  img: aevnmt
+  title: "Auto-Encoding Variational Neural Machine Translation"
+  authors: "Bryan Eikema and Wilker Aziz"
+  doc-url: //arxiv.org/pdf/1807.10564.pdf
+  arxiv: //arxiv.org/abs/1807.10564 
+  code: //github.com/Roxot/AEVNMT 
+  slides:
+  booktitle: "arXiv:1807.10564"
+  abstract: >
+    We present a deep generative model of bilingual sentence pairs. The model generates source and target sentences jointly from a shared latent representation and is parameterised by neural networks. Efficient training is done by amortised variational inference and reparameterised gradients. Additionally, we discuss the statistical implications of joint modelling and propose an efficient approximation to maximum a posteriori decoding for fast test-time predictions. We demonstrate the effectiveness of our model in three scenarios: in-domain training, mixed-domain training, and learning from a mix of gold-standard and synthetic data. Our experiments show consistently that our joint formulation outperforms conditional modelling in all such scenarios.
+-
+  layout: paper
   paper-type: inproceedings
   selected: y
   year: 2018
   img: sdec2018
   title: "A Stochastic Decoder for Neural Machine Translation"
   authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
-  doc-url: https://arxiv.org/pdf/1805.10844.pdf
-  arxiv: https://arxiv.org/abs/1805.10844
-  code: https://github.com/philschulz/stochastic-decoder 
+  doc-url: //arxiv.org/pdf/1805.10844.pdf
+  arxiv: //arxiv.org/abs/1805.10844
+  code: //github.com/philschulz/stochastic-decoder 
   slides:
   booktitle: "To appear in ACL18"
   abstract: >
@@ -21,9 +36,9 @@
   img: embedalign2018
   title: "Deep Generative Model for Joint Alignment and Word Representation"
   authors: "Miguel Rios, Wilker Aziz, Khalil Sima'an"
-  doc-url: http://aclweb.org/anthology/N18-1092 
-  arxiv: https://arxiv.org/abs/1802.05883
-  code: https://github.com/uva-slpl/embedalign
+  doc-url: //aclweb.org/anthology/N18-1092 
+  arxiv: //arxiv.org/abs/1802.05883
+  code: //github.com/uva-slpl/embedalign
   slides: /slides/embedalign-naacl18.pdf
   booktitle: "Proceedings of NAACL-HLT 2018"
   abstract: >
