@@ -21,13 +21,28 @@
   img: sdec2018
   title: "A Stochastic Decoder for Neural Machine Translation"
   authors: "Philip Schulz, Wilker Aziz and Trevor Cohn"
-  doc-url: //arxiv.org/pdf/1805.10844.pdf
+  doc-url: //aclweb.org/anthology/P18-1115
   arxiv: //arxiv.org/abs/1805.10844
+  appendix: //anthology.aclweb.org/attachments/P/P18/P18-1115.Notes.pdf
   code: //github.com/philschulz/stochastic-decoder 
   slides:
-  booktitle: "To appear in ACL18"
+  booktitle: "Proceedings of ACL 2018"
   abstract: >
     The process of translation is ambiguous, in that there are typically many valid translations for a given sentence. This gives rise to significant variation in parallel corpora, however, most current models of machine translation do not account for this variation, instead treating the problem as a deterministic process. To this end, we present a deep generative model of machine translation which incorporates a chain of latent variables, in order to account for local lexical and syntactic variation in parallel corpora. We provide an in-depth analysis of the pitfalls encountered in variational inference for training deep generative models. Experiments on several different language pairs demonstrate that the model consistently improves over strong baselines.
+  bibtex: >
+    @InProceedings{P18-1115,
+        author = 	"Schulz, Philip
+            and Aziz, Wilker
+            and Cohn, Trevor",
+        title = 	"A Stochastic Decoder for Neural Machine Translation",
+        booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        year = 	"2018",
+        publisher = 	"Association for Computational Linguistics",
+        pages = 	"1243--1252",
+        location = 	"Melbourne, Australia",
+        url = 	"http://aclweb.org/anthology/P18-1115"
+    }
+
 -
   layout: paper
   paper-type: inproceedings

@@ -84,6 +84,10 @@
     {% if include.paper.arxiv %}
     <a href="{{ include.paper.arxiv }}" class="label label-info">arXiv</a>
     {% endif %}
+    
+    {% if include.paper.appendix %}
+    <a href="{{ include.paper.appendix }}" class="label label-info">Appendix</a>
+    {% endif %}
 
     {% if include.paper.slides %}
       <a href="{{ include.paper.slides }}" class="label label-info">Slides</a>
