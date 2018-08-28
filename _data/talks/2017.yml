@@ -2,9 +2,9 @@
   layout: talk
   selected: y
   year: 2017
-  event: 07/04/2017, ILPS-UvA
+  event: 07/04/2017, UvA-ILPS Lunch Talk
   img: embed-align
-  title: Embed-Align
+  title: "Joint Word Representation and Alignment: Embed-Align"
   authors: Wilker Aziz
   doc-url: /slides/embed-align.pdf
   slides: /slides/embed-align.pdf

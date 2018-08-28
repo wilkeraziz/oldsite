@@ -2,12 +2,23 @@
   layout: talk
   selected: y
   year: 2018
+  event: 13/07/2018, University of Melbourne
+  img: aevnmt
+  title: "Auto-Encoding Variational Neural Machine Translation"
+  doc-url: //arxiv.org/pdf/1807.10564.pdf
+  authors: Bryan Eikema and Wilker Aziz
+  abstract: |
+    We present a deep generative model of bilingual sentence pairs. The model generates source and target sentences jointly from a shared latent representation and is parameterised by neural networks. Efficient training is done by amortised variational inference and reparameterised gradients. Additionally, we discuss the statistical implications of joint modelling and propose an efficient approximation to maximum a posteriori decoding for fast test-time predictions. We demonstrate the effectiveness of our model in three scenarios: in-domain training, mixed-domain training, and learning from a mix of gold-standard and synthetic data. Our experiments show consistently that our joint formulation outperforms conditional modelling in all such scenarios.
+-
+  layout: talk
+  selected: y
+  year: 2018
   event: ACL18 Tutorial, Melbourne, Australia.
   img: vi-tutorial
   title: Variational Inference and Deep Generative Models
   authors: Wilker Aziz and Philip Schulz
-  doc-url: https://github.com/philschulz/VITutorial
-  slides: https://github.com/philschulz/VITutorial
+  doc-url: //github.com/philschulz/VITutorial
+  slides: //github.com/philschulz/VITutorial
   abstract: |
       NLP has seen a surge in neural network models in recent years. These models provide state-of-the-art performance on many supervised tasks. Unsupervised and semi-supervised learning has only been addressed scarcely, however. Deep Generative Models (DGMs) make it possible to integrate neural networks with probabilistic graphical models. Using DGMs one can easily design latent variable models that account for missing observations and thereby enable unsupervised and semi-supervised learning with neural networks. The method of choice for training these models is variational inference. This tutorial offers a general introduction to variational inference followed by a thorough and example-driven discussion of how to use variational methods for training DGMs. It provides both the mathematical background necessary for deriving the learning algorithms as well as practical implementation guidelines. Moreover, we discuss common pitfalls that one may encounter when using DGMs for NLP applications, such as the latent variable being ignored by the model, and discuss potential solutions from a theoretical and practical perspective. Importantly, the tutorial will cover models with continuous and discrete variables.
   schedule: |
@@ -25,7 +36,17 @@
   layout: talk
   selected: y
   year: 2018
-  event: 24/05/2018, University of Edinburgh
+  event: 25/05/2018, University of Edinburgh - ILCC Seminar
+  img: sdec
+  title: "Modelling Latent Variation in Translation Data"
+  authors: Wilker Aziz (joint work with Philip Schulz and Trevor Cohn)
+  doc-url: //aclweb.org/anthology/P18-1115
+  slides: /slides/sdec-at-uedin.pdf
+-
+  layout: talk
+  selected: y
+  year: 2018
+  event: 24/05/2018, University of Edinburgh - ILCC
   img: amortised-vi
   title: "Deep Generative Models: Backpropagation Through Stochastic Computation Graphs"
   authors: Wilker Aziz
@@ -37,7 +58,7 @@
   layout: talk
   selected: y
   year: 2018
-  event: 03/04/2018, Naver labs (France)
+  event: 03/04/2018, Naver Labs Europe (France)
   img: dgm-naver
   title: Probabilistic modelling for NLP powered by deep learning
   authors: Wilker Aziz
