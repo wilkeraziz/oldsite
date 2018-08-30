@@ -31,7 +31,7 @@
       {% when "thesis" %}
         PhD thesis, {{ include.paper.institution }}.
       {% when "pre-print" %}
-        {{ include.paper.booktitle }}.
+        Pre-print: {{ include.paper.booktitle }}.
     {% endcase %}
     {{ include.paper.year }}.
     {% if include.paper.note %}<i>{{ include.paper.note }}</i>{% endif %}
