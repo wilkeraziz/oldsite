@@ -12,7 +12,9 @@ This group is interested in techniques for approximate inference in complex prob
 
 # Schedule
 
-We are currently discussing chapters of [Bayesian Theory](//onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) on Fridays from 3-4pm.
+[The Information Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Models](https://arxiv.org/pdf/1806.06514.pdf)
+
+<!-- We are currently discussing chapters of [Bayesian Theory](//onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) on Fridays from 3-4pm. -->
 
 # Done
 
