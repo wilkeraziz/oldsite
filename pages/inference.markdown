@@ -12,7 +12,12 @@ This group is interested in techniques for approximate inference in complex prob
 
 # Schedule
 
-[The Information Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Models](https://arxiv.org/pdf/1806.06514.pdf)
+
+Current theme is **objectives for deep generative models**. We meet on Fridays 11am.
+
+* `Done` [The Information Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Models](https://arxiv.org/pdf/1806.06514.pdf)
+* 5 Sep 2018: [Fixing a Broken ELBO](http://proceedings.mlr.press/v80/alemi18a/alemi18a.pdf) and [supplement](http://proceedings.mlr.press/v80/alemi18a/alemi18a-supp.pdf)
+* 12 Sep 2018: [Taming VAEs](https://arxiv.org/pdf/1810.00597.pdf)
 
 <!-- We are currently discussing chapters of [Bayesian Theory](//onlinelibrary.wiley.com/doi/book/10.1002/9780470316870) on Fridays from 3-4pm. -->
 
