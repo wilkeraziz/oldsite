@@ -5,7 +5,7 @@ layout: default
 
 ![wilker](/img/people/wilker4.jpg){: style="float: right; margin: 0px 20px; width: 204px; height: 362px" }
 
-I am an *assistant professor* at the [ILLC][ILLC]-[UvA][UvA] working on machine learning for natural language processing problems such as machine translation, word alignment, textual entailment, paraphrasing, and question answering. 
+I am an *assistant professor* in computational linguistics at the [Institute for Logic, Language and Computation][ILLC] working on machine learning for natural language processing. Some of the problems I've looked into are machine translation, word alignment, textual entailment, paraphrasing, and question answering. 
 My interests sit at the intersection of disciplines such as formal languages, machine learning, approximate inference, global optimisation, and computational linguistics.
 
 
