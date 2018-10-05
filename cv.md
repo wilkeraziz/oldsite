@@ -5,15 +5,16 @@ menu: yes
 ---
 
 
-I am a member of the [Statistical Language Processing and Learning Lab][SLPLL] working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }})  at the [Institute for Logic, Language and Computation][ILLC]. 
+I have recently been appointed Assistant Professor in Computational Linguistics at the ILLC (Uva). 
+Until December 2018, I will continue working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}) at the [Statistical Language Processing and Learning Lab][SLPLL].
 
 Here is my complete [CV]({{ site.baseurl }}/{{ site.cv }}) and a bit more on my [background](pages/background).
 
 
 I often serve on the program committee of ML/CL/NLP/MT conferences
 
-* CL/NLP conferences: ACL, EMNLP, NAACL, Coling, IJCNLP, CoNLL
 * ML conferences: NIPS, ICLR, ICML
+* CL/NLP conferences: ACL, EMNLP, NAACL, Coling, IJCNLP, CoNLL
 * MT conferences: WMT, EAMT, AMTA, MT Summit
 
 and I review for CL/NLP/MT journals
