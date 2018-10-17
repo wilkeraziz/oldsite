@@ -49,15 +49,6 @@
       Deep kernel learning and Gaussian process for text classification.
 -
   layout: person
-  relation: MSc candidate (2017-)
-  selected: y
-  institution: UvA
-  name: Bryan Eikema
-  github: Roxot
-  about: >
-      Low-resource neural machine translation.
--
-  layout: person
   relation: Project AI (2018-)
   selected: y
   institution: UvA

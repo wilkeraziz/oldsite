@@ -1,5 +1,14 @@
 -
   layout: person
+  relation: MSc candidate (2017-2018)
+  selected: y
+  institution: UvA
+  name: Bryan Eikema
+  github: Roxot
+  about: >
+      I supervised Bryan's master's [thesis](//esc.fnwi.uva.nl/thesis/centraal/files/f344704273.pdf) on generative models of translation.
+-
+  layout: person
   relation: PhD candidate (2016-2018)
   selected: y
   institution: UvA
