@@ -1,7 +1,8 @@
 ---
-layout: photolist
+layout: list
 title: Talks
 menu: yes
+mathjax: yes
 ---
 
 Some invited talks, lectures and tutorials:
@@ -19,3 +20,5 @@ Some invited talks, lectures and tutorials:
 {% include talk.html talk=talk %}
 {% endfor %}
 {% endfor %}
+
+

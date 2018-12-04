@@ -1,7 +1,4 @@
 <div class="media">
-  <a class="pull-left thumbnail" {% if include.talk.doc-url %} href="{{ include.talk.doc-url }}" {% endif %}>
-    <img src="/img/talk/{{ include.talk.img }}.png" alt="" style="max-width:90px; height:auto;"/>
-  </a>
   <div class="media-body">
     <!-- citation -->
     <strong>{{ include.talk.title }} </strong><br/>
@@ -27,6 +24,24 @@
             </div>
             <div class="modal-body">
               {{ include.talk.about | markdownify }}
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+    {% endif %}
+    
+    <!-- tour -->
+    {% if include.talk.tour %}
+      <a data-toggle="modal" href="#tour{{ include.talk.img }}" class="label label-default">Tour</a>
+      <!-- Modal -->
+      <div class="modal fade" id="tour{{ include.talk.img }}" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+              <h4 class="modal-title">{{ include.talk.title }}</h4>
+            </div>
+            <div class="modal-body">
+              {{ include.talk.tour | markdownify }}
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
