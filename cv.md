@@ -5,8 +5,8 @@ menu: yes
 ---
 
 
-I have recently been appointed Assistant Professor in Computational Linguistics at the ILLC (Uva). 
-Until December 2018, I will continue working with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}) at the [Statistical Language Processing and Learning Lab][SLPLL].
+In January 2019 I joined the ILLC as Assistant Professor, before that I was a research assistant at the ILLC working
+ with [Prof {{ site.ksimaanstyle }}]({{ site.khalil_simaan }}) at the [Statistical Language Processing and Learning Lab][SLPLL].
 
 Here is my complete [CV]({{ site.baseurl }}/{{ site.cv }}) and a bit more on my [background](pages/background).
 
