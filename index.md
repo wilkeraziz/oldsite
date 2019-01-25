@@ -5,7 +5,7 @@ layout: default
 
 ![wilker](/img/people/wilker4.jpg){: style="float: right; margin: 0px 20px; width: 204px; height: 362px" }
 
-I am a *research associate* in computational linguistics at the [Institute for Logic, Language and Computation][ILLC] working on machine learning for natural language processing. Some of the problems I've looked into are machine translation, word alignment, textual entailment, paraphrasing, and question answering. 
+I am an *assistant professor* in computational linguistics at the [Institute for Logic, Language and Computation][ILLC] working on machine learning for natural language processing. Some of the problems I've looked into are machine translation, word alignment, textual entailment, paraphrasing, and question answering. 
 My interests sit at the intersection of disciplines such as formal languages, machine learning, approximate inference, global optimisation, and computational linguistics.
 
 
@@ -15,11 +15,10 @@ Recently, I've developed quite an interest in Bayesian deep learning. In particu
 If you are looking for a project with me, you might want to start by joining one of our [reading groups](events). I've put together a list of what I think may help one navigate through [the landscape of deep generative models](pages/landscape). And finally, I've made some [technical notes](//github.com/wilkeraziz/notes/tree/master/machine-learning) available on github.
 
 
-If you need to find me try Science Park 107 (F2.11).
+If you need to find me try Science Park 107 (F1.01).
 
 ## <span style="color:darkblue">News </span>
 
-* In January 2019, I'm starting as an assistant professor in computational linguistics at the ILLC-UvA. I am recruiting (write to me)!
 * We will present our work on modelling latent variation in translation data at ACL18 ([code](//github.com/philschulz/stochastic-decoder) and [paper](//arxiv.org/pdf/1805.10844.pdf)).
 * [Philip](//philipschulz.org) and I are going to present our [tutorial on variational inference and deep generative models](//github.com/philschulz/VITutorial) at ACL 2018! See you in Melbourne!
 * We will present our work on generative models of joint word representation and alignment at NAACL18 ([code](//github.com/uva-slpl/embedalign) and [paper](//arxiv.org/pdf/1802.05883.pdf)).
