@@ -1,5 +1,14 @@
 -
   layout: person
+  relation: MSc candidate (2018-2019)
+  selected: y
+  institution: UvA
+  name: Tom Pelsmaeker
+  github: 0Gemini0
+  about: >
+      I supervised Tom's master's [thesis](https://esc.fnwi.uva.nl/thesis/centraal/files/f1614284543.pdf) on deep generative language models.
+-
+  layout: person
   relation: MSc candidate (2017-2018)
   selected: y
   institution: UvA

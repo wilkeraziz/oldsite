@@ -31,15 +31,6 @@
       Syntactic parsing.
 -
   layout: person
-  relation: MSc candidate (2018-)
-  selected: y
-  institution: UvA
-  name: Tom Pelsmaeker
-  github: 0Gemini0
-  about: >
-      Generative language models.
--
-  layout: person
   relation: MSc candidate (2017-)
   selected: y
   institution: UvA
