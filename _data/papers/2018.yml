@@ -8,7 +8,7 @@
   authors: "Nicola De Cao, Wilker Aziz and Ivan Titov"
   doc-url: //arxiv.org/pdf/1808.09920.pdf
   arxiv: //arxiv.org/abs/1808.09920
-  booktitle: "To appear in Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019."
+  booktitle: "To appear in Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)"
   slides:
   abstract: >
     Most research in reading comprehension has focused on answering questions based on individual documents or even single paragraphs. We introduce a neural model which integrates and reasons relying on information spread within documents and across multiple documents. We frame it as an inference problem on a graph. Mentions of entities are nodes of this graph while edges encode relations between different mentions (e.g., within- and cross-document coreference). Graph convolutional networks (GCNs) are applied to these graphs and trained to perform multi-step reasoning. Our Entity-GCN method is scalable and compact, and it achieves state-of-the-art results on a multi-document question answering dataset, WIKIHOP (Welbl et al., 2018).
