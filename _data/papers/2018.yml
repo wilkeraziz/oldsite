@@ -2,6 +2,20 @@
   layout: paper
   paper-type: pre-print
   selected: y
+  year: 2019
+  img: entitygcn
+  title: "Question Answering by Reasoning Across Documents with Graph Convolutional Networks"
+  authors: "Nicola De Cao, Wilker Aziz and Ivan Titov"
+  doc-url: //arxiv.org/pdf/1808.09920.pdf
+  arxiv: //arxiv.org/abs/1808.09920
+  booktitle: "To appear in Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019."
+  slides:
+  abstract: >
+    Most research in reading comprehension has focused on answering questions based on individual documents or even single paragraphs. We introduce a neural model which integrates and reasons relying on information spread within documents and across multiple documents. We frame it as an inference problem on a graph. Mentions of entities are nodes of this graph while edges encode relations between different mentions (e.g., within- and cross-document coreference). Graph convolutional networks (GCNs) are applied to these graphs and trained to perform multi-step reasoning. Our Entity-GCN method is scalable and compact, and it achieves state-of-the-art results on a multi-document question answering dataset, WIKIHOP (Welbl et al., 2018).
+-
+  layout: paper
+  paper-type: pre-print
+  selected: y
   year: 2018
   img: visualclues
   title: "Latent Visual Clues for Neural Machine Translation"
@@ -12,20 +26,6 @@
   booktitle: "aarXiv:1811.0035"
   abstract: >
       In this work, we propose to model the interaction between visual and textual features for multi-modal neural machine translation through a latent variable model. This latent variable can be seen as a stochastic embedding and it is used in the target-language decoder and also to predict image features. Importantly, even though in our model formulation we capture correlations between visual and textual features, we do not require that images be available at test time. We show that our latent variable MMT formulation improves considerably over strong baselines, including the multi-task learning approach of Elliott and Kadar (2017) and the conditional variational auto-encoder approach of Toyama et al. (2016). Finally, in an ablation study we show that (i) predicting image features in addition to only conditioning on them and (ii) imposing a constraint on the minimum amount of information encoded in the latent variable slightly improved translations.
--
-  layout: paper
-  paper-type: pre-print
-  selected: y
-  year: 2018
-  img: entitygcn
-  title: "Question Answering by Reasoning Across Documents with Graph Convolutional Networks"
-  authors: "Nicola De Cao, Wilker Aziz and Ivan Titov"
-  doc-url: //arxiv.org/pdf/1808.09920.pdf
-  arxiv: //arxiv.org/abs/1808.09920
-  booktitle: "To appear in Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019."
-  slides:
-  abstract: >
-    Most research in reading comprehension has focused on answering questions based on individual documents or even single paragraphs. We introduce a neural model which integrates and reasons relying on information spread within documents and across multiple documents. We frame it as an inference problem on a graph. Mentions of entities are nodes of this graph while edges encode relations between different mentions (e.g., within- and cross-document coreference). Graph convolutional networks (GCNs) are applied to these graphs and trained to perform multi-step reasoning. Our Entity-GCN method is scalable and compact, and it achieves state-of-the-art results on a multi-document question answering dataset, WIKIHOP (Welbl et al., 2018).
 -
   layout: paper
   paper-type: pre-print
