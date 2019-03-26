@@ -41,11 +41,11 @@ Check the branch `yandex2019` for all [modules](https://github.com/philschulz/VI
 
 # Further reading
 
-This is a [list of papers](pages/landscape) you can use to kickstart your path to being an expert on DGMs.
+This is a [list of papers](landscape) you can use to kickstart your path to being an expert on DGMs.
 
 Some people also asked me to list the techniques available to dealing with intermediate discrete representations (this is not an exhaustive list):
-* the probabilistic way to do it, is to make the discrete representation stochastic and circumvent non-differentiability via marginalisation, this however leads to intractabilities that need to be addressed via approximate inference and sophisticated gradient estimation: [NVIL](https://www.cs.toronto.edu/~amnih/papers/nvil.pdf) and [in NLP](https://arxiv.org/pdf/1511.06038.pdf);
-* you can use pseudo-gradients: gradient-like quantities that you can use when gradients are not defined, though note that this is typically done heuristically and leads to biased estimators
+* the probabilistic way to do it is to make the discrete representation stochastic and circumvent non-differentiability via marginalisation, this however leads to intractabilities that need to be addressed via approximate inference and sophisticated gradient estimation: [NVIL](https://www.cs.toronto.edu/~amnih/papers/nvil.pdf) and [in NLP](https://arxiv.org/pdf/1511.06038.pdf);
+* you can use pseudo-gradients (i.e. gradient-like quantities) that you can use when gradients are not defined, though note that this is typically done heuristically and leads to biased estimators
     * straight-through estimator (STE) including [Concrete](https://arxiv.org/pdf/1611.01144.pdf) and [GumbelSoftmax-ST](https://arxiv.org/pdf/1611.00712.pdf)
     * [SPIGOT](https://aclweb.org/anthology/P18-1173) is similar to STE, but uses a more sophisticated pseudo-gradient motivated from an NLP perspective
 * you can define activations that are themselves solutions to an optimisation problem: this can be used to derive unbiased estimators (though sometimes it requires a change of objective):
