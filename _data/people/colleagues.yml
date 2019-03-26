@@ -1,13 +1,12 @@
 -
   layout: person
-  relation: PI
   selected: y
   institution: UvA
   img: khalil
   name: Khalil Sima'an
   url: https://staff.fnwi.uva.nl/k.simaan/
   about: >
-    I've joined Khalil's growing army on 1 January 2015 to work on his Vici NWO project
+    I worked under Khalil from 2015 to 2018 on his NWO Vici project
     *Machine Translators: Teaching Computers to Translate Using their own Words*.
   extra: >
     Khalil served as external examiner in my PhD viva.

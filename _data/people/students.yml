@@ -1,5 +1,23 @@
 -
   layout: person
+  relation: PhD candidate (2019-)
+  selected: y
+  institution: UvA
+  name: Bryan Eikema
+  github: Roxot
+  about: >
+      Neural machine translation and language generation with deep generative models. 
+-
+  layout: person
+  relation: PhD candidate (2018-)
+  selected: y
+  institution: UvA
+  name: Nicola de Cao
+  github: nicola-decao
+  about: >
+      Deep generative models for question answering.
+-
+  layout: person
   relation: PhD candidate (2017-)
   selected: y
   institution: UvA
@@ -38,15 +56,6 @@
   github: Nuno-Mota
   about: >
       Deep kernel learning and Gaussian process for text classification.
--
-  layout: person
-  relation: Project AI (2018-)
-  selected: y
-  institution: UvA
-  name: Nicola de Cao
-  github: nicola-decao
-  about: >
-      Question answering.
 -
   layout: person
   relation: Project AI (2018-)

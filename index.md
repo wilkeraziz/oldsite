@@ -19,7 +19,10 @@ If you need to find me try Science Park 107 (F1.01). Here is my public calendar 
 
 ## <span style="color:darkblue">News </span>
 
-* We will present our work on modelling latent variation in translation data at ACL18 ([code](//github.com/philschulz/stochastic-decoder) and [paper](//arxiv.org/pdf/1805.10844.pdf)).
+* Our VITutorial is visiting Moscow! Thanks [Yandex](https://research.yandex.com)!
+* [New paper](//arxiv.org/pdf/1808.09920.pdf) on multihop question answering accepted at NAACL19
+* [Gourmet](https://gourmet-project.eu) is now live!
+* Check our [ACL18 paper](//aclweb.org/anthology/P18-1115) on latent variation in translation data ([code](//github.com/philschulz/stochastic-decoder)).
 * [Philip](//philipschulz.org) and I are going to present our [tutorial on variational inference and deep generative models](//github.com/philschulz/VITutorial) at ACL 2018! See you in Melbourne!
 * We will present our work on generative models of joint word representation and alignment at NAACL18 ([code](//github.com/uva-slpl/embedalign) and [paper](//arxiv.org/pdf/1802.05883.pdf)).
 * Check the material of our [DGM day at UvA](//uva-slpl.github.io/dgmday), a mini workshopp on variational inference and deep generative models in NLP.
