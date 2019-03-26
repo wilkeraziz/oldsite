@@ -7,7 +7,7 @@ menu: no
 [Philip Schulz](//philipschulz.org) and [I](//wilkeraziz.github.io) have designed a *tutorial on variational inference and deep generative models for NLP audiences*. All of our tutorial's material is publicly available on [github](https://github.com/philschulz/VITutorial).
 
 
-# <a name="general"> Variational Inference and Deep Generative Models
+# Variational Inference and Deep Generative Models
 
 Neural networks are taking NLP by storm. Yet they are mostly applied to fully supervised tasks. 
 Many real-world NLP problems require unsupervised or semi-supervised models, however, because annotated data is hard to obtain. 
