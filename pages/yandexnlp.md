@@ -7,7 +7,7 @@ menu: no
 
 [Philip Schulz](//philipschulz.org) and [I](//wilkeraziz.github.io) have designed a *tutorial on variational inference and deep generative models for NLP audiences*. All of our tutorial's material is publicly available on [github](https://github.com/philschulz/VITutorial).
 
-This is a custom and extended edition I am presenting at [Yandex NLP Week in Moscow](https://academy.yandex.ru/events/data_analysis/NLP_week/).
+This is an extended edition I am presenting at [Yandex NLP Week in Moscow](https://academy.yandex.ru/events/data_analysis/NLP_week/).
 
 
 # Schedule
