@@ -29,6 +29,12 @@ Check the branch `yandex2019` for all [modules](https://github.com/philschulz/VI
 
 # Advanced topics
 
+More about posterior collapse:
+
+* [Variational Lossy Autoencoder](https://arxiv.org/pdf/1611.02731.pdf)
+* [Towards a Deeper Understanding of Variational Autoencoding Models](https://arxiv.org/pdf/1702.08658.pdf) and [InfoVAE: Information Maximizing Variational Autoencoders](https://arxiv.org/pdf/1706.02262.pdf)
+* [Fixing a Broken ELBO](https://arxiv.org/pdf/1711.00464.pdf)
+
 Beyond Gaussian posterior with normalising flows:
 
 * [Variational Inference with Normalising Flows](https://arxiv.org/abs/1505.05770)
