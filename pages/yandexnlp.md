@@ -17,15 +17,47 @@ Check the branch `yandex2019` for all [modules](https://github.com/philschulz/VI
 **Day 1**
 * [Deep generative models](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M0_Intro/M0_Intro.pdf)
 * [Variational inference](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M1_Basics/M1_Basics.pdf)
-* [Discrete latent variables](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M3a_WS_NVIL/M3a_WS_NVIL.pdf)
 
 **Day 2**
-* [Continuous latent variables](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M3b_VAE/M3b_VAE.pdf)
+* [Discrete latent variables](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M3a_WS_NVIL/M3a_WS_NVIL.pdf)
 * Practice: [jupyter notebook on discrete latent variables](https://github.com/probabll/dgm4nlp/blob/master/notebooks/sst/SST.ipynb)
 
 **Day 3**
-* Advanced topics
+* [Continuous latent variables](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M3b_VAE/M3b_VAE.pdf)
 * Practice: jupyter notebook on continuous latent variables
+
+
+# Advanced topics
+
+Beyond Gaussian posterior with normalising flows:
+
+* [Variational Inference with Normalising Flows](https://arxiv.org/abs/1505.05770)
+* [Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)
+
+Beyond mean-field:
+
+* [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](https://arxiv.org/pdf/1401.4082.pdf)
+* [Sequential Neural Models with Stochastic Layers](https://arxiv.org/pdf/1605.07571.pdf)
+* [A Stochastic Decoder for Neural Machine Translation](https://aclweb.org/anthology/P18-1115)
+
+Beyond Gaussian prior:
+
+* [Automatic Differentiation Variational Inference](https://arxiv.org/pdf/1603.00788.pdf)
+
+Beyond KL divergence:
+
+* [Operator Variational Inference](https://arxiv.org/pdf/1610.09033.pdf)
+
+Beyond likelihood learning:
+
+* [Deep and Hierarchical Implicit Models](https://arxiv.org/pdf/1702.08896.pdf)
+
+Beyond baselines:
+
+* [MuProp: Unbiased Backpropagation for Stochastic Neural Networks](https://arxiv.org/abs/1511.05176)
+* [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/pdf/1703.07370.pdf)
+* [Backpropagation through the Void: Optimizing control variates for black-box gradient estimation](https://arxiv.org/pdf/1711.00123.pdf)
+
 
 # Further reading
 
