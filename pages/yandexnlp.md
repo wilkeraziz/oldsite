@@ -26,6 +26,13 @@ Check the branch `yandex2019` for all [modules](https://github.com/philschulz/VI
 * [Continuous latent variables](https://github.com/philschulz/VITutorial/blob/yandex2019/modules/M3b_VAE/M3b_VAE.pdf)
 * Practice: jupyter notebook on continuous latent variables
 
+# Advices
+
+For discrete latent variables:
+* standardise the learning signal (`log p(x|z)`): that is, use the running average baseline in combination with scaling by constant, a.k.a. "multiplicative baseline", for which you should use a running estimate of the standard deviation of the learning signal)
+* baselines should correlate well with learning sinal: try learning one via an MLP and use L2 loss for fitting its parameters
+* for discrete sequences try the baseline `log p(x|z^*)` where `z^* = \argmax_z Q(z|x)`, this usually works well because the reward at the argmax of the inference model oftentimes correlates with the reward on a sample (this is not a rule, just a heuristic that seems to hold often), and note this is a valid baseline and it involves no training (but does increase computation time and occupies more memory); I'll add a couple of links to this including in an NLP application, stay tuned.
+
 
 # Advanced topics
 
