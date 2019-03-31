@@ -94,7 +94,7 @@ Non-exhaustive list (let me know if you would like me to add a paper to this lis
 * Word representation: [Rios et al (2018)](https://doi.org/10.18653/v1/N18-1092), [Brazinskas et al (2018)](https://aclweb.org/anthology/C18-1151)
 * Morphological analysis and inflection: [Zhou et al (2017)](http://aclweb.org/anthology/P17-1029), [Wolf-Sonkin et al (2018)](https://www.aclweb.org/anthology/P18-1245)
 * Syntactic parsing: [Cheng et al (2017)](http://aclweb.org/anthology/P17-2019), [Corro and Titov (2019)](https://arxiv.org/pdf/1807.09875.pdf)
-* Semantic parsing: [(Lyu and Titov (2019)](http://www.aclweb.org/anthology/P18-1037)
+* Semantic parsing: [Yin et al (2018)](https://www.aclweb.org/anthology/P18-1070), [Lyu and Titov (2019)](http://www.aclweb.org/anthology/P18-1037)
 * Relation extraction: [Marcheggiani and Titov (2016)](http://ivan-titov.org/papers/tacl16diego.pdf)
 * Document modelling: [Miao et al (2016)](https://arxiv.org/pdf/1511.06038.pdf), [Srivastava and Sutton (2017)](https://arxiv.org/pdf/1703.01488.pdf)
 * Summarisation: [Miao and Blunsom (2016)](http://aclweb.org/anthology/D16-1031)
