@@ -99,5 +99,17 @@
         location = 	"New Orleans, Louisiana",
         url = 	"http://aclweb.org/anthology/N18-1092"
     }
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2018
+  img: aclnmt2018
+  title: "Modeling Latent Sentence Structure in Neural Machine Translation"
+  authors: "Joost Bastings, Wilker Aziz, Ivan Titov, Khalil Sima'an"
+  doc-url: //arxiv.org/pdf/1901.06436.pdf
+  arxiv: //arxiv.org/abs/1901.06436
+  booktitle: "Extended abstract at ACL's NMT workshop"
+
 
 
