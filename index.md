@@ -19,6 +19,7 @@ If you need to find me try Science Park 107 (F1.01). Here is my public calendar 
 
 ## <span style="color:darkblue">News </span>
 
+* My research group now has a [name and a page](https://probabll.github.io)!
 * Our [VITutorial is visiting Moscow](https://academy.yandex.ru/events/data_analysis/NLP_week/): here is the [material and programme](pages/yandexnlp)! Thanks [Yandex](https://research.yandex.com)!
 * [New paper](//arxiv.org/pdf/1808.09920.pdf) on multihop question answering accepted at NAACL19
 * [Gourmet](https://gourmet-project.eu) is now live!
