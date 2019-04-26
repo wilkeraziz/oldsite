@@ -15,7 +15,7 @@ Recently, I've developed quite an interest in Bayesian deep learning. In particu
 If you are looking for a project with me, you might want to start by joining one of our [reading groups](events). I've put together a list of what I think may help one navigate through [the landscape of deep generative models](pages/landscape). And finally, I've made some [technical notes](//github.com/wilkeraziz/notes/tree/master/machine-learning) available on github.
 
 
-If you need to find me try Science Park 107 (F1.01). Here is my public calendar ([html](https://webmail.uva.nl/owa/calendar/01cc2333efd245efb61b61c4d4dfec9d@uva.nl/186f107e6a9e46dfa8780523c8500aec13915216191709894801/calendar.html), [ics](https://webmail.uva.nl/owa/calendar/01cc2333efd245efb61b61c4d4dfec9d@uva.nl/186f107e6a9e46dfa8780523c8500aec13915216191709894801/calendar.ics)).
+If you need to find me try Science Park 107 (F1.01). Here is my [public calendar](events).
 
 ## <span style="color:darkblue">News </span>
 
