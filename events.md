@@ -4,7 +4,7 @@ title: Events
 menu: yes
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=c752525tganmcbvhfl1tu2b9vo%40group.calendar.google.com&amp;color=%2329527A&amp;src=5l9p71c5fd0gse4ibtrks0170k%40group.calendar.google.com&amp;color=%232952A3&amp;src=4qveld4kb4i5sa9t3ev55bmk10%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=d5etdgvg97ajfnbetjebkmbdis%40group.calendar.google.com&amp;color=%235F6B02&amp;src=aci7h1ua23taamdbat5hu73h14%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=oa6cmu8nbg8iet2j07d9tobs1c%40group.calendar.google.com&amp;color=%23711616&amp;src=iuesktj5bg3jmil7kjjtpplju4%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?showTitle=0&amp;showPrint=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;hl=en_GB&amp;bgcolor=%23FFFFFF&amp;src=ld3i6i6l47vkidf162nb95u8oo%40group.calendar.google.com&amp;color=%23853104&amp;src=n7ae5iuqjqpfc40h212k8ouib8%40group.calendar.google.com&amp;color=%238D6F47&amp;src=bata2v5fen3ep9f2kvnns6ioh8%40group.calendar.google.com&amp;color=%2329527A&amp;src=376p89h9h5c3k0pj10li8qpm1o%40group.calendar.google.com&amp;color=%235F6B02&amp;src=g83o6vkuchrpm4i2iel7ls7dag%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
 
 <br/>
 
