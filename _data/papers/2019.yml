@@ -1,5 +1,15 @@
 -
   layout: paper
+  paper-type: pre-print 
+  selected: y
+  year: 2019
+  title: Effective Estimation of Deep Generative Language Models
+  authors: Tom Pelsmaeker and Wilker Aziz
+  doc-url: https://arxiv.org/pdf/1904.08194.pdf
+  arxiv: https://arxiv.org/abs/1904.08194
+  code: https://github.com/tom-pelsmaeker/deep-generative-lm
+-
+  layout: paper
   paper-type: pre-print
   selected: y
   year: 2019
