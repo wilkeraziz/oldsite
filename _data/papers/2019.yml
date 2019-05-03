@@ -3,6 +3,7 @@
   paper-type: pre-print 
   selected: y
   year: 2019
+  img: dgmlm
   title: Effective Estimation of Deep Generative Language Models
   authors: Tom Pelsmaeker and Wilker Aziz
   doc-url: https://arxiv.org/pdf/1904.08194.pdf
