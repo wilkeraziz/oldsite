@@ -9,7 +9,7 @@ I am an *assistant professor* in computational linguistics at the [Institute for
 My interests sit at the intersection of disciplines such as formal languages, machine learning, approximate inference, global optimisation, and computational linguistics.
 
 
-Recently, I've developed quite an interest in Bayesian deep learning. In particular, I'm developing probabilistic neural network models that reason with and induce forms of discrete generalisation such as trees and graphs. 
+My current projects mostly focus on learning deep probabilistic latent variable models. I'm particularly interested in unsupervised induction of discrete generalisation such as trees and graphs. I've also been interested in making machine learning models more transparent about their inner workings.
 
 
 If you are looking for a project with me, you might want to start by joining one of our [reading groups](events). I've put together a list of what I think may help one navigate through [the landscape of deep generative models](pages/landscape). And finally, I've made some [technical notes](//github.com/wilkeraziz/notes/tree/master/machine-learning) available on github.

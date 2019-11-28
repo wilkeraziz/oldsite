@@ -7,10 +7,15 @@
 \usepackage{multirow}
 \usepackage{pbox}
 \usepackage[top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm]{geometry}
-\usepackage{titlesec}
+\usepackage[sc]{titlesec}
 \usepackage{bibtopic}
 \usepackage{hyperref}
 \usepackage{scrextend}
+
+
+\hypersetup{colorlinks,allcolors=.,urlcolor=blue,citecolor=blue}
+
+
 
 \titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
 
@@ -20,17 +25,14 @@
 
 \usepackage{xspace}
 
-\newcommand{\myname}{WILKER FERREIRA AZIZ\xspace}
+\newcommand{\myname}{Wilker Ferreira Aziz\xspace}
 \newcommand{\birthday}{13/11/1985\xspace}
 \newcommand{\location}{S\~ao Paulo, SP -- Brazil\xspace}
 \newcommand{\citizenships}{Brazilian\xspace}
-\newcommand{\contact}{Institute for Logic, Language and Computation \\
-University of Amsterdam \\
-Science Park 107, F2.11 \\
-Amsterdam, 1098 XG, Netherlands  \\
-Tel: +31 (0) 631991009 \\
-\url{w.aziz@uva.nl} \\
-\url{https://wilkeraziz.github.io} 
+\newcommand{\contact}{Institute for Logic, Language and Computation \hfill \url{w.aziz@uva.nl} \\ 
+University of Amsterdam \hfill \url{https://wilkeraziz.github.io} \\
+Science Park 107, F2.11 \hfill \url{https://probabll.github.io} \\
+Amsterdam, 1098 XG, Netherlands  \hfill Tel: +31 (0) 631991009 
 }
 % \specialcell[t]{Lucia Specia (University of Sheffield) \\ Ruslan Mitkov (University of Wolverhampton)} 
 \newcommand{\specialcell}[2][c]{%
@@ -44,34 +46,55 @@ Tel: +31 (0) 631991009 \\
 
 
 \begin{center}
-{\large \bf
+{\large \sc
 \myname \\
 }
-{\small
-\today \\
-}
+%{\small
+%\today \\
+%}
 \end{center}
 
+%Assistant Professor in Computational Linguistics --- Institute for Logic, Language, and Computation \\
 %\vspace{2mm}
-Birth: \birthday -- \location \\
+%Birth: \birthday -- \location \\
 %Citizenships: \citizenships \\
-Languages: Portuguese (native), English (fluent), Italian (intermediate), and French (basic)
-\vspace{2mm}
+%Languages: Portuguese (native), English (fluent), Italian (intermediate), and French (basic)
+%\vspace{2mm}
 
 
 \begin{addmargin}[0em]{2em}% 1em left, 2em right
 \contact
 \end{addmargin}
 
+\input{research}
+
+\input{publications}
+
 
 \input{education}
 
+
 \input{employment}
 
-\input{research}
+\input{service}
+
+\input{patents}
+
+
+
+\input{teaching}
+
+\pagebreak 
+
+\input{supervision}
 
 %\input{talks}
 
-\input{publications}
+
+
+
+\section*{Personal}
+
+I am a native Portuguese speaker who most of the time speaks English (fluent) or Italian (intermediate), and once upon a time knew some French. I play the guitar and try to keep Brazilian bossa alive, though on a very small scale. I love pets (all of them!), but I find dogs objectively superior to cats. 
 
 \end{document}
