@@ -61,3 +61,14 @@
   doc-url: https://arxiv.org/pdf/1904.08194.pdf
   arxiv: https://arxiv.org/abs/1904.08194
   code: https://github.com/tom-pelsmaeker/deep-generative-lm    
+-
+  layout: paper
+  paper-type: pre-print 
+  selected: y
+  year: 2019
+  img: morphnmt
+  title: A Latent Morphology Model for Open-Vocabulary Neural Machine Translation
+  authors: Duygu Ataman and Wilker Aziz and Alexandra Birch
+  doc-url: https://arxiv.org/pdf/1910.13890.pdf
+  arxiv: https://arxiv.org/abs/1910.13890 
+
