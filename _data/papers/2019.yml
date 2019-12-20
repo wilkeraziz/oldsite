@@ -6,7 +6,7 @@
   img: latentrationale
   title: "Interpretable Neural Predictions with Differentiable Binary Variables"
   authors: "Joost Bastings, Wilker Aziz and Ivan Titov"
-  doc-url: //arxiv.org/pdf/1905.08160.pdf
+  doc-url: //www.aclweb.org/anthology/P19-1284.pdf
   arxiv: //arxiv.org/abs/1905.08160
   slides:
   booktitle: "ACL"  
@@ -18,7 +18,7 @@
   img: visualclues
   title: "Latent Variable Model for Multi-modal Translation"
   authors: "Iacer Calixto, Miguel Rios and Wilker Aziz"
-  doc-url: //arxiv.org/pdf/1811.00357.pdf
+  doc-url: //www.aclweb.org/anthology/P19-1642.pdf
   arxiv: //arxiv.org/abs/1811.00357
   slides:
   booktitle: "ACL"
