@@ -21,7 +21,6 @@
   relation: PhD candidate (2016-2018)
   selected: y
   institution: UvA
-  img: jo
   name: Joachim Daiber
   url: http://jodaiber.de
   github: jodaiber
@@ -32,7 +31,6 @@
   relation: PhD candidate (2015-2017)
   selected: y
   institution: UvA
-  img: milos
   name: Miloš Stanojević
   url: https://staff.fnwi.uva.nl/m.stanojevic/
   github: stanojevic
@@ -43,7 +41,6 @@
   relation: PhD candidate (2014-)
   selected: n
   institution: UoS
-  img: david
   name: David Steele
   url: http://staffwww.dcs.shef.ac.uk/people/d.steele/
   github: david-steele
@@ -54,7 +51,6 @@
   relation: PhD candidate (2014-)
   selected: n
   institution: UoS
-  img: karin
   name: Karin Smith
   url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?K.Simsmith
   github: karins
