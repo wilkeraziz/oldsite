@@ -22,8 +22,7 @@
   selected: y
   institution: UvA
   img: joost
-  name: Joost Bastings
-  url: http://joost.ninja
+  name: Jasmijn Bastings
   github: bastings
   about: >
     Neural machine translation, deep linguistic analysis (e.g. syntax, semantics, coreference) for NMT.
