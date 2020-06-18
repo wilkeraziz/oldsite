@@ -1,0 +1,23 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2020
+  img: dgmlm
+  title: Effective Estimation of Deep Generative Language Models
+  authors: Tom Pelsmaeker and Wilker Aziz
+  doc-url: https://arxiv.org/pdf/1904.08194.pdf
+  arxiv: https://arxiv.org/abs/1904.08194
+  code: https://github.com/tom-pelsmaeker/deep-generative-lm    
+  booktitle: "ACL"
+-
+  layout: paper
+  paper-type: inproceedings 
+  selected: y
+  year: 2020
+  img: morphnmt
+  title: A Latent Morphology Model for Open-Vocabulary Neural Machine Translation
+  authors: Duygu Ataman and Wilker Aziz and Alexandra Birch
+  doc-url: https://arxiv.org/pdf/1910.13890.pdf
+  arxiv: https://arxiv.org/abs/1910.13890 
+  booktitle: "ICLR"

@@ -5,8 +5,13 @@
   year: 2019
   img: latentrationale
   title: "Interpretable Neural Predictions with Differentiable Binary Variables"
+<<<<<<< HEAD
   authors: "Jasmijn Bastings, Wilker Aziz and Ivan Titov"
   doc-url: //arxiv.org/pdf/1905.08160.pdf
+=======
+  authors: "Joost Bastings, Wilker Aziz and Ivan Titov"
+  doc-url: //www.aclweb.org/anthology/P19-1284.pdf
+>>>>>>> de96d05822c596d624241ad896d55a4639ab9973
   arxiv: //arxiv.org/abs/1905.08160
   slides:
   booktitle: "ACL"  
@@ -18,7 +23,7 @@
   img: visualclues
   title: "Latent Variable Model for Multi-modal Translation"
   authors: "Iacer Calixto, Miguel Rios and Wilker Aziz"
-  doc-url: //arxiv.org/pdf/1811.00357.pdf
+  doc-url: //www.aclweb.org/anthology/P19-1642.pdf
   arxiv: //arxiv.org/abs/1811.00357
   slides:
   booktitle: "ACL"
@@ -50,25 +55,3 @@
   slides:
   abstract: >
     Most research in reading comprehension has focused on answering questions based on individual documents or even single paragraphs. We introduce a neural model which integrates and reasons relying on information spread within documents and across multiple documents. We frame it as an inference problem on a graph. Mentions of entities are nodes of this graph while edges encode relations between different mentions (e.g., within- and cross-document coreference). Graph convolutional networks (GCNs) are applied to these graphs and trained to perform multi-step reasoning. Our Entity-GCN method is scalable and compact, and it achieves state-of-the-art results on a multi-document question answering dataset, WIKIHOP (Welbl et al., 2018).      
--
-  layout: paper
-  paper-type: pre-print 
-  selected: y
-  year: 2019
-  img: dgmlm
-  title: Effective Estimation of Deep Generative Language Models
-  authors: Tom Pelsmaeker and Wilker Aziz
-  doc-url: https://arxiv.org/pdf/1904.08194.pdf
-  arxiv: https://arxiv.org/abs/1904.08194
-  code: https://github.com/tom-pelsmaeker/deep-generative-lm    
--
-  layout: paper
-  paper-type: pre-print 
-  selected: y
-  year: 2019
-  img: morphnmt
-  title: A Latent Morphology Model for Open-Vocabulary Neural Machine Translation
-  authors: Duygu Ataman and Wilker Aziz and Alexandra Birch
-  doc-url: https://arxiv.org/pdf/1910.13890.pdf
-  arxiv: https://arxiv.org/abs/1910.13890 
-
