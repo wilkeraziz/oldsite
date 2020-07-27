@@ -5,8 +5,8 @@ layout: default
 
 ![wilker](/img/people/wilker4.jpg){: style="float: right; margin: 0px 20px; width: 204px; height: 362px" }
 
-I am an *assistant professor* in computational linguistics at the [Institute for Logic, Language and Computation][ILLC] working on machine learning for natural language processing. Some of the problems I've looked into are machine translation, word alignment, textual entailment, paraphrasing, and question answering. 
-My interests sit at the intersection of disciplines such as formal languages, machine learning, approximate inference, global optimisation, and computational linguistics.
+I am an *assistant professor* in computational linguistics at the [Institute for Logic, Language and Computation][ILLC] where I lead the [Probabilistic Language Learning group](https://probabll.github.io). My work mostly concerns machine learning for natural language processing and some of the problems I've looked into are machine translation, word alignment, textual entailment, text classification, and question answering. I also look into machine learning problems such as gradient estimation and density estimation.  
+My interests sit at the intersection of disciplines such as statistis, machine learning, approximate inference, global optimisation, formal languages, and computational linguistics.
 
 
 My current projects mostly focus on learning deep probabilistic latent variable models. I'm particularly interested in unsupervised induction of discrete generalisation such as trees and graphs. I've also been interested in making machine learning models more transparent about their inner workings. 
@@ -16,7 +16,6 @@ If you are looking for a project with me, you might want to start by joining one
 
 
 If you need to find me try Science Park 107 (F1.01). Here is my [public calendar](events).
-
 
 
 ## <span style="color:darkblue">News </span>
