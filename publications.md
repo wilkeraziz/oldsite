@@ -2,6 +2,7 @@
 layout: photolist
 title: Publications
 menu: yes
+redirect_to: https://probabll.github.io/papers/
 ---
 
 {% assign hashes = (site.data.papers) %}
